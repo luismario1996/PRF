@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Plataforma de Estudos - Matérias e Temas</title>
+    <title>Plataforma de Estudos - Teoria e Questões</title>
     <style>
         :root {
             --bg-color: #f4f7f6;
@@ -70,7 +70,6 @@
             border-color: var(--primary);
         }
 
-        /* Container de Temas */
         #lista-temas {
             display: flex;
             flex-direction: column;
@@ -110,6 +109,25 @@
 
         .btn-voltar:hover {
             background: #d0d0d0;
+        }
+
+        /* Estilo do Card de Teoria / Conceito */
+        .teoria-card {
+            background: #eef6ff;
+            border: 1px solid #bce8f1;
+            border-left: 5px solid var(--primary);
+            padding: 20px;
+            border-radius: 8px;
+            margin-bottom: 25px;
+            line-height: 1.6;
+        }
+
+        .teoria-card h3 {
+            margin-top: 0;
+            color: var(--primary);
+            display: flex;
+            align-items: center;
+            gap: 8px;
         }
 
         .question-card {
@@ -166,21 +184,16 @@
             color: var(--text-muted);
             font-style: italic;
         }
-
-        a { text-decoration: none;
-
-        }
     </style>
 </head>
 <body>
 
     <header>
-        <a href="index.html"><h1>Plataforma de Estudos</h1></a>
-        <p>Banco de Questões por Matéria e Temas</p>
+        <h1>Plataforma de Estudos</h1>
+        <p>Teoria e Banco de Questões por Temas</p>
     </header>
 
     <div class="container">
-        <!-- Seletor de Matérias -->
         <div class="filter-group">
             <label for="filtroMateria">Escolha a Matéria:</label>
             <select id="filtroMateria" onchange="carregarMateria()">
@@ -202,10 +215,8 @@
             </select>
         </div>
 
-        <!-- Botão para voltar aos temas -->
         <button id="btnVoltar" class="btn-voltar" onclick="voltarParaTemas()">← Voltar aos Temas</button>
 
-        <!-- Área onde aparecem os botões dos temas ou as questões -->
         <div id="painel-conteudo">
             <p class="loading">Selecione uma matéria acima para ver os temas disponíveis.</p>
         </div>
@@ -245,7 +256,7 @@
 
         function exibirTemas(dados) {
             const painel = document.getElementById('painel-conteudo');
-            painel.innerHTML = '<h3>Escolha um Tema:</h3><div id="lista-temas"></div>';
+            painel.innerHTML = '<h3>Escolha um Tema para Estudar:</h3><div id="lista-temas"></div>';
             const listaTemasDiv = document.getElementById('lista-temas');
 
             if (!dados.temas || dados.temas.length === 0) {
@@ -256,19 +267,37 @@
             dados.temas.forEach((tema, index) => {
                 const btn = document.createElement('button');
                 btn.className = 'tema-btn';
-                btn.innerHTML = `📚 ${tema.nomeTema} <span style="font-size:0.8rem; color:var(--text-muted); font-weight:normal;">(${tema.questoes.length} questões)</span>`;
-                btn.onclick = () => exibirQuestoesDoTema(index);
+                const qtdQuestoes = tema.questoes ? tema.questoes.length : 0;
+                btn.innerHTML = `📚 ${tema.nomeTema} <span style="font-size:0.8rem; color:var(--text-muted); font-weight:normal;">(${qtdQuestoes} questões)</span>`;
+                btn.onclick = () => exibirTeoriaEQuestioes(index);
                 listaTemasDiv.appendChild(btn);
             });
         }
 
-      function exibirQuestoesDoTema(indexTema) {
+        function exibirTeoriaEQuestioes(indexTema) {
             const temaObj = dadosMateriaAtual.temas[indexTema];
             const painel = document.getElementById('painel-conteudo');
             const btnVoltar = document.getElementById('btnVoltar');
 
             btnVoltar.style.display = 'block';
             painel.innerHTML = `<h2>Tema: ${temaObj.nomeTema}</h2>`;
+
+            // Exibe o card de Teoria/Conceito se ele existir no JSON
+            if (temaObj.conceito) {
+                const teoriaCard = document.createElement('div');
+                teoriaCard.className = 'teoria-card';
+                teoriaCard.innerHTML = `
+                    <h3>📖 Resumo Teórico / Conceito</h3>
+                    <div>${temaObj.conceito}</div>
+                `;
+                painel.appendChild(teoriaCard);
+            }
+
+            // Subtítulo para a seção de questões
+            const tituloQuestao = document.createElement('h3');
+            tituloQuestao.style.marginTop = '25px';
+            tituloQuestao.innerHTML = '📝 Questões de Fixação';
+            painel.appendChild(tituloQuestao);
 
             if (!temaObj.questoes || temaObj.questoes.length === 0) {
                 painel.innerHTML += '<p style="text-align: center; color: var(--text-muted);">Nenhuma questão cadastrada neste tema ainda.</p>';
@@ -277,9 +306,10 @@
 
             temaObj.questoes.forEach((q, qIndex) => {
                 let htmlAlternativas = '';
-                q.options.forEach((opt, optIndex) => {
-                    // Passamos o texto da opção selecionada para comparar com a resposta correta em formato string
-                    htmlAlternativas += `<li onclick="verificarResposta(this, '${opt.replace(/'/g, "\\'")}', '${q.correctAnswer.replace(/'/g, "\\'")}')">${opt}</li>`;
+                q.options.forEach((opt) => {
+                    const optEscapada = opt.replace(/'/g, "\\'");
+                    const corrEscapada = q.correctAnswer.replace(/'/g, "\\'");
+                    htmlAlternativas += `<li onclick="verificarResposta(this, '${optEscapada}', '${corrEscapada}')">${opt}</li>`;
                 });
 
                 const card = document.createElement('div');
@@ -305,7 +335,6 @@
             }
         }
 
-
         function verificarResposta(elemento, textoSelecionado, textoCorreto) {
             const pai = elemento.parentElement;
             const itens = pai.getElementsByTagName('li');
@@ -314,7 +343,6 @@
                 item.style.pointerEvents = 'none';
             }
 
-            // Compara o texto da opção clicada com a string correta
             if (textoSelecionado === textoCorreto) {
                 elemento.style.backgroundColor = '#d4edda';
                 elemento.style.borderColor = '#c3e6cb';
@@ -324,7 +352,6 @@
                 elemento.style.borderColor = '#f5c6cb';
                 elemento.style.color = '#721c24';
                 
-                // Encontra e destaca a alternativa correta automaticamente
                 for (let item of itens) {
                     if (item.textContent === textoCorreto) {
                         item.style.backgroundColor = '#d4edda';
