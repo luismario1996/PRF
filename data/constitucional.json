@@ -1678,6 +1678,1495 @@
       "explanation": "O princípio da inafastabilidade da jurisdição garante que nenhuma lesão ou ameaça a direito pode ser sonegada da apreciação do Poder Judiciário."
     }
   ]
+},
+
+
+{
+  "nomeTema": "Direito Constitucional - Direitos Sociais, Nacionalidade, Cidadania e Direitos Politicos",
+  "questoes": [
+    {
+      "id": 1,
+      "question": "À luz das alterações promovidas pela Emenda Constitucional nº 131/2023 no art. 12 da Constituição Federal, assinale a alternativa correta sobre a perda da nacionalidade brasileira:",
+      "options": [
+        "A) O brasileiro que adquirir voluntariamente outra nacionalidade estrangeira perde automaticamente a nacionalidade brasileira originária.",
+        "B) A mera aquisição de outra nacionalidade estrangeira não acarreta mais a perda da nacionalidade brasileira, ressalvadas as hipóteses de cancelamento judicial por fraude ou pedido expresso de renúncia sem apatridia.",
+        "C) Os brasileiros naturalizados perdem a nacionalidade se viajarem ao exterior por prazo superior a dois anos.",
+        "D) A perda da nacionalidade brasileira pode ser decretada por ato administrativo sumário do Ministério da Justiça."
+      ],
+      "correctAnswer": "B) A mera aquisição de outra nacionalidade estrangeira não acarreta mais a perda da nacionalidade brasileira, ressalvadas as hipóteses de cancelamento judicial por fraude ou pedido expresso de renúncia sem apatridia.",
+      "explanation": "A EC 131/2023 suprimiu a perda de nacionalidade pela mera aquisição voluntária de outra nacionalidade, mantendo a perda apenas por cancelamento judicial de naturalização por fraude/atentado ou pedido expresso de renúncia (desde que não gere apatridia)."
+    },
+    {
+      "id": 2,
+      "question": "Sobre os cargos privativos de brasileiros natos previstos expressamente na Constituição Federal de 1988, assinale a opção que contempla exclusivamente cargos dessa restrição:",
+      "options": [
+        "A) Ministro do STF, Governador de Estado e Deputado Federal.",
+        "B) Presidente e Vice-Presidente da República, Ministro do STF e Ministro de Estado da Defesa.",
+        "C) Senador da República, Prefeito Municipal e Procurador-Geral da República.",
+        "D) Oficial da Polícia Militar, Ministro do STJ e Deputado Distrital."
+      ],
+      "correctAnswer": "B) Presidente e Vice-Presidente da República, Ministro do STF e Ministro de Estado da Defesa.",
+      "explanation": "Dentre as opções, Presidente/Vice, Ministro do STF e Ministro da Defesa integram o rol restrito do art. 12, § 3º, privativo de brasileiros natos (regra do MPEL3SF)."
+    },
+    {
+      "id": 3,
+      "question": "No que tange aos direitos sociais previstos no art. 6º da CF/88, assinale a assertiva correta:",
+      "options": [
+        "A) O rol de direitos sociais é exaustivo e imutável por emenda constitucional.",
+        "B) A moradia, a alimentação, o transporte e a segurança integram expressamente o rol constitucional dos direitos sociais.",
+        "C) Os direitos sociais possuem eficácia absoluta imediata, sendo vedado ao Estado invocar qualquer restrição orçamentária.",
+        "D) Apenas os estrangeiros residentes possuem titularidade de direitos sociais no Brasil."
+      ],
+      "correctAnswer": "B) A moradia, a alimentação, o transporte e a segurança integram expressamente o rol constitucional dos direitos sociais.",
+      "explanation": "O art. 6º da CF/88 elenca expressamente moradia, alimentação, transporte e segurança, além de saúde, educação, trabalho, previdência, etc."
+    },
+    {
+      "id": 4,
+      "question": "São considerados inalistáveis (não podem se alistar eleitores e, portanto, não votam):",
+      "options": [
+        "A) Os analfabetos e os maiores de setenta anos.",
+        "B) Os estrangeiros e, durante o período do serviço militar obrigatório, os conscritos.",
+        "C) Os detentos provisórios sem condenação criminal definitiva.",
+        "D) Os cidadãos com direitos políticos suspensos por improbidade."
+      ],
+      "correctAnswer": "B) Os estrangeiros e, durante o período do serviço militar obrigatório, os conscritos.",
+      "explanation": "O art. 14, § 2º, da CF/88 estabelece claramente que não podem alistar-se eleitores os estrangeiros e, durante o serviço militar obrigatório, os conscritos."
+    },
+    {
+      "id": 5,
+      "question": "O alistamento eleitoral e o voto são obrigatórios para:",
+      "options": [
+        "A) Os maiores de dezoito anos.",
+        "B) Os maiores de dezesseis anos e menores de dezoito anos.",
+        "C) Os maiores de setenta anos.",
+        "D) Os analfabetos de qualquer faixa etária."
+      ],
+      "correctAnswer": "A) Os maiores de dezoito anos.",
+      "explanation": "O voto é obrigatório para os maiores de 18 anos e facultativo para analfabetos, maiores de 70 anos e maiores de 16 e menores de 18 anos."
+    },
+    {
+      "id": 6,
+      "question": "Assinale a alternativa que indica corretamente uma hipótese constitucional de suspensão dos direitos políticos (art. 15 da CF/88):",
+      "options": [
+        "A) Naturalização adquirida em país estrangeiro por motivo de casamento.",
+        "B) Condenação criminal com trânsito em julgado, enquanto durarem seus efeitos.",
+        "C) Exercício de mandato eletivo federal cumulado com cargo técnico.",
+        "D) Filiação a partido político extinto pelo TSE."
+      ],
+      "correctAnswer": "B) Condenação criminal com trânsito em julgado, enquanto durarem seus efeitos.",
+      "explanation": "O art. 15, inciso III, prevê expressamente a suspensão dos direitos políticos por condenação criminal transitada em julgado pelo tempo de duração dos efeitos."
+    },
+    {
+      "id": 7,
+      "question": "Sobre a exigência de idade mínima para elegibilidade no sistema constitucional brasileiro (art. 14, § 3º, VI, da CF/88), relacione corretamente:",
+      "options": [
+        "A) 35 anos para Deputado Federal e Senador.",
+        "B) 30 anos para Prefeito Municipal e Juiz de Paz.",
+        "C) 35 anos para Presidente, Vice-Presidente da República e Senador.",
+        "D) 21 anos para Governador e Vice-Governador de Estado."
+      ],
+      "correctAnswer": "C) 35 anos para Presidente, Vice-Presidente da República e Senador.",
+      "explanation": "As idades constitucionais são: 35 anos (Pres, Vice, Senador); 30 anos (Gov, Vice-Gov); 21 anos (Deputados, Prefeito, Juiz de Paz); 18 anos (Vereador)."
+    },
+    {
+      "id": 8,
+      "question": "No que tange à teoria da 'reserva do possível' aplicada aos direitos sociais prestacionais, o STF entende que:",
+      "options": [
+        "A) O Estado pode alegar falta de verbas genérica para eliminar totalmente qualquer política de saúde pública.",
+        "B) A alegação genérica de escassez financeira não pode ser oposta pelo Estado para afastar o cumprimento do mínimo existencial e da dignidade da pessoa humana.",
+        "C) O Poder Judiciário jamais pode determinar a entrega de medicamentos pelo SUS.",
+        "D) Os direitos sociais possuem eficácia meramente moral sem repercussão jurídica."
+      ],
+      "correctAnswer": "B) A alegação genérica de escassez financeira não pode ser oposta pelo Estado para afastar o cumprimento do mínimo existencial e da dignidade da pessoa humana.",
+      "explanation": "O STF consagra que a reserva do possível cede perante o mínimo existencial, sendo vedada a escusa financeira genérica para negar prestações de saúde essenciais."
+    },
+    {
+      "id": 9,
+      "question": "A proibição de cassação de direitos políticos (art. 15, caput, da CF/88) significa que:",
+      "options": [
+        "A) Nenhuma autoridade pode retirar definitivamente os direitos políticos de um cidadão, sendo admitidas apenas a perda e a suspensão nas hipóteses taxativas constitucionais.",
+        "B) O Congresso Nacional pode cassar mandatos por maioria absoluta em votação secreta.",
+        "C) O Presidente da República pode suspender direitos políticos por decreto de garantia da lei e da ordem.",
+        "D) Os tribunais de contas possuem competência para cassar a elegibilidade de prefeitos."
+      ],
+      "correctAnswer": "A) Nenhuma autoridade pode retirar definitiva ou arbitrariamente os direitos políticos de um cidadão, sendo admitidas apenas a perda e a suspensão nas hipóteses taxativas constitucionais.",
+      "explanation": "A Constituição veda a cassação sumária de direitos políticos, permitindo apenas a perda e a suspensão nos estritos limites do art. 15."
+    },
+    {
+      "id": 10,
+      "question": "São condições de elegibilidade, além da nacionalidade brasileira, exceto:",
+      "options": [
+        "A) O pleno exercício dos direitos políticos.",
+        "B) O alistamento eleitoral.",
+        "C) O domicílio eleitoral na circunscrição.",
+        "D) A comprovação de estabilidade financeira em contas bancárias internacionais."
+      ],
+      "correctAnswer": "D) A comprovação de estabilidade financeira em contas bancárias internacionais.",
+      "explanation": "O art. 14, § 3º, elenca as condições de elegibilidade: nacionalidade, pleno exercício dos direitos políticos, alistamento, domicílio eleitoral, filiação partidária e idade mínima. Conta bancária internacional não é exigência."
+    },
+    {
+      "id": 11,
+      "question": "Em relação à nacionalidade dos portugueses no Brasil, a Constituição Federal estabelece que:",
+      "options": [
+        "A) Os portugueses com residência permanente no país poderão adquirir os direitos de brasileiro se há reciprocidade em favor de brasileiros em Portugal (portugueses equiparados).",
+        "B) Tornam-se automaticamente brasileiros natos sem necessidade de qualquer requerimento.",
+        "C) Não possuem nenhum direito político ou civil diferenciado dos demais estrangeiros comuns.",
+        "D) Podem concorrer a qualquer cargo público privativo de brasileiro nato."
+      ],
+      "correctAnswer": "A) Os portugueses com residência permanente no país poderão adquirir os direitos de brasileiro se há reciprocidade em favor de brasileiros em Portugal (portugueses equiparados).",
+      "explanation": "O art. 12, § 1º, prevê a reciprocidade para portugueses com residência permanente (quase-nacionalidade ou equiparação)."
+    },
+    {
+      "id": 12,
+      "question": "Qual das seguintes hipóteses gera a perda de nacionalidade brasileira conforme a redação atual do art. 12, § 4º, da CF/88?",
+      "options": [
+        "A) Aquisição voluntária de outra nacionalidade em país europeu.",
+        "B) Cancelamento da naturalização por sentença judicial em virtude de fraude no processo de naturalização ou atentado contra a ordem constitucional e o Estado Democrático.",
+        "C) Exercício de cargo público remunerado em organismo internacional.",
+        "D) Residência contínua por mais de cinco anos no exterior."
+      ],
+      "correctAnswer": "B) Cancelamento da naturalização por sentença judicial em virtude de fraude no processo de naturalização ou atentado contra a ordem constitucional e o Estado Democrático.",
+      "explanation": "Após a EC 131/2023, a perda da nacionalidade ocorre por sentença judicial de fraude/atentado ou por pedido expresso de renúncia (desde que não gere apatridia)."
+    },
+    {
+      "id": 13,
+      "question": "A proibição de retrocesso social, derivada da eficácia dos direitos sociais, impede que o Estado:",
+      "options": [
+        "A) Suprima de forma arbitrária e desproporcional direitos sociais já efetivados e incorporados ao patrimônio jurídico sem a criação de uma alternativa compensatória idônea.",
+        "B) Realize concursos públicos para preenchimento de cargos na área de saúde.",
+        "C) Altere as alíquotas de impostos federais por lei ordinária.",
+        "D) Conceda reajustes salariais acima da inflação a servidores públicos."
+      ],
+      "correctAnswer": "A) Suprima de forma arbitrária e desproporcional direitos sociais já efetivados e incorporados ao patrimônio jurídico sem a criação de uma alternativa compensatória idônea.",
+      "explanation": "A vedação ao retrocesso social protege o núcleo já conquistado de direitos fundamentais contra revogações estatais arbitrárias."
+    },
+    {
+      "id": 14,
+      "question": "A inelegibilidade reflexa (ou por parentesco), prevista no art. 14, § 7º, da CF/88, atinge:",
+      "options": [
+        "A) O cônjuge e os parentes consanguíneos ou afins até o segundo grau do Presidente da República, de Governador ou de Prefeito, dentro da circunscrição do titular.",
+        "B) Apenas os irmãos e tios de parlamentares federais em todo o território nacional.",
+        "C) Qualquer amigo íntimo ou sócio comercial de ocupantes de cargos comissionados.",
+        "D) Os servidores públicos estáveis que decidirem se filiar a sindicatos."
+      ],
+      "correctAnswer": "A) O cônjuge e os parentes consanguíneos ou afins até o segundo grau do Presidente da República, de Governador ou de Prefeito, dentro da circunscrição do titular.",
+      "explanation": "O art. 14, § 7º, torna inelegíveis o cônjuge e os parentes até o 2º grau do Chefe do Executivo na circunscrição, salvo se já titular de mandato eletivo e candidato à reeleição."
+    },
+    {
+      "id": 15,
+      "question": "Sobre os direitos políticos negativos (inelegibilidades), assinale a correta:",
+      "options": [
+        "A) As inelegibilidades podem ser criadas tanto por lei complementar quanto por lei ordinária federal ou estadual.",
+        "B) A lei complementar estabelecerá outros casos de inelegibilidade e os prazos de sua cessação, a fim de proteger a probidade administrativa e a moralidade para o exercício de mandato.",
+        "C) O Congresso Nacional pode instituir inelegibilidade por simples resolução interna de maioria simples.",
+        "D) A constituição proíbe expressamente qualquer lei complementar sobre inelegibilidades."
+      ],
+      "correctAnswer": "B) A lei complementar estabelecerá outros casos de inelegibilidade e os prazos de sua cessação, a fim de proteger a probidade administrativa e a moralidade para o exercício de mandato.",
+      "explanation": "O art. 14, § 9º, da CF/88 fixa estritamente que cabe a **lei complementar** estabelecer outras hipóteses de inelegibilidade (ex: Lei da Ficha Limpa)."
+    }
+  ]
+},
+
+{
+  "nomeTema": "Direito Constitucional - Garantias Constitucionais Individuais",
+  "questoes": [
+    {
+      "id": 1,
+      "question": "Acerca da Ação Popular prevista no art. 5º, inciso LXXIII, da Constituição Federal, assinale a alternativa correta:",
+      "options": [
+        "A) Qualquer pessoa, nacional ou estrangeira, pode ajuizar ação popular para anular ato lesivo ao patrimônio público.",
+        "B) A ação popular pode ser proposta por partido político com representação parlamentar para anular atos de improbidade.",
+        "C) Qualquer cidadão é parte legítima para propor ação popular que vise a anular ato lesivo ao patrimônio público, à moralidade administrativa, ao meio ambiente e ao patrimônio histórico e cultural.",
+        "D) O autor popular responde obrigatoriamente pelas custas processuais integrais e honorários advocatícios, mesmo se vencer a demanda."
+      ],
+      "correctAnswer": "C) Qualquer cidadão é parte legítima para propor ação popular que vise a anular ato lesivo ao patrimônio público, à moralidade administrativa, ao meio ambiente e ao patrimônio histórico e cultural.",
+      "explanation": "A legitimidade ativa para a Ação Popular é exclusiva do *cidadão* (alguém no pleno gozo dos direitos políticos). O autor é isento de custas, salvo comprovada má-fé."
+    },
+    {
+      "id": 2,
+      "question": "No que tange ao Mandado de Segurança (art. 5º, LXIX, da CF/88), assinale a opção correta quanto ao seu regime jurídico:",
+      "options": [
+        "A) O mandado de segurança exige a comprovação de direito líquido e certo e submete-se a prazo decadencial de cento e vinte dias.",
+        "B) É um remédio constitucional gratuito por expressa disposição do texto permanente da Constituição.",
+        "C) Pode ser impetrado para proteger a liberdade de locomoção contra ato de coação ilegal praticado por delegado de polícia.",
+        "D) Admite dilação probatória complexa e ampla perícia técnica durante a instrução processual inicial."
+      ],
+      "correctAnswer": "A) O mandado de segurança exige a comprovação de direito líquido e certo e submete-se a prazo decadencial de cento e vinte dias.",
+      "explanation": "O MS exige direito líquido e certo (prova pré-constituída, sem dilação probatória) e prazo decadencial de 120 dias. Não é gratuito por regra constitucional."
+    },
+    {
+      "id": 3,
+      "question": "Sobre o Habeas Data (art. 5º, LXXII, da CF/88), assinale a alternativa correta:",
+      "options": [
+        "A) Destina-se a proteger a liberdade de ir e vir de investigados em inquérito policial.",
+        "B) É gratuito e serve para assegurar o conhecimento de informações relativas à pessoa do impetrante, constantes de registros ou bancos de dados públicos ou de caráter público, bem como para a retificação de dados.",
+        "C) Pode ser impetrado por associação de classe em favor de todos os seus filiados sem necessidade de autorização.",
+        "D) Não exige comprovação de recusa administrativa prévia pelo órgão detentor dos dados."
+      ],
+      "correctAnswer": "B) É gratuito e serve para assegurar o conhecimento de informações relativas à pessoa do impetrante, constantes de registros ou bancos de dados públicos ou de caráter público, bem como para a retificação de dados.",
+      "explanation": "O Habeas Data é gratuito e visa o conhecimento ou retificação de dados pessoais em bancos públicos. A Súmula 2 do STJ exige a comprovação de recusa administrativa prévia."
+    },
+    {
+      "id": 4,
+      "question": "O Mandado de Injunção (art. 5º, LXXI, da CF/88) tem como pressuposto material de cabimento:",
+      "options": [
+        "A) A existência de lei federal inconstitucional que fira direitos individuais homogêneos.",
+        "B) A falta de norma regulamentadora que torne inviável o exercício dos direitos e liberdades constitucionais e das prerrogativas inerentes à nacionalidade, à soberania e à cidadania.",
+        "C) O atraso injustificado na votação de projetos de lei ordinária pelo Senado Federal.",
+        "D) A recusa do Poder Executivo em publicar decretos regulamentares de trânsito."
+      ],
+      "correctAnswer": "B) A falta de norma regulamentadora que torne inviável o exercício dos direitos e liberdades constitucionais e das prerrogativas inerentes à nacionalidade, à soberania e à cidadania.",
+      "explanation": "O Mandado de Injunção combate a omissão legislativa parcial ou total (falta de norma regulamentadora)."
+    },
+    {
+      "id": 5,
+      "question": "Assinale a alternativa correta acerca das formalidades do Habeas Corpus:",
+      "options": [
+        "A) Exige obrigatoriamente a constituição de advogado inscrito na OAB para a sua impetração perante os tribunais superiores.",
+        "B) É gratuito e pode ser impetrado por qualquer pessoa em favor próprio ou de outrem, inclusive por analfabetos sem assistência técnica de advogado.",
+        "C) Possui prazo decadencial de sessenta dias contados da prisão em flagrante.",
+        "D) Não pode ser concedido de ofício por autoridades judiciais."
+      ],
+      "correctAnswer": "B) É gratuito e pode ser impetrado por qualquer pessoa em favor próprio ou de outrem, inclusive por analfabetos sem assistência técnica de advogado.",
+      "explanation": "O Habeas Corpus é informal, gratuito e postulação *in personam* (dispensa advogado), podendo inclusive ser concedido de ofício pelo juiz."
+    },
+    {
+      "id": 6,
+      "question": "No que tange à legitimidade ativa para a impetração de Mandado de Segurança Coletivo (art. 5º, LXX, da CF/88), podem impetrá-lo:",
+      "options": [
+        "A) Qualquer cidadão portador de título eleitoral regular.",
+        "B) Partido político com representação no Congresso Nacional, organização sindical, entidade de classe ou associação legalmente constituída e em funcionamento há pelo menos um ano.",
+        "C) Exclusivamente o Procurador-Geral da República.",
+        "D) Sociedades empresárias limitadas com fins lucrativos."
+      ],
+      "correctAnswer": "B) Partido político com representação no Congresso Nacional, organização sindical, entidade de classe ou associação legalmente constituída e em funcionamento há pelo menos um ano.",
+      "explanation": "O art. 5º, LXX, elenca taxativamente os legitimados do MS Coletivo: partido político (com representação no Congresso), sindicato, entidade de classe ou associação (1 ano de constituição)."
+    },
+    {
+      "id": 7,
+      "question": "Se um indivíduo for ameaçado de prisão ilegal por ordem arbitrária de uma autoridade administrativa fiscal, o remédio constitucional cabível para impedir a consumação do ato é o:",
+      "options": [
+        "A) Mandado de Segurança preventivo.",
+        "B) Habeas Corpus preventivo.",
+        "C) Habeas Data.",
+        "D) Mandado de Injunção."
+      ],
+      "correctAnswer": "B) Habeas Corpus preventivo.",
+      "explanation": "Sendo ameaça à liberdade de locomoção (prisão), o remédio heroico próprio é o Habeas Corpus preventivo (com expedição de salvo-conduto)."
+    },
+    {
+      "id": 8,
+      "question": "Sobre a gratuidade de justiça garantida nos remédios constitucionais, a Constituição Federal assegura gratuidade expressa para:",
+      "options": [
+        "A) O mandado de segurança e a ação popular.",
+        "B) O habeas corpus e o habeas data.",
+        "C) O mandado de injunção e a ação civil pública.",
+        "D) Todos os remédios constitucionais sem exceção."
+      ],
+      "correctAnswer": "B) O habeas corpus e o habeas data.",
+      "explanation": "O art. 5º, LXXVII, consagra expressamente que são gratuitos o *habeas corpus* e o *habeas data*."
+    },
+    {
+      "id": 9,
+      "question": "A ausência de lei regulamentadora de um direito constitucional que inviabiliza o recebimento de uma aposentadoria especial garantida pela Carta Magna autoriza o ajuizamento de:",
+      "options": [
+        "A) Mandado de Injunção.",
+        "B) Ação Popular trabalhista.",
+        "C) Habeas Corpus liberatório.",
+        "D) Mandado de Segurança contra o Presidente da República."
+      ],
+      "correctAnswer": "A) Mandado de Injunção.",
+      "explanation": "A falta de norma regulamentadora de direito constitucional é combatida via Mandado de Injunção."
+    },
+    {
+      "id": 10,
+      "question": "Assinale a alternativa incorreta no que concerne às regras do Mandado de Segurança:",
+      "options": [
+        "A) O prazo decadencial para impetração é de 120 dias.",
+        "B) O mandado de segurança coletivo substitui integralmente a tutela individual, impedindo ações plúrimas paralelas.",
+        "C) Não cabe mandado de segurança contra ato de que caiba recurso administrativo com efeito suspensivo, independentemente de caução.",
+        "D) É cabível mandado de segurança contra atos judiciais passíveis de recurso com efeito suspensivo em regra, salvo teratologia."
+      ],
+      "correctAnswer": "B) O mandado de segurança coletivo substitui integralmente a tutela individual, impedindo ações plúrimas paralelas.",
+      "explanation": "A alternativa é INCORRETA (resposta da questão) porque o MS Coletivo **não** induz litispendência nem impede o ajuizamento de ações individuais equivalentes pelos interessados."
+    },
+    {
+      "id": 11,
+      "question": "Se um cidadão pretende anular um contrato administrativo superfaturado celebrado por uma prefeitura municipal que causa prejuízo milionário aos cofres públicos, a via processual constitucional adequada é:",
+      "options": [
+        "A) Ação Popular.",
+        "B) Habeas Data.",
+        "C) Mandado de Segurança de rito sumário.",
+        "D) Recurso extraordinário perante o STJ."
+      ],
+      "correctAnswer": "A) Ação Popular.",
+      "explanation": "A anulação de ato lesivo ao patrimônio público por ilegalidade/lesividade é o objeto clássico da Ação Popular (art. 5º, LXXIII)."
+    },
+    {
+      "id": 12,
+      "question": "No que concerne ao Habeas Corpus, o STF e o STJ admitem a impetração da garantia em face de punições disciplinares militares?",
+      "options": [
+        "A) Sim, o HC é cabível para examinar a legalidade de punições disciplinares militares, sendo vedada, contudo, a rediscussão do mérito da conveniência administrativa da sanção.",
+        "B) Não, punições militares são insuscetíveis de controle judicial por força da hierarquia.",
+        "C) Apenas se houver autorização prévia do Ministro da Defesa.",
+        "D) Somente em tempo de guerra declarada."
+      ],
+      "correctAnswer": "A) Sim, o HC é cabível para examinar a legalidade de punições disciplinares militares, sendo vedada, contudo, a rediscussão do mérito da conveniência administrativa da sanção.",
+      "explanation": "O art. 5º, LXI, e a jurisprudência pacífica admitem HC para fiscalizar a legalidade formal de punições disciplinares militares (embora o mérito administrativo seja vedado)."
+    },
+    {
+      "id": 13,
+      "question": "O direito de certidão em repartições públicas para defesa de direitos e esclarecimento de situações (art. 5º, XXXIV, 'b') é garantido independentemente do pagamento de taxas. Caso o órgão público recuse a expedição injustificadamente, o remédio ou instrumento adequado para coibir a omissão é:",
+      "options": [
+        "A) Mandado de Segurança.",
+        "B) Habeas Data restrito.",
+        "C) Ação Popular tributária.",
+        "D) Mandado de Injunção genérico."
+      ],
+      "correctAnswer": "A) Mandado de Segurança.",
+      "explanation": "A recusa em fornecer certidão constitui ato ilegal de autoridade passível de correção por Mandado de Segurança."
+    },
+    {
+      "id": 14,
+      "question": "Assinale a alternativa correta quanto aos efeitos de uma decisão concessiva de Mandado de Injunção:",
+      "options": [
+        "A) A decisão possui efeitos erga omnes automáticos em todos os casos julgados pelo STF.",
+        "B) Em regra, os efeitos da decisão concessiva são inter partes, beneficiando apenas o impetrante, salvo nos casos de mandado de injunção coletivo ou modulação específica pelo STF.",
+        "C) A decisão anula o Congresso Nacional e substitui o Poder Legislativo permanentemente.",
+        "D) Tem eficácia meramente consultiva sem força executória."
+      ],
+      "correctAnswer": "B) Em regra, os efeitos da decisão concessiva são inter partes, beneficiando apenas o impetrante, salvo nos casos de mandado de injunção coletivo ou modulação específica pelo STF.",
+      "explanation": "Conforme a Lei nº 13.300/2016, a regra geral do MI individual é o efeito inter partes, podendo o STF conferir efeitos mais amplos conforme o caso."
+    },
+    {
+      "id": 15,
+      "question": "O prazo decadencial para a impetração de Mandado de Segurança individual é de:",
+      "options": [
+        "A) Trinta dias corridos.",
+        "B) Cento e vinte dias contados da ciência pelo interessado do ato impugnado.",
+        "C) Cinco anos, aplicando-se o prazo prescricional comum da Fazenda Pública.",
+        "D) Um ano a partir da publicação no Diário Oficial."
+      ],
+      "correctAnswer": "B) Cento e vinte dias contados da ciência pelo interessado do ato impugnado.",
+      "explanation": "O art. 23 da Lei do Mandado de Segurança (Lei nº 12.016/2009) fixa o prazo decadencial improrrogável de 120 dias."
+    }
+  ]
+},
+
+{
+  "nomeTema": "Direito Constitucional - Garantias dos Direitos Coletivos, Sociais e Politicos",
+  "questoes": [
+    {
+      "id": 1,
+      "question": "Acerca da Ação de Impugnação de Mandato Eletivo (AIME), prevista no art. 14, § 10, da Constituição Federal, assinale a alternativa correta:",
+      "options": [
+        "A) A AIME pode ser proposta por qualquer cidadão eleitor no prazo decadencial de trinta dias da posse.",
+        "B) A AIME tramita perante a Justiça Eleitoral e deve ser proposta no prazo decadencial de quinze dias contados da diplomação, instruída com prova de fraude, corrupção ou abuso de poder.",
+        "C) O Ministério Público não possui legitimidade para propor AIME, cabendo a titularidade exclusiva ao candidato derrotado.",
+        "D) A procedência da AIME acarreta automaticamente a posse do segundo colocado em qualquer hipótese de votação."
+      ],
+      "correctAnswer": "B) A AIME tramita perante a Justiça Eleitoral e deve ser proposta no prazo decadencial de quinze dias contados da diplomação, instruída com prova de fraude, corrupção ou abuso de poder.",
+      "explanation": "A AIME exige prazo decadencial de 15 dias da diplomação, com base em fraude, corrupção ou abuso de poder econômico/político. Legitimados incluem partidos, coligações, candidatos e MPE."
+    },
+    {
+      "id": 2,
+      "question": "No que tange aos requisitos para que uma associação civil proponha Ação Civil Pública (ACP), a Lei nº 7.347/1985 exige que a entidade esteja constituída há pelo menos:",
+      "options": [
+        "A) Três meses.",
+        "B) Seis meses.",
+        "C) Um ano, nos termos da lei civil.",
+        "D) Cinco anos ininterruptos."
+      ],
+      "correctAnswer": "C) Um ano, nos termos da lei civil.",
+      "explanation": "O art. 5º, V, da Lei da ACP exige o requisito temporal de pré-constituição por pelo menos 1 ano, salvo dispensa judicial por relevante interesse social."
+    },
+    {
+      "id": 3,
+      "question": "Sobre a legitimidade da Defensoria Pública para ajuizar Ação Civil Pública em defesa de interesses difusos e coletivos, o Supremo Tribunal Federal pacificou o entendimento de que:",
+      "options": [
+        "A) A Defensoria Pública é absolutamente incompetente para ajuizar ACP, sendo função privativa do Ministério Público.",
+        "B) A Defensoria Pública possui plena legitimidade para propor ACP na defesa de direitos difusos, coletivos e individuais homogêneos, independentemente da comprovação de hipossuficiência financeira dos beneficiários diretos.",
+        "C) A atuação da Defensoria restringe-se exclusivamente a habeas corpus individuais criminais.",
+        "D) A Defensoria depende de autorização prévia do Tribunal de Justiça para propor ações coletivas."
+      ],
+      "correctAnswer": "B) A Defensoria Pública possui plena legitimidade para propor ACP na defesa de direitos difusos, coletivos e individuais homogêneos, independentemente da comprovação de hipossuficiência financeira dos beneficiários diretos.",
+      "explanation": "O STF firmou tese de repercussão geral reconhecendo a ampla legitimidade da Defensoria Pública para ajuizar ACP em defesa de vulneráveis e interesses coletivos."
+    },
+    {
+      "id": 4,
+      "question": "A tutela coletiva dos direitos sociais e fundamentais encontra na Ação Civil Pública um mecanismo processual adequado. Assinale a alternativa incorreta sobre a ACP:",
+      "options": [
+        "A) Pode ser utilizada para proteger o patrimônio público, o meio ambiente e o consumidor.",
+        "B) O Ministério Público é legitimado obrigatório para propor ACP em qualquer hipótese, vedada a atuação de entes públicos.",
+        "C) Admite o cabimento de liminares e tutelas antecipadas para cessação de danos iminentes.",
+        "D) Produz coisa julgada erga omnes nos limites da competência territorial do órgão prolator, em regra."
+      ],
+      "correctAnswer": "B) O Ministério Público é legitimado obrigatório para propor ACP em qualquer hipótese, vedada a atuação de entes públicos.",
+      "explanation": "A alternativa é INCORRETA (resposta da questão) porque o MP não é o único legitimado exclusivo; a lei prevê rol concorrente (União, Estados, Municípios, Defensoria, autarquias, associações)."
+    },
+    {
+      "id": 5,
+      "question": "No tocante aos direitos políticos negativos e às garantias de participação democrática, o alistamento eleitoral e o voto são facultativos para:",
+      "options": [
+        "A) Os conscritos durante o serviço militar obrigatório.",
+        "B) Os estrangeiros naturalizados há menos de 5 anos.",
+        "C) Os analfabetos, os maiores de setenta anos e os maiores de dezesseis e menores de dezoito anos.",
+        "D) Os condenados criminalmente em regime aberto."
+      ],
+      "correctAnswer": "C) Os analfabetos, os maiores de setenta anos e os maiores de dezesseis e menores de dezoito anos.",
+      "explanation": "O art. 14, § 1º, II, da CF/88 elenca expressamente os eleitores com voto facultativo: analfabetos, maiores de 70 anos e maiores de 16 e menores de 18 anos."
+    },
+    {
+      "id": 6,
+      "question": "A instituição permanente, essencial à função jurisdicional do Estado, encarregada da defesa da ordem jurídica, do regime democrático e dos interesses sociais e individuais indisponíveis é o:",
+      "options": [
+        "A) Tribunal de Contas da União.",
+        "B) Ministério Público.",
+        "C) Conselho Nacional de Justiça.",
+        "D) Conselho Federal da Ordem dos Advogados do Brasil."
+      ],
+      "correctAnswer": "B) Ministério Público.",
+      "explanation": "O art. 127 da CF/88 define com exatidão o perfil constitucional do Ministério Público."
+    },
+    {
+      "id": 7,
+      "question": "Se um partido político com representação no Congresso Nacional pretende impugnar lei federal que viole preceitos fundamentais da Constituição, a garantia jurisdicional adequada no âmbito do controle concentrado é a:",
+      "options": [
+        "A) Ação Civil Pública cível.",
+        "B) Arguição de Descumprimento de Preceito Fundamental (ADPF) ou Ação Direta de Inconstitucionalidade (ADI).",
+        "C) Reclamação trabalhista coletiva.",
+        "D) Ação Popular ordinária."
+      ],
+      "correctAnswer": "B) Arguição de Descumprimento de Preceito Fundamental (ADPF) ou Ação Direta de Inconstitucionalidade (ADI).",
+      "explanation": "Partidos políticos com representação no Congresso são legitimados universais para propor ADI, ADC e ADPF perante o STF."
+    },
+    {
+      "id": 8,
+      "question": "Sobre o Mandado de Segurança Coletivo (art. 5º, LXX, da CF/88), os partidos políticos que possuem legitimidade para impetrá-lo devem satisfazer qual requisito específico?",
+      "options": [
+        "A) Possuir registro definitivo no TSE há pelo menos cinco anos.",
+        "B) Possuir representação no Congresso Nacional.",
+        "C) Contar com filiados em todos os Estados da Federação.",
+        "D) Ter aprovação prévia do Senado Federal."
+      ],
+      "correctAnswer": "B) Possuir representação no Congresso Nacional.",
+      "explanation": "Partidos políticos são legitimados para o MS Coletivo (e ADI/ADC/ADPF) desde que possuam representação no Congresso Nacional (pelo menos um parlamentar)."
+    },
+    {
+      "id": 9,
+      "question": "A garantia constitucional que veda a cassação de direitos políticos (art. 15 da CF/88) implica que:",
+      "options": [
+        "A) O Presidente da República pode suspender direitos políticos por medida provisória em caso de calamidade.",
+        "B) Nenhuma autoridade pode retirar direitos políticos de forma sumária ou arbitrária, admitindo-se apenas as hipóteses taxativas de perda ou suspensão previstas na Constituição.",
+        "C) Os tribunais de contas cassam mandatos por maioria simples.",
+        "D) Os direitos políticos são absolutos e jamais podem ser suspensos por condenação criminal."
+      ],
+      "correctAnswer": "B) Nenhuma autoridade pode retirar direitos políticos de forma sumária ou arbitrária, admitindo-se apenas as hipóteses taxativas de perda ou suspensão previstas na Constituição.",
+      "explanation": "A regra da vedação à cassação protege o cidadão, permitindo apenas perda e suspensão nas hipóteses expressas da Carta Magna."
+    },
+    {
+      "id": 10,
+      "question": "No que diz respeito à Ação Popular, a isenção de custas judiciais e ônus da sucumbência conferida ao autor popular cessa caso fique comprovado:",
+      "options": [
+        "A) Que o autor possui renda superior a dez salários mínimos.",
+        "B) Que o autor agiu de má-fé ou com intuito temerário.",
+        "C) Que o réu é um órgão da administração pública federal.",
+        "D) Que a ação foi julgada improcedente por mera insuficiência de provas técnicas."
+      ],
+      "correctAnswer": "B) Que o autor agiu de má-fé ou com intuito temerário.",
+      "explanation": "O art. 5º, LXXIII, isenta o autor popular de custas, exceto se for comprovada má-fé."
+    },
+    {
+      "id": 11,
+      "question": "A eficácia das normas definidoras de direitos sociais e garantias fundamentais é assegurada pelo mandamento de que tais normas possuem:",
+      "options": [
+        "A) Aplicação imediata, conforme o art. 5º, § 1º, da CF/88.",
+        "B) Natureza meramente programática sem qualquer vinculação judicial.",
+        "C) Eficácia contida dependente de sanção presidencial obrigatória em dez dias.",
+        "D) Validade restrita aos municípios com mais de cem mil habitantes."
+      ],
+      "correctAnswer": "A) Aplicação imediata, conforme o art. 5º, § 1º, da CF/88.",
+      "explanation": "O art. 5º, § 1º, estabelece a aplicação imediata das normas definidoras de direitos e garantias fundamentais."
+    },
+    {
+      "id": 12,
+      "question": "A proteção constitucional aos direitos coletivos e difusos por meio de ACP pode ser acionada para evitar danos ao meio ambiente. A responsabilidade civil por dano ambiental é caracterizada como:",
+      "options": [
+        "A) Subjetiva, exigindo prova de dolo ou culpa do poluidor em todos os casos.",
+        "B) Objetiva, integral e solidária, exigindo apenas a comprovação do dano e do nexo causal entre a atividade e a degradação.",
+        "C) Exclusiva do Estado, isentando empresas privadas de reparação.",
+        "D) Prescritível em três meses a contar da constatação do resíduo."
+      ],
+      "correctAnswer": "B) Objetiva, integral e solidária, exigindo apenas a comprovação do dano e do nexo causal entre a atividade e a degradação.",
+      "explanation": "A jurisprudência do STJ e STF consolida que a responsabilidade civil por dano ambiental é objetiva (teoria do risco integral) e solidária."
+    },
+    {
+      "id": 13,
+      "question": "O habeas corpus coletivo tem sido admitido pela jurisprudência do STF para proteger:",
+      "options": [
+        "A) Interesses meramente patrimoniais de empresas de transporte coletivo.",
+        "B) Grupos de pessoas que sofram ou estejam ameaçadas de sofrer coação ilegal na liberdade de locomoção por idênticos motivos.",
+        "C) Direitos autorais de compositores musicais.",
+        "D) A apuração de fraudes fiscais em corporações bancárias."
+      ],
+      "correctAnswer": "B) Grupos de pessoas que sofram ou estejam ameaçadas de sofrer coação ilegal na liberdade de locomoção por idênticos motivos.",
+      "explanation": "O HC coletivo destina-se a tutelar a liberdade de locomoção de coletividades que enfrentam coação ilegal idêntica."
+    },
+    {
+      "id": 14,
+      "question": "Assinale a alternativa correta quanto à legitimidade passiva em Mandado de Segurança:",
+      "options": [
+        "A) O mandado de segurança pode ser impetrado contra autoridades públicas e contra particulares que exerçam funções delegadas do poder público.",
+        "B) Apenas contra o Presidente da República em sessões conjuntas.",
+        "C) Exclusivamente contra empresas privadas sem fins lucrativos.",
+        "D) Contra o Poder Judiciário em atos jurisdicionais ordinários irrecorríveis."
+      ],
+      "correctAnswer": "A) O mandado de segurança pode ser impetrado contra autoridades públicas e contra particulares que exerçam funções delegadas do poder público.",
+      "explanation": "O MS cabe contra autoridade pública e contra agentes de pessoas jurídicas privadas no exercício de atribuições do poder público (ex: dirigentes de faculdades particulares)."
+    },
+    {
+      "id": 15,
+      "question": "A garantia constitucional da Ação Popular destina-se a anular ato lesivo ao patrimônio público. Qual é a consequência jurídica se a Ação Popular for julgada improcedente por carência absoluta de provas?",
+      "options": [
+        "A) O autor popular é condenado à prisão perpétua por litigância de má-fé.",
+        "B) O autor popular fica isento de ônus de sucumbência, salvo comprovada e inequívoca má-fé.",
+        "C) O Tribunal de Contas executa imediatamente os bens particulares do autor.",
+        "D) O processo é convertido em Ação Civil Pública de ofício."
+      ],
+      "correctAnswer": "B) O autor popular fica isento de ônus de sucumbência, salvo comprovada e inequívoca má-fé.",
+      "explanation": "A mera improcedência da ação popular por falta de provas não gera condenação do autor em honorários ou custas, salvo se comprovada má-fé."
+    }
+  ]
+},
+
+{
+  "nomeTema": "Direito Constitucional - Remedios Constitucionais",
+  "questoes": [
+    {
+      "id": 1,
+      "question": "No tocante às características processuais do Habeas Corpus (art. 5º, LXVIII, da CF/88), assinale a alternativa correta:",
+      "options": [
+        "A) O habeas corpus exige representação obrigatória por advogado inscrito na OAB.",
+        "B) É remédio constitucional gratuito, de rito sumaríssimo, podendo ser impetrado por qualquer pessoa em favor próprio ou alheio, sem exigência de formalidades técnicas.",
+        "C) O prazo decadencial para impetração de habeas corpus é de cento e vinte dias contados da prisão.",
+        "D) É cabível habeas corpus para trancar inquérito policial em curso por falta de justa causa, mas vedada a concessão de ofício pelo juiz."
+      ],
+      "correctAnswer": "B) É remédio constitucional gratuito, de rito sumaríssimo, podendo ser impetrado por qualquer pessoa em favor próprio ou alheio, sem exigência de formalidades técnicas.",
+      "explanation": "O HC é gratuito, dispensa advogado (*in personam*), não tem prazo decadencial e pode ser impetrado por qualquer um ou concedido de ofício."
+    },
+    {
+      "id": 2,
+      "question": "Sobre o Mandado de Segurança (art. 5º, LXIX, da CF/88), assinale a opção correta:",
+      "options": [
+        "A) O mandado de segurança é instrumento gratuito por força de norma constitucional permanente.",
+        "B) O direito amparado por mandado de segurança deve ser líquido e certo, comprovado de plano por meio de prova pré-constituída, submetendo-se ao prazo decadencial de 120 dias.",
+        "C) Admite ampla dilação probatória e realização de perícias complexas ao longo de sua instrução ordinária.",
+        "D) Pode ser impetrado por estrangeiros sem residência no Brasil para proteger direitos políticos ativos."
+      ],
+      "correctAnswer": "B) O direito amparado por mandado de segurança deve ser líquido e certo, comprovado de plano por meio de prova pré-constituída, submetendo-se ao prazo decadencial de 120 dias.",
+      "explanation": "O MS exige direito líquido e certo (prova documental pré-constituída, sem dilação probatória) e prazo decadencial de 120 dias."
+    },
+    {
+      "id": 3,
+      "question": "Assinale a alternativa que indica corretamente a exigência processual prévia para o ajuizamento de Habeas Data, conforme a jurisprudência pacificada do STJ (Súmula 2):",
+      "options": [
+        "A) Comprovação de recusa administrativa prévia por parte do órgão detentor dos dados ou escoamento injustificado do prazo legal de resposta.",
+        "B) Autorização unânime do Senado Federal.",
+        "C) Depósito prévio de caução em dinheiro correspondente a dez salários mínimos.",
+        "D) Ajuizamento anterior de ação civil pública ambiental."
+      ],
+      "correctAnswer": "A) Comprovação de recusa administrativa prévia por parte do órgão detentor dos dados ou escoamento injustificado do prazo legal de resposta.",
+      "explanation": "A Súmula 2 do STJ estabelece que a admissibilidade do habeas data pressupõe comprovação de recusa ao acesso às informações pela via administrativa."
+    },
+    {
+      "id": 4,
+      "question": "O Mandado de Injunção (art. 5º, LXXI, da CF/88) tem como finalidade constitucional combater:",
+      "options": [
+        "A) A morosidade na tramitação de projetos de lei orçamentária anual.",
+        "B) A omissão legislativa total ou parcial decorrente da falta de norma regulamentadora que inviabilize o exercício de direitos constitucionais.",
+        "C) A inconstitucionalidade material de decretos autônomos do Poder Executivo.",
+        "D) O excesso de prazos em processos criminais de competência do STF."
+      ],
+      "correctAnswer": "B) A omissão legislativa total ou parcial decorrente da falta de norma regulamentadora que inviabilize o exercício de direitos constitucionais.",
+      "explanation": "O Mandado de Injunção é o remédio contra a omissão legislativa (falta de norma regulamentadora)."
+    },
+    {
+      "id": 5,
+      "question": "No que concerne à legitimidade ativa para a propositura de Ação Popular (art. 5º, LXXIII, da CF/88), é correto afirmar que:",
+      "options": [
+        "A) Qualquer pessoa física ou jurídica estabelecida no país pode ajuizá-la.",
+        "B) Apenas o Ministério Público e a Defensoria Pública possuem legitimidade.",
+        "C) O autor da ação deve ser necessariamente cidadão, ou seja, estar no pleno gozo dos seus direitos políticos.",
+        "D) Estrangeiros residentes há mais de cinco anos podem ajuizar ação popular."
+      ],
+      "correctAnswer": "C) O autor da ação deve ser necessariamente cidadão, ou seja, estar no pleno gozo dos seus direitos políticos.",
+      "explanation": "A Ação Popular exige a condição estrita de cidadão (portador de direitos políticos ativos)."
+    },
+    {
+      "id": 6,
+      "question": "Sobre o Mandado de Segurança Coletivo, assinale a alternativa que descreve corretamente um dos legitimados constitucionais:",
+      "options": [
+        "A) Qualquer cidadão eleitor em dia com a justiça eleitoral.",
+        "B) Associação legalmente constituída e em funcionamento há pelo menos um ano.",
+        "C) O Conselho Federal da Ordem dos Advogados do Brasil, independentemente de representação congressual.",
+        "D) Sociedades empresárias de capital aberto."
+      ],
+      "correctAnswer": "B) Associação legalmente constituída e em funcionamento há pelo menos um ano.",
+      "explanation": "O art. 5º, LXX, elenca partidos políticos (com representação), sindicatos, entidades de classe e associações constituídas há pelo menos 1 ano."
+    },
+    {
+      "id": 7,
+      "question": "Se um indivíduo sofrer ameaça concreta e iminente à sua liberdade de locomoção em virtude de ordem ilegal de prisão expedida por autoridade incompetente, o remédio constitucional adequado é o:",
+      "options": [
+        "A) Habeas Corpus preventivo.",
+        "B) Mandado de Segurança repressivo.",
+        "C) Habeas Data.",
+        "D) Mandado de Injunção."
+      ],
+      "correctAnswer": "A) Habeas Corpus preventivo.",
+      "explanation": "Tratando-se de ameaça à liberdade de locomoção, o remédio heroico é o Habeas Corpus preventivo (com expedição de salvo-conduto)."
+    },
+    {
+      "id": 8,
+      "question": "A gratuidade de justiça textualmente conferida pela Constituição Federal alcança os seguintes remédios constitucionais:",
+      "options": [
+        "A) Mandado de segurança e ação popular.",
+        "B) Habeas corpus e habeas data.",
+        "C) Mandado de injunção e habeas corpus.",
+        "D) Todos os remédios constitucionais sem exceção."
+      ],
+      "correctAnswer": "B) Habeas corpus e habeas data.",
+      "explanation": "O art. 5º, LXXVII, consagra expressamente a gratuidade do *habeas corpus* e do *habeas data*."
+    },
+    {
+      "id": 9,
+      "question": "Assinale a alternativa correta quanto ao prazo decadencial para a impetração de Mandado de Segurança individual:",
+      "options": [
+        "A) Sessenta dias corridos.",
+        "B) Cento e vinte dias contados da ciência pelo interessado do ato impugnado.",
+        "C) Cinco anos da publicação em diário oficial.",
+        "D) Um ano improrrogável."
+      ],
+      "correctAnswer": "B) Cento e vinte dias contados da ciência pelo interessado do ato impugnado.",
+      "explanation": "O prazo decadencial para MS individual é de 120 dias, nos termos da Lei nº 12.016/2009."
+    },
+    {
+      "id": 10,
+      "question": "Qual das seguintes alternativas apresenta uma hipótese em que o autor de uma Ação Popular será condenado ao pagamento de ônus de sucumbência e custas processuais?",
+      "options": [
+        "A) Quando a ação for julgada improcedente por insuficiência de provas materiais.",
+        "B) Quando for comprovada má-fé ou dolo processual por parte do autor popular.",
+        "C) Quando o Ministério Público emitir parecer contrário ao pedido inicial.",
+        "D) Quando o réu for uma autarquia federal de pequeno porte."
+      ],
+      "correctAnswer": "B) Quando for comprovada má-fé ou dolo processual por parte do autor popular.",
+      "explanation": "O autor popular é isento de custas e sucumbência, exceto se comprovada má-fé (art. 5º, LXXIII)."
+    },
+    {
+      "id": 11,
+      "question": "No que tange aos efeitos das decisões concessivas de Mandado de Injunção, a Lei nº 13.300/2016 estabelece como regra geral para o MI individual:",
+      "options": [
+        "A) Efeitos gerais *erga omnes* automáticos para toda a população brasileira.",
+        "B) Efeitos restritos *inter partes*, beneficiando apenas o impetrante.",
+        "C) Extinção imediata do Congresso Nacional.",
+        "D) Revogação retroativa de leis complementares anteriores."
+      ],
+      "correctAnswer": "B) Efeitos restritos *inter partes*, beneficiando apenas o impetrante.",
+      "explanation": "A regra geral do MI individual é a eficácia *inter partes*, podendo o STF conferir efeitos mais amplos em mandados de injunção coletivos ou modulação fundamentada."
+    },
+    {
+      "id": 12,
+      "question": "O cabimento do Habeas Data restringe-se à proteção de dados e informações:",
+      "options": [
+        "A) Relativos a terceiros ou empresas multinacionais de comércio eletrônico.",
+        "B) Relativos à própria pessoa do impetrante, constantes de registros ou bancos de dados governamentais ou de caráter público.",
+        "C) De cunho estritamente político partidário mantidos por partidos políticos privados.",
+        "D) Bancários e fiscais de contribuintes inadimplentes na Receita Federal."
+      ],
+      "correctAnswer": "B) Relativos à própria pessoa do impetrante, constantes de registros ou bancos de dados governamentais ou de caráter público.",
+      "explanation": "O Habeas Data protege dados pessoais do próprio impetrante em bancos de dados públicos ou de caráter público."
+    },
+    {
+      "id": 13,
+      "question": "Se uma autoridade policial mantiver um cidadão preso ilegalmente além do prazo máximo fixado em flagrante sem comunicação ao juiz, o instrumento processual adequado para sanar a coação é o:",
+      "options": [
+        "A) Habeas corpus liberatório.",
+        "B) Mandado de segurança preventivo.",
+        "C) Habeas data retificador.",
+        "D) Mandado de injunção penal."
+      ],
+      "correctAnswer": "A) Habeas corpus liberatório.",
+      "explanation": "Prisão ilegal consumada é combatida via Habeas Corpus liberatório (repressivo)."
+    },
+    {
+      "id": 14,
+      "question": "Assinale a alternativa incorreta no que diz respeito ao Mandado de Segurança:",
+      "options": [
+        "A) Não cabe mandado de segurança contra ato de que caiba recurso administrativo com efeito suspensivo, independentemente de caução.",
+        "B) O mandado de segurança coletivo induz litispendência em relação aos mandados de segurança individuais ajuizados pelos cidadãos.",
+        "C) O prazo decadencial de 120 dias é matéria de ordem pública reconhecível de ofício.",
+        "D) É cabível MS contra atos de dirigentes de faculdades privadas em relação a recusas de expedição de diplomas acadêmicos."
+      ],
+      "correctAnswer": "B) O mandado de segurança coletivo induz litispendência em relação aos mandados de segurança individuais ajuizados pelos cidadãos.",
+      "explanation": "A alternativa é INCORRETA (resposta da questão) porque o MS Coletivo **não** induz litispendência nem prejudica o ajuizamento de ações individuais equivalentes."
+    },
+    {
+      "id": 15,
+      "question": "A garantia constitucional que visa anular ato lesivo à moralidade administrativa, ao meio ambiente e ao patrimônio histórico e cultural, proposta por cidadão, denomina-se:",
+      "options": [
+        "A) Ação Popular.",
+        "B) Ação Civil Pública.",
+        "C) Mandado de Segurança coletivo.",
+        "D) Arguição de Descumprimento de Preceito Fundamental."
+      ],
+      "correctAnswer": "A) Ação Popular.",
+      "explanation": "O conceito clássico descrito corresponde exatamente à Ação Popular (art. 5º, LXXIII)."
+    }
+  ]
+},
+
+{
+  "nomeTema": "Direito Constitucional - Poder Executivo",
+  "questoes": [
+    {
+      "id": 1,
+      "question": "Acerca das condições de elegibilidade e dos requisitos para o exercício do cargo de Presidente da República (art. 77, § 3º, da CF/88), assinale a alternativa correta:",
+      "options": [
+        "A) É exigida a idade mínima de trinta anos na data da posse.",
+        "B) O cargo é privativo de brasileiro nato, exigindo-se idade mínima de trinta e cinco anos na data da posse e pleno gozo dos direitos políticos.",
+        "C) Estrangeiros naturalizados com mais de dez anos de residência podem candidatar-se à Presidência.",
+        "D) A reeleição para o cargo de Presidente é permitida por múltiplos mandatos consecutivos sem restrição."
+      ],
+      "correctAnswer": "B) O cargo é privativo de brasileiro nato, exigindo-se idade mínima de trinta e cinco anos na data da posse e pleno gozo dos direitos políticos.",
+      "explanation": "A Presidência da República exige nacionalidade brasileira nata, idade mínima de 35 anos na posse e direitos políticos plenos. A reeleição é permitida para um único período subsequente."
+    },
+    {
+      "id": 2,
+      "question": "Dentre as atribuições privativas do Presidente da República previstas no art. 84 da CF/88, a Constituição autoriza a delegação expressa de competência aos Ministros de Estado, ao Procurador-Geral da República ou ao Advogado-Geral da União exclusivamente nos incisos:",
+      "options": [
+        "A) I, II e III (direção superior da administração federal).",
+        "B) VI, XII e XXV (organização da administração, condecorações e provimento de cargos públicos).",
+        "C) XXI, XXII e XXIII (relações internacionais e tratados).",
+        "D) IV, V e VII (sanção de leis e vetos)."
+      ],
+      "correctAnswer": "B) VI, XII e XXV (organização da administração, condecorações e provimento de cargos públicos).",
+      "explanation": "O parágrafo único do art. 84 permite expressamente a delegação das competências dos incisos VI (organização administrativa), XII (condecorações) e XXV (provimento de cargos)."
+    },
+    {
+      "id": 3,
+      "question": "No que tange à responsabilidade penal do Presidente da República por crimes comuns (art. 86 da CF/88), assinale a opção correta:",
+      "options": [
+        "A) O Presidente pode ser processado criminalmente perante o STF sem necessidade de autorização da Câmara dos Deputados.",
+        "B) A instauração de processo por crime comum exige prévia autorização de dois terços da Câmara dos Deputados e o afastamento ocorre após o recebimento da denúncia pelo STF.",
+        "C) O julgamento de crimes comuns do Presidente compete privativamente ao Senado Federal em sessão presidida pelo PGR.",
+        "D) O Presidente é absolutamente isento de qualquer responsabilidade penal durante todo o mandato, inclusive por crimes hediondos cometidos no exercício."
+      ],
+      "correctAnswer": "B) A instauração de processo por crime comum exige prévia autorização de dois terços da Câmara dos Deputados e o afastamento ocorre após o recebimento da denúncia pelo STF.",
+      "explanation": "Crimes comuns exigem licença de 2/3 da Câmara dos Deputados, julgamento no STF e afastamento automático após o *recebimento* da denúncia (máximo de 180 dias)."
+    },
+    {
+      "id": 4,
+      "question": "Sobre o julgamento do Presidente da República por crime de responsabilidade, assinale a alternativa correta:",
+      "options": [
+        "A) Compete ao Supremo Tribunal Federal processar e julgar o Presidente por crime de responsabilidade.",
+        "B) Compete ao Senado Federal processar e julgar o Presidente por crime de responsabilidade, sob a presidência do Presidente do STF.",
+        "C) A Câmara dos Deputados é o órgão competente para aplicar a pena de perda do cargo e inabilitação por 8 anos.",
+        "D) O afastamento do cargo ocorre no mesmo momento em que a denúncia é protocolada na secretaria da Câmara."
+      ],
+      "correctAnswer": "B) Compete ao Senado Federal processar e julgar o Presidente por crime de responsabilidade, sob a presidência do Presidente do STF.",
+      "explanation": "O julgamento de crime de responsabilidade cabe ao Senado Federal (presidido pelo Presidente do STF), com pena de perda do cargo e inabilitação."
+    },
+    {
+      "id": 5,
+      "question": "A imunidade penal temporária do Presidente da República (art. 86, § 4º, da CF/88) estabelece que:",
+      "options": [
+        "A) O Presidente não pode ser responsabilizado por atos estranhos ao exercício de suas funções, cometidos antes de seu mandato.",
+        "B) Todas as ações penais contra o Presidente em curso devem ser extintas com julgamento de mérito ao assumir o cargo.",
+        "C) Crimes cometidos durante o mandato prescrevem imediatamente.",
+        "D) O Presidente possui imunidade perpétua por atos praticados após o término do mandato."
+      ],
+      "correctAnswer": "A) O Presidente não pode ser responsabilizado por atos estranhos ao exercício de suas funções, cometidos antes de seu mandato.",
+      "explanation": "A irresponsabilidade penal temporária refere-se a atos anteriores ao mandato, suspendendo-se a prescrição durante o período presidencial."
+    },
+    {
+      "id": 6,
+      "question": "Se o Presidente da República pretender extinguir cargos públicos federais que se encontrem atualmente vagos, poderá fazê-lo por meio de:",
+      "options": [
+        "A) Lei complementar aprovada por maioria absoluta do Congresso Nacional.",
+        "B) Decreto autônomo expedido com base no art. 84, inciso VI, alínea 'b', da CF/88.",
+        "C) Portaria interministerial publicada pelo Ministério da Fazenda.",
+        "D) Resolução interna da Mesa do Senado."
+      ],
+      "correctAnswer": "B) Decreto autônomo expedido com base no art. 84, inciso VI, alínea 'b', da CF/88.",
+      "explanation": "A extinção de cargos públicos *vagos* insere-se na competência de decreto autônomo do Presidente (art. 84, VI, 'b')."
+    },
+    {
+      "id": 7,
+      "question": "O Vice-Presidente da República substitui o Presidente em caso de impedimento e sucede-lhe em caso de vacância. Sobre o regime do Vice-Presidente, assinale a correta:",
+      "options": [
+        "A) O Vice-Presidente não pode acumular funções ministeriais sob hipótese alguma.",
+        "B) Além de substituir e suceder o Presidente, o Vice-Presidente auxiliará o Presidente, sempre que por ele convocado para missões especiais.",
+        "C) O Vice-Presidente é eleito em chapa separada da do Presidente da República.",
+        "D) Exige-se idade mínima de quarenta anos para o cargo de Vice-Presidente."
+      ],
+      "correctAnswer": "B) Além de substituir e suceder o Presidente, o Vice-Presidente auxiliará o Presidente, sempre que por ele convocado para missões especiais.",
+      "explanation": "O art. 79 da CF/88 estabelece que o Vice substitui/sucede e auxilia o Presidente em missões especiais quando convocado."
+    },
+    {
+      "id": 8,
+      "question": "Caso ocorra a vacância dos cargos de Presidente e Vice-Presidente da República nos últimos dois anos do período presidencial, a eleição para ambos os cargos será feita:",
+      "options": [
+        "A) Diretamente pelo povo, no prazo de noventa dias após a última vaga.",
+        "B) Indiretamente, pelo Congresso Nacional, trinta dias depois de aberta a última vaga, na forma da lei.",
+        "C) Pelo Supremo Tribunal Federal em sessão administrativa extraordinária.",
+        "D) Pelos governadores de estado reunidos em colégio eleitoral."
+      ],
+      "correctAnswer": "B) Indiretamente, pelo Congresso Nacional, trinta dias depois de aberta a última vaga, na forma da lei.",
+      "explanation": "Conforme o art. 81, § 1º, se a vacância ocorrer nos últimos dois anos, a eleição é indireta (pelo Congresso Nacional em 30 dias)."
+    },
+    {
+      "id": 9,
+      "question": "Sobre os Ministros de Estado (art. 87 e 88 da CF/88), assinale a alternativa correta:",
+      "options": [
+        "A) Devem ser brasileiros natos com mais de 35 anos.",
+        "B) São escolhidos dentre brasileiros maiores de 21 anos, no exercício dos direitos políticos.",
+        "C) Possuem foro por prerrogativa de função perante os Tribunais Regionais Federais em qualquer crime.",
+        "D) Podem expedir decretos autônomos de regulação geral da economia."
+      ],
+      "correctAnswer": "B) São escolhidos dentre brasileiros maiores de 21 anos, no exercício dos direitos políticos.",
+      "explanation": "O art. 87 exige para Ministro de Estado: brasileiro maior de 21 anos e no exercício dos direitos políticos."
+    },
+    {
+      "id": 10,
+      "question": "A criação de Ministérios da Administração Federal depende normativamente de:",
+      "options": [
+        "A) Medida provisória de vigência temporária improrrogável.",
+        "B) Lei em sentido formal aprovada pelo Congresso Nacional.",
+        "C) Decreto legislativo aprovado por maioria simples.",
+        "D) Resolução conjunta das Mesas da Câmara e do Senado."
+      ],
+      "correctAnswer": "B) Lei em sentido formal aprovada pelo Congresso Nacional.",
+      "explanation": "A criação, estruturação e atribuições de Ministérios exigem lei em sentido formal (art. 88 da CF/88)."
+    },
+    {
+      "id": 11,
+      "question": "O Conselho da República e o Conselho de Defesa Nacional são órgãos superiores de consulta do Presidente da República. Sobre a composição do Conselho da República, inclui-se obrigatoriamente:",
+      "options": [
+        "A) O Presidente da Câmara dos Deputados e o Presidente do Senado Federal.",
+        "B) Todos os Ministros do Supremo Tribunal Federal.",
+        "C) Os comandantes das forças armadas e o Procurador-Geral da Justiça Militar.",
+        "D) O Presidente do Conselho Federal da OAB."
+      ],
+      "correctAnswer": "A) O Presidente da Câmara dos Deputados e o Presidente do Senado Federal.",
+      "explanation": "O art. 89 da CF/88 integra o Conselho da República com o Vice-Presidente, Presidentes da Câmara e do Senado, líderes da maioria e minoria, Ministro da Justiça e 6 cidadãos natos."
+    },
+    {
+      "id": 12,
+      "question": "No que tange aos crimes de responsabilidade, o ato do Presidente da República que atenta contra a lei orçamentária é julgado por qual órgão e sob qual rito?",
+      "options": [
+        "A) Supremo Tribunal Federal em ação penal pública.",
+        "B) Senado Federal, sob a presidência do Presidente do STF.",
+        "C) Superior Tribunal de Justiça em mandado de injunção coletivo.",
+        "D) Tribunal de Contas da União em tomada de contas especial."
+      ],
+      "correctAnswer": "B) Senado Federal, sob a presidência do Presidente do STF.",
+      "explanation": "Crimes de responsabilidade são julgados pelo Senado Federal, presidido pelo Presidente do STF."
+    },
+    {
+      "id": 13,
+      "question": "Se o Presidente da República ausentar-se do país por qualquer prazo sem licença do Congresso Nacional, incorrerá em:",
+      "options": [
+        "A) Perda imediata do cargo por abandono de função.",
+        "B) Crime de responsabilidade e perda do cargo.",
+        "C) Mera advertência administrativa registrada no Diário Oficial da União.",
+        "D) Suspensão temporária do subsídio mensal."
+      ],
+      "correctAnswer": "B) Crime de responsabilidade e perda do cargo.",
+      "explanation": "O art. 83 da CF/88 veda ao Presidente ausentar-se do país por mais de 15 dias sem licença do Congresso, sob pena de perda do cargo (crime de responsabilidade)."
+    },
+    {
+      "id": 14,
+      "question": "Assinale a alternativa correta quanto ao veto presidencial a projetos de lei aprovados pelo Congresso Nacional (art. 66 da CF/88):",
+      "options": [
+        "A) O veto pode ser total ou parcial, devendo ser comunicado ao Presidente do Senado em quarenta e oito horas.",
+        "B) O veto presidencial pode ser derrubado pelo voto da maioria absoluta dos deputados e senadores em sessão conjunta.",
+        "C) O silêncio do Presidente após o prazo de quinze dias úteis importa em sanção tácita.",
+        "D) O Presidente pode vetar projetos por razões de inconstitucionalidade, mas nunca por contrariedade ao interesse público."
+      ],
+      "correctAnswer": "C) O silêncio do Presidente após o prazo de quinze dias úteis importa em sanção tácita.",
+      "explanation": "O decurso do prazo de 15 dias úteis sem manifestação presidencial gera sanção tácita. O veto pode fundamentar-se em inconstitucionalidade ou contrariedade ao interesse público."
+    },
+    {
+      "id": 15,
+      "question": "A prerrogativa de declarar guerra e celebrar paz, independentemente de autorização prévia, pertence:",
+      "options": [
+        "A) Exclusivamente ao Ministro da Defesa.",
+        "B) Ao Presidente da República, autorizado pelo Congresso Nacional (ou sem ele em caso de agressão estrangeira repentina).",
+        "C) Ao Supremo Tribunal Federal em controle difuso.",
+        "D) Aos comandantes das Forças Armadas em ato conjunto."
+      ],
+      "correctAnswer": "B) Ao Presidente da República, autorizado pelo Congresso Nacional (ou sem ele em caso de agressão estrangeira repentina).",
+      "explanation": "O art. 84, XIX e XX, fixa a competência do Presidente para declarar guerra e paz, mediante autorização do Congresso Nacional."
+    }
+  ]
+},
+
+{
+  "nomeTema": "Direito Constitucional - Forma e Sistema de Governo",
+  "questoes": [
+    {
+      "id": 1,
+      "question": "Acerca da estrutura política e constitucional do Estado brasileiro, assinale a alternativa que indica corretamente a forma de Estado, a forma de governo e o sistema de governo adotados pela Constituição Federal de 1988:",
+      "options": [
+        "A) Estado Unitário, Monarquia Constitucional e Parlamentarismo.",
+        "B) República Federativa, República (Forma) e Presidencialismo (Sistema).",
+        "C) Federação, República e Parlamentarismo bicéfalo.",
+        "D) Confederação, Monarquia absolutista e Presidencialismo."
+      ],
+      "correctAnswer": "B) República Federativa, República (Forma) e Presidencialismo (Sistema).",
+      "explanation": "O Brasil é uma República Federativa (forma de Estado: Federação; forma de governo: República) e adota o sistema Presidencialista."
+    },
+    {
+      "id": 2,
+      "question": "O Presidencialismo, sistema de governo adotado no Brasil, caracteriza-se precipuamente por:",
+      "options": [
+        "A) Acumulação das funções de Chefe de Estado e de Chefe de Governo pelo Presidente da República, o qual não depende da confiança do Parlamento para manter-se no cargo.",
+        "B) Subordinação total do Poder Executivo às decisões vinculantes do Congresso Nacional em regime de assembleia.",
+        "C) Existência de um Primeiro-Ministro responsável perante o parlamento por moção de censura.",
+        "D) Hereditariedade do cargo máximo da administração pública federal."
+      ],
+      "correctAnswer": "A) Acumulação das funções de Chefe de Estado e de Chefe de Governo pelo Presidente da República, o qual não depende da confiança do Parlamento para manter-se no cargo.",
+      "explanation": "No presidencialismo, o Presidente é chefe de Estado e de governo, com mandato fixo e independência frente ao Legislativo (separação rígida de poderes)."
+    },
+    {
+      "id": 3,
+      "question": "Diferencie forma de governo de sistema de governo na dogmática constitucional:",
+      "options": [
+        "A) São sinônimos perfeitos utilizados indistintamente pela doutrina.",
+        "B) A forma de governo diz respeito à origem e substituição do poder (República ou Monarquia); o sistema de governo refere-se à relação entre os poderes Executivo e Legislativo (Presidencialismo ou Parlamentarismo).",
+        "C) A forma de governo trata da divisão territorial de competências; o sistema de governo trata de eleições municipais.",
+        "D) A forma de governo é cláusula pétrea imutável; o sistema de governo pode ser alterado por medida provisória."
+      ],
+      "correctAnswer": "B) A forma de governo diz respeito à origem e substituição do poder (República ou Monarquia); o sistema de governo refere-se à relação entre os poderes Executivo e Legislativo (Presidencialismo ou Parlamentarismo).",
+      "explanation": "Forma de governo = República/Monarquia. Sistema de governo = Presidencialismo/Parlamentarismo."
+    },
+    {
+      "id": 4,
+      "question": "No sistema parlamentarista de governo, uma das marcas estruturais fundamentais é:",
+      "options": [
+        "A) A vitaliciedade do Chefe de Governo.",
+        "B) A divisão do Executivo (bicéfalismo), onde o Chefe de Governo (Primeiro-Ministro) depende da confiança do Parlamento para governar.",
+        "C) A proibição absoluta de dissolução do Parlamento pelo Chefe de Estado.",
+        "D) A unificação total entre as funções judiciais e legislativas."
+      ],
+      "correctAnswer": "B) A divisão do Executivo (bicéfalismo), onde o Chefe de Governo (Primeiro-Ministro) depende da confiança do Parlamento para governar.",
+      "explanation": "O parlamentarismo possui chefe de governo dependente da confiança parlamentar e chefe de estado cerimonial."
+    },
+    {
+      "id": 5,
+      "question": "A República, adotada como forma de governo no Brasil, tem como características essenciais:",
+      "options": [
+        "A) Hereditariedade, irresponsabilidade política do governante e vitaliciedade.",
+        "B) Eletividade dos governantes, temporariedade dos mandatos e responsabilidade político-administrativa dos agentes públicos.",
+        "C) Centralização administrativa absoluta na figura do monarca.",
+        "D) Proibição de sufrágio universal."
+      ],
+      "correctAnswer": "B) Eletividade dos governantes, temporariedade dos mandatos e responsabilidade político-administrativa dos agentes públicos.",
+      "explanation": "A república opõe-se à monarquia por prever eleição, mandatos temporários e responsabilidade dos governantes."
+    },
+    {
+      "id": 6,
+      "question": "O plebiscito previsto no art. 2º do ADCT da Constituição Federal de 1988 teve por finalidade submeter à consulta popular a escolha sobre:",
+      "options": [
+        "A) A pena de morte e o aborto legal.",
+        "B) A forma (República ou Monarquia) e o sistema de governo (Parlamentarismo ou Presidencialismo).",
+        "C) A privatização de estatais de energia elétrica.",
+        "D) A criação de novos estados na região amazônica."
+      ],
+      "correctAnswer": "B) A forma (República ou Monarquia) e o sistema de governo (Parlamentarismo ou Presidencialismo).",
+      "explanation": "O plebiscito de 1993 definiu o modelo republicano e presidencialista em definitivo."
+    },
+    {
+      "id": 7,
+      "question": "Sobre a forma federativa de Estado adotada pelo Brasil, assinale a opção correta:",
+      "options": [
+        "A) É passível de abolição por emenda constitucional aprovada por unanimidade parlamentar.",
+        "B) Configura cláusula pétrea expressa (art. 60, § 4º, I, da CF/88), sendo vedada deliberação tendente a aboli-la.",
+        "C) Confunde-se com o Estado Unitário centralizado.",
+        "D) Atribui aos municípios soberania internacional idêntica à da União."
+      ],
+      "correctAnswer": "B) Configura cláusula pétrea expressa (art. 60, § 4º, I, da CF/88), sendo vedada deliberação tendente a aboli-la.",
+      "explanation": "A federação é cláusula pétrea expressa no art. 60, § 4º, I."
+    },
+    {
+      "id": 8,
+      "question": "Diferencie Federação de Estado Unitário:",
+      "options": [
+        "A) No Estado Unitário há descentralização política com autonomias locais plenas; na Federação o poder é concentrado em uma única capital.",
+        "B) Na Federação há repartição constitucional de competências entre entes autônomos (União, Estados, DF, Municípios); no Estado Unitário o poder político concentra-se no governo central.",
+        "C) São nomenclaturas idênticas para a mesma realidade administrativa.",
+        "D) Estados unitários não possuem leis próprias."
+      ],
+      "correctAnswer": "B) Na Federação há repartição constitucional de competências entre entes autônomos (União, Estados, DF, Municípios); no Estado Unitário o poder político concentra-se no governo central.",
+      "explanation": "A federação descentraliza o poder politicamente via autonomia dos entes federados; o estado unitário centraliza na capital."
+    },
+    {
+      "id": 9,
+      "question": "Em relação à responsabilidade política no presidencialismo, é correto afirmar que:",
+      "options": [
+        "A) O Presidente pode ser derrubado por moção de censura do Congresso a qualquer momento por divergência política ordinária.",
+        "B) O Presidente possui mandato fixo e não cai por mera insatisfação política do parlamento, respondendo apenas por crimes comuns ou de responsabilidade nos termos da lei.",
+        "C) Os Ministros de Estado respondem perante o congresso por voto de desconfiança coletivo.",
+        "D) O chefe de governo é substituído anualmente por rodízio partidário."
+      ],
+      "correctAnswer": "B) O Presidente possui mandato fixo e não cai por mera insatisfação política do parlamento, respondendo apenas por crimes comuns ou de responsabilidade nos termos da lei.",
+      "explanation": "No presidencialismo, o mandato é fixo; a queda do presidente ocorre apenas via impeachment (crime de responsabilidade) ou julgamento por crime comum."
+    },
+    {
+      "id": 10,
+      "question": "A separação de poderes no sistema presidencialista é classificada dogmaticamente como:",
+      "options": [
+        "A) Flexível, com forte interpenetração entre legislativo e executivo.",
+        "B) Rígida, com independência orgânica e funções precípuas demarcadas para cada Poder, embora haja freios e contrapesos.",
+        "C) Inexistente, concentrando tudo no poder judiciário.",
+        "D) Temporária, cessando em períodos de normalidade institucional."
+      ],
+      "correctAnswer": "B) Rígida, com independência orgânica e funções precípuas demarcadas para cada Poder, embora haja freios e contrapesos.",
+      "explanation": "O presidencialismo adota separação rígida de poderes, temperada pelo sistema de freios e contrapesos (*checks and balances*)."
+    },
+    {
+      "id": 11,
+      "question": "Se um Estado adota um Chefe de Estado hereditário (Rei ou Rainha) sem poderes efetivos de governo, exercendo apenas representação diplomática, enquanto o poder executivo real é exercido por um gabinete parlamentar, a forma e o sistema de governo são, respectivamente:",
+      "options": [
+        "A) República e Presidencialismo.",
+        "B) Monarquia e Parlamentarismo.",
+        "C) Federação e Totalitarismo.",
+        "D) Estado Unitário e Presidencialismo."
+      ],
+      "correctAnswer": "B) Monarquia e Parlamentarismo.",
+      "explanation": "Chefe de estado hereditário = Monarquia. Governo por gabinete e parlamento = Parlamentarismo."
+    },
+    {
+      "id": 12,
+      "question": "Assinale a alternativa correta quanto à possibilidade de alteração da forma republicana de governo no Brasil atual:",
+      "options": [
+        "A) Pode ser alterada por projeto de lei ordinária aprovado por maioria simples.",
+        "B) É inalterável por via de reforma constitucional, por constituir limite material expresso (cláusula pétrea — art. 60, § 4º).",
+        "C) Pode ser modificada por decreto autônomo do Presidente da República.",
+        "D) Depende exclusivamente de votação no Tribunal Superior Eleitoral."
+      ],
+      "correctAnswer": "B) É inalterável por via de reforma constitucional, por constituir limite material expresso (cláusula pétrea — art. 60, § 4º).",
+      "explanation": "A forma republicana é cláusula pétrea expressa (art. 60, § 4º, VI / implícita no espírito republicano e federativo)."
+    },
+    {
+      "id": 13,
+      "question": "O princípio republicano, adotado expressamente no art. 1º da CF/88, impõe como corolário jurídico:",
+      "options": [
+        "A) A igualdade substancial, a prestação de contas dos administradores públicos e a proibição de privilégios odiosos.",
+        "B) A concentração de poderes nas mãos de um ditador temporário.",
+        "C) A gratuidade absoluta de todos os serviços públicos comerciais.",
+        "D) A extinção de todas as instâncias de controle judicial."
+      ],
+      "correctAnswer": "A) A igualdade substancial, a prestação de contas dos administradores públicos e a proibição de privilégios odiosos.",
+      "explanation": "O princípio republicano exige accountability (prestação de contas), impessoalidade e isonomia."
+    },
+    {
+      "id": 14,
+      "question": "No parlamentarismo, a figura do Chefe de Estado (que pode ser um Monarca ou um Presidente da República eleito sem poderes executivos diretos) exerce primordialmente funções:",
+      "options": [
+        "A) De comando das forças armadas em guerra e direção da política econômica diária.",
+        "B) Moderadoras, reprezentativas, diplomáticas e de nomeação formal do Primeiro-Ministro indicado pelo parlamento.",
+        "C) Legislativas privativas em substituição ao congresso.",
+        "D) Administrativas de arrecadação de tributos federais."
+      ],
+      "correctAnswer": "B) Moderadoras, reprezentativas, diplomáticas e de nomeação formal do Primeiro-Ministro indicado pelo parlamento.",
+      "explanation": "No parlamentarismo bicéfalo, o Chefe de Estado é figura de representação e moderação, enquanto o Chefe de Governo comanda a administração."
+    },
+    {
+      "id": 15,
+      "question": "Assinale a alternativa que apresenta corretamente a combinação institucional do Estado brasileiro atual:",
+      "options": [
+        "A) Forma de Estado: Unitário / Forma de Governo: Monarquia / Sistema: Parlamentarismo.",
+        "B) Forma de Estado: Federação / Forma de Governo: República / Sistema de Governo: Presidencialismo.",
+        "C) Forma de Estado: Federação / Forma de Governo: Ditadura / Sistema: Presidencialismo.",
+        "D) Forma de Estado: Confederação / Forma de Governo: República / Sistema: Parlamentarismo."
+      ],
+      "correctAnswer": "B) Forma de Estado: Federação / Forma de Governo: República / Sistema de Governo: Presidencialismo.",
+      "explanation": "Tríade constitucional brasileira exata: Federação (Forma de Estado), República (Forma de Governo), Presidencialismo (Sistema de Governo)."
+    }
+  ]
+},
+
+{
+  "nomeTema": "Direito Constitucional - Chefia de Estado e Chefia de Governo",
+  "questoes": [
+    {
+      "id": 1,
+      "question": "No sistema presidencialista adotado pela Constituição Federal de 1988, as funções de Chefe de Estado e de Chefe de Governo são:",
+      "options": [
+        "A) Exercidas de forma separada por dois órgãos distintos, sendo o Presidente Chefe de Estado e o Primeiro-Ministro Chefe de Governo.",
+        "B) Acumuladas integralmente na figura do Presidente da República.",
+        "C) Atribuídas exclusivamente ao Congresso Nacional em regime de assembleia.",
+        "D) Divididas paritariamente entre os Ministros do Supremo Tribunal Federal."
+      ],
+      "correctAnswer": "B) Acumuladas integralmente na figura do Presidente da República.",
+      "explanation": "No presidencialismo brasileiro, o Presidente da República acumula as funções de Chefe de Estado e Chefe de Governo."
+    },
+    {
+      "id": 2,
+      "question": "Assinale a alternativa que apresenta corretamente uma atribuição privativa do Presidente da República exercida precipuamente na qualidade de Chefe de Estado:",
+      "options": [
+        "A) Exercer a direção superior da administração federal.",
+        "B) Manter relações com Estados estrangeiros e celebrar tratados internacionais.",
+        "C) Apresentar o projeto de lei orçamentária anual ao Congresso.",
+        "D) Nomear diretores de agências reguladoras federais."
+      ],
+      "correctAnswer": "B) Manter relações com Estados estrangeiros e celebrar tratados internacionais.",
+      "explanation": "A condução da política externa, relações diplomáticas e celebração de tratados (art. 84, VII e VIII) são marcas clássicas da Chefia de Estado."
+    },
+    {
+      "id": 3,
+      "question": "Dentre as competências do art. 84 da CF/88, qual delas caracteriza o exercício típico da Chefia de Governo (administração e gestão interna)?",
+      "options": [
+        "A) Declarar guerra, autorizado pelo Congresso Nacional.",
+        "B) Expedir decretos e regulamentos para a fiel execução das leis.",
+        "C) Acreditar chefes de missões diplomáticas estrangeiras.",
+        "D) Conceder indulto e comutar penas."
+      ],
+      "correctAnswer": "B) Expedir decretos e regulamentos para a fiel execução das leis.",
+      "explanation": "A expedição de regulamentos para executar as leis (poder regulamentar) é inerente à gestão da administração pública (Chefia de Governo)."
+    },
+    {
+      "id": 4,
+      "question": "A diferença dogmática estrutural entre Chefia de Estado e Chefia de Governo reside no fato de que:",
+      "options": [
+        "A) A Chefia de Estado cuida da representação soberana e da unidade da Nação; a Chefia de Governo cuida da administração política diária e da gestão do Estado.",
+        "B) A Chefia de Estado é exercida pelo Senado; a Chefia de Governo é exercida pelo STF.",
+        "C) O Chefe de Estado possui imunidade absoluta; o Chefe de Governo não possui prerrogativa de foro.",
+        "D) São expressões sinônimas sem qualquer distinção na teoria política moderna."
+      ],
+      "correctAnswer": "A) A Chefia de Estado cuida da representação soberana e da unidade da Nação; a Chefia de Governo cuida da administração política diária e da gestão do Estado.",
+      "explanation": "Chefe de Estado simboliza a nação e a diplomacia; Chefe de Governo comanda a gestão interna e a administração."
+    },
+    {
+      "id": 5,
+      "question": "No parlamentarismo bicéfalo clássico, como o encontrado em diversos países europeus, a divisão institucional ocorre de modo que:",
+      "options": [
+        "A) O Chefe de Estado acumula também todas as funções de Primeiro-Ministro.",
+        "B) O Chefe de Estado (Monarca ou Presidente) exerce funções simbólicas/representativas, enquanto o Chefe de Governo (Primeiro-Ministro) comanda o executivo com apoio do parlamento.",
+        "C) O Poder Judiciário assume a chefia de governo.",
+        "D) Não existe distinção entre as funções."
+      ],
+      "correctAnswer": "B) O Chefe de Estado (Monarca ou Presidente) exerce funções simbólicas/representativas, enquanto o Chefe de Governo (Primeiro-Ministro) comanda o executivo com apoio do parlamento.",
+      "explanation": "No parlamentarismo bicéfalo, há separação entre o Chefe de Estado (cerimonial) e o Chefe de Governo (executivo real)."
+    },
+    {
+      "id": 6,
+      "question": "Assinale a alternativa que indica uma competência presidencial de natureza eminentemente de Chefe de Estado:",
+      "options": [
+        "A) Sancionar, promulgar e fazer publicar leis.",
+        "B) Decretar estado de defesa ou estado de sítio.",
+        "C) Celebrar tratados, convenções e atos internacionais.",
+        "D) Vetar projetos de lei por contrariedade ao interesse público."
+      ],
+      "correctAnswer": "C) Celebrar tratados, convenções e atos internacionais.",
+      "explanation": "A celebração de atos internacionais insere-se diretamente na representação internacional do Estado (Chefia de Estado)."
+    },
+    {
+      "id": 7,
+      "question": "A concessão de indulto (perdão de pena) pelo Presidente da República constitui ato privativo praticado na qualidade de:",
+      "options": [
+        "A) Chefe de Estado (prerrogativa de clemência soberana ligada à soberania da jurisdição nacional).",
+        "B) Chefe de Governo em gestão orçamentária.",
+        "C) Ministro da Justiça delegado.",
+        "D) Presidente do Congresso Nacional."
+      ],
+      "correctAnswer": "A) Chefe de Estado (prerrogativa de clemência soberana ligada à soberania da jurisdição nacional).",
+      "explanation": "O indulto (art. 84, XII) é tradicionalmente classificado pela doutrina como ato de Chefe de Estado (direito de clemência soberana)."
+    },
+    {
+      "id": 8,
+      "question": "No exercício da Chefia de Governo, o Presidente da República edita decretos autônomos para a organização da administração federal. Tais atos:",
+      "options": [
+        "A) Podem criar novos tributos federais livremente.",
+        "B) Encontram limite na vedação de aumento de despesa e na criação ou extinção de órgãos que exijam lei formal.",
+        "C) Precisam de autorização prévia do STF.",
+        "D) Subordinam-se ao veto dos governadores."
+      ],
+      "correctAnswer": "B) Encontram limite na vedação de aumento de despesa e na criação ou extinção de órgãos que exijam lei formal.",
+      "explanation": "O art. 84, VI, 'a', permite decretos sobre organização desde que não haja aumento de despesa nem criação/extinção de órgãos previstos em lei."
+    },
+    {
+      "id": 9,
+      "question": "A nomeação dos Ministros de Estado pelo Presidente da República constitui ato típico de:",
+      "options": [
+        "A) Chefe de Governo, pois compõe a articulação política e a equipe de gestão administrativa do Executivo.",
+        "B) Chefe de Estado em missão diplomática.",
+        "C) Poder Judiciário em investidura originária.",
+        "D) Competência exclusiva do Senado Federal."
+      ],
+      "correctAnswer": "A) Chefe de Governo, pois compõe a articulação política e a equipe de gestão administrativa do Executivo.",
+      "explanation": "A escolha de auxiliares de ministérios refere-se à montagem da equipe de gestão (Chefia de Governo)."
+    },
+    {
+      "id": 10,
+      "question": "Se um Estado adota o sistema presidencialista, é correto afirmar que:",
+      "options": [
+        "A) As funções de Chefe de Estado e de Chefe de Governo concentram-se em uma única pessoa (o Presidente).",
+        "B) O Chefe de Governo é demissível a qualquer momento por voto de desconfiança do Parlamento.",
+        "C) O Presidente não pode comandar as forças armadas.",
+        "D) O Chefe de Estado é obrigatoriamente um monarca hereditário."
+      ],
+      "correctAnswer": "A) As funções de Chefe de Estado e de Chefe de Governo concentram-se em uma única pessoa (o Presidente).",
+      "explanation": "No presidencialismo, há concentração das duas chefias no Presidente da República."
+    },
+    {
+      "id": 11,
+      "question": "Assinale a alternativa correta quanto à condução das negociações internacionais pelo Brasil:",
+      "options": [
+        "A) O Presidente negocia e celebra o tratado como Chefe de Estado, mas o texto definitivo precisa da aprovação do Congresso Nacional para gerar efeitos internos.",
+        "B) O Congresso Nacional negocia diretamente com chefes de estado estrangeiros sem intermediação do executivo.",
+        "C) O Supremo Tribunal Federal possui competência exclusiva para assinar tratados de extradição.",
+        "D) Os Ministros de Estado podem declarar guerra autônoma."
+      ],
+      "correctAnswer": "A) O Presidente negocia e celebra o tratado como Chefe de Estado, mas o texto definitivo precisa da aprovação do Congresso Nacional para gerar efeitos internos.",
+      "explanation": "O Presidente assina (Chefe de Estado), mas o Congresso aprova via decreto legislativo (art. 49, I)."
+    },
+    {
+      "id": 12,
+      "question": "A apresentação do projeto de Lei Orçamentária Anual (LOA) pelo Presidente da República ao Congresso Nacional reflete a atuação presidencial como:",
+      "options": [
+        "A) Chefe de Governo, encarregado da gestão fiscal, planejamento e administração financeira do Estado.",
+        "B) Chefe de Estado em representação diplomática.",
+        "C) Chefe do Poder Judiciário em orçamento de tribunais.",
+        "D) Presidente do Senado Federal."
+      ],
+      "correctAnswer": "A) Chefe de Governo, encarregado da gestão fiscal, planejamento e administração financeira do Estado.",
+      "explanation": "O orçamento e a gestão fiscal pública constituem atos essenciais da Chefia de Governo."
+    },
+    {
+      "id": 13,
+      "question": "Em qual das seguintes hipóteses o Presidente da República atua precipuamente como Chefe de Estado?",
+      "options": [
+        "A) Sancionando projeto de lei aprovado pelo Congresso.",
+        "B) Recebendo cartas credenciais de embaixadores estrangeiros acreditados no Brasil.",
+        "C) Demitindo um Ministro de Estado por divergência programática.",
+        "D) Editando medida provisória em matéria de crédito extraordinário."
+      ],
+      "correctAnswer": "B) Recebendo cartas credenciais de embaixadores estrangeiros acreditados no Brasil.",
+      "explanation": "O recebimento de embaixadores estrangeiros (art. 84, VII) é ato protocolar e diplomático clássico de Chefe de Estado."
+    },
+    {
+      "id": 14,
+      "question": "O comando supremo das Forças Armadas (Exército, Marinha e Aeronáutica) conferido ao Presidente da República (art. 84, XIII) engloba:",
+      "options": [
+        "A) Atribuições mistas de Chefe de Estado (defesa da soberania e integridade territorial frente a ameaças externas) e de Chefe de Governo (gestão e estruturação dos quartéis e tropas).",
+        "B) Exclusivamente tarefas cerimoniais de desfiles de Sete de Setembro.",
+        "C) Competência privativa dos comandantes militares sem intervenção civil.",
+        "D) Atuação vinculada às ordens da Organização das Nações Unidas."
+      ],
+      "correctAnswer": "A) Atribuições mistas de Chefe de Estado (defesa da soberania e integridade territorial frente a ameaças externas) e de Chefe de Governo (gestão e estruturação dos quartéis e tropas).",
+      "explanation": "O comando militar possui natureza dual: soberania externa (Estado) e administração interna das Forças (Governo)."
+    },
+    {
+      "id": 15,
+      "question": "Assinale a opção incorreta no tocante às prerrogativas do Presidente da República na ordem constitucional brasileira:",
+      "options": [
+        "A) O Presidente acumula as funções de Chefe de Estado e de Chefe de Governo.",
+        "B) Todas as atribuições presidenciais do art. 84 podem ser delegadas integralmente aos Ministros de Estado sem restrição.",
+        "C) O Presidente pode vetar projetos de lei por inconstitucionalidade ou contrariedade ao interesse público.",
+        "D) O Presidente pode decretar estado de defesa, estado de sítio e intervenção federal nos limites constitucionais."
+      ],
+      "correctAnswer": "B) Todas as atribuições presidenciais do art. 84 podem ser delegadas integralmente aos Ministros de Estado sem restrição.",
+      "explanation": "A alternativa é INCORRETA (resposta da questão) porque o parágrafo único do art. 84 **veda** a delegação irrestrita, permitindo-a apenas nos incisos **VI, XII e XXV**."
+    }
+  ]
+},
+
+{
+  "nomeTema": "Direito Constitucional - Atribuicoes e Responsabilidades do Presidente da Republica",
+  "questoes": [
+    {
+      "id": 1,
+      "question": "Acerca das atribuições privativas do Presidente da República e da possibilidade de sua delegação (art. 84, parágrafo único, da CF/88), assinale a alternativa correta:",
+      "options": [
+        "A) O Presidente pode delegar a competência para vetar projetos de lei aos Ministros de Estado.",
+        "B) O Presidente pode delegar as atribuições relativas à organização da administração federal (VI), à concessão de condecorações (XII) e ao provimento de cargos públicos (XXV) aos Ministros de Estado, ao PGR ou ao AGU.",
+        "C) O Presidente pode delegar a competência privativa de decretar estado de sítio ao Ministro da Defesa.",
+        "D) Todas as competências do art. 84 são absolutamente indelegáveis sob qualquer hipótese."
+      ],
+      "correctAnswer": "B) O Presidente pode delegar as atribuições relativas à organização da administração federal (VI), à concessão de condecorações (XII) e ao provimento de cargos públicos (XXV) aos Ministros de Estado, ao PGR ou ao AGU.",
+      "explanation": "O parágrafo único do art. 84 restringe expressamente a delegação presidencial aos incisos VI, XII e XXV, contemplando Ministros, PGR ou AGU."
+    },
+    {
+      "id": 2,
+      "question": "No que tange à responsabilidade penal do Presidente da República por crimes comuns (art. 86 da CF/88), o afastamento do cargo ocorre:",
+      "options": [
+        "A) Imediatamente após o oferecimento da denúncia pelo Procurador-Geral da República.",
+        "B) Após o recebimento da denúncia ou queixa pelo Supremo Tribunal Federal, pelo prazo máximo de cento e oitenta dias.",
+        "C) Somente após a condenação penal definitiva transitada em julgado.",
+        "D) Por decisão monocrática de qualquer juiz federal de primeira instância."
+      ],
+      "correctAnswer": "B) Após o recebimento da denúncia ou queixa pelo Supremo Tribunal Federal, pelo prazo máximo de cento e oitenta dias.",
+      "explanation": "O afastamento por crime comum exige autorização da Câmara (2/3), recebimento pelo STF e dura no máximo 180 dias."
+    },
+    {
+      "id": 3,
+      "question": "Sobre os crimes de responsabilidade cometidos pelo Presidente da República, o julgamento compete privativamente a:",
+      "options": [
+        "A) O Supremo Tribunal Federal em sessão plenária.",
+        "B) O Senado Federal, sob a presidência do Presidente do STF.",
+        "C) O Tribunal de Contas da União.",
+        "D) Uma comissão mista formada exclusivamente por delegados da Polícia Federal."
+      ],
+      "correctAnswer": "B) O Senado Federal, sob a presidência do Presidente do STF.",
+      "explanation": "O julgamento de crimes de responsabilidade do Presidente é competência do Senado Federal, presidido pelo Chefe do STF."
+    },
+    {
+      "id": 4,
+      "question": "A imunidade penal temporária do Presidente da República (art. 86, § 4º, da CF/88) determina que:",
+      "options": [
+        "A) O Presidente não pode ser responsabilizado, durante a vigência do mandato, por atos estranhos ao exercício de suas funções.",
+        "B) O Presidente possui imunidade perpétua por qualquer crime cometido antes ou depois do mandato.",
+        "C) As ações penais em curso contra o Presidente são extintas de plano sem julgamento de mérito.",
+        "D) A prescrição dos crimes anteriores ao mandato fica interrompida definitivamente."
+      ],
+      "correctAnswer": "A) O Presidente não pode ser responsabilizado, durante a vigência do mandato, por atos estranhos ao exercício de suas funções.",
+      "explanation": "A imunidade é temporária (enquanto durar o mandato) e restrita a atos estranhos ao exercício (anteriores), suspendendo-se a prescrição."
+    },
+    {
+      "id": 5,
+      "question": "Assinale a alternativa correta quanto ao quórum exigido na Câmara dos Deputados para autorizar a instauração de processo por crime comum contra o Presidente da República:",
+      "options": [
+        "A) Maioria simples (maioria dos presentes).",
+        "B) Maioria absoluta (maioria de todos os membros).",
+        "C) Dois terços dos membros da Câmara dos Deputados.",
+        "D) Três quintos em dois turnos."
+      ],
+      "correctAnswer": "C) Dois terços dos membros da Câmara dos Deputados.",
+      "explanation": "Ttanto para crime comum quanto para crime de responsabilidade, a admissibilidade na Câmara exige o quórum qualificado de 2/3."
+    },
+    {
+      "id": 6,
+      "question": "Se o Presidente da República pretender expedir decretos autônomos para organizar a administração federal, poderá fazê-lo desde que:",
+      "options": [
+        "A) Impliquem aumento de despesa pública imediata.",
+        "B) Não impliquem aumento de despesa nem criação ou extinção de órgãos públicos que exijam lei formal.",
+        "C) Tenham prévia autorização do Tribunal de Contas da União.",
+        "D) Sejam submetidos a referendo popular obrigatório em noventa dias."
+      ],
+      "correctAnswer": "B) Não impliquem aumento de despesa nem criação ou extinção de órgãos públicos que exijam lei formal.",
+      "explanation": "O art. 84, VI, 'a', veda expressamente aumento de despesa ou criação/extinção de órgãos por decreto autônomo."
+    },
+    {
+      "id": 7,
+      "question": "O afastamento do Presidente da República em virtude de processo por crime de responsabilidade ocorre a partir de:",
+      "options": [
+        "A) A instauração do processo pelo Senado Federal.",
+        "B) A homologação da denúncia pelo Conselho da República.",
+        "C) O trânsito em julgado da sentença condenatória.",
+        "D) A votação unânime da Mesa da Câmara."
+      ],
+      "correctAnswer": "A) A instauração do processo pelo Senado Federal.",
+      "explanation": "No crime de responsabilidade, o afastamento ocorre dès a *instauração* do processo pelo Senado (após o crivo da Câmara)."
+    },
+    {
+      "id": 8,
+      "question": "Qual é a consequência jurídica para o Presidente da República condenado em processo por crime de responsabilidade no Senado Federal?",
+      "options": [
+        "A) Perda do cargo, com inabilitação temporária de oito anos para o exercício de função pública.",
+        "B) Prisão preventiva obrigatória em estabelecimento militar por vinte anos.",
+        "C) Suspensão dos direitos políticos pelo prazo fixo de dois anos.",
+        "D) Multa rescisória calculada sobre o patrimônio pessoal."
+      ],
+      "correctAnswer": "A) Perda do cargo, com inabilitação temporária de oito anos para o exercício de função pública.",
+      "explanation": "O art. 52, parágrafo único, fixa as penas do crime de responsabilidade: perda do cargo e inabilitação por 8 anos."
+    },
+    {
+      "id": 9,
+      "question": "Sobre a iniciativa privativa do Presidente da República para propor leis, assinale a correta:",
+      "options": [
+        "A) O Presidente possui iniciativa privativa em leis que disponham sobre a criação de cargos, funções ou empregos públicos na administração direta e autárquica.",
+        "B) Qualquer cidadão pode apresentar projetos de lei sobre organização administrativa federal.",
+        "C) O Congresso Nacional pode iniciar leis sobre o estatuto dos militares sem anuência do Executivo.",
+        "D) Medidas provisórias podem ser editadas pelo Presidente em matéria de direito penal e processual penal."
+      ],
+      "correctAnswer": "A) O Presidente possui iniciativa privativa em leis que disponham sobre a criação de cargos, funções ou empregos públicos na administração direta e autárquica.",
+      "explanation": "O art. 61, § 1º, elenca as matérias de iniciativa privativa do Presidente da República, incluindo servidores e organização administrativa."
+    },
+    {
+      "id": 10,
+      "question": "No que tange aos decretos regulamentares (poder regulamentar do art. 84, IV, da CF/88), o Presidente da República pode:",
+      "options": [
+        "A) Criar obrigações primárias e novas restrições de direitos não previstas em lei formal.",
+        "B) Expedir decretos e regulamentos para a fiel execução das leis, sem poder inovar originariamente criando obrigações autônomas.",
+        "C) Modificar códigos penais e civis por decreto regulamentar urgente.",
+        "D) Suspender a eficácia de leis federais aprovadas pelo Congresso."
+      ],
+      "correctAnswer": "B) Expedir decretos e regulamentos para a fiel execução das leis, sem poder inovar originariamente criando obrigações autônomas.",
+      "explanation": "O regulamento de execução (art. 84, IV) subordina-se à lei, servindo estritamente para torná-la exequível, sem inovar primariamente na ordem jurídica."
+    },
+    {
+      "id": 11,
+      "question": "Se o Presidente da República for acusado de um crime comum cometido *antes* do início de seu mandato presidencial, o andamento da ação penal correspondente:",
+      "options": [
+        "A) Prossegue normalmente perante a primeira instância comum.",
+        "B) Fica suspenso durante a vigência do mandato presidencial, aplicando-se a imunidade temporária.",
+        "C) É arquivado sumariamente pelo STF.",
+        "D) Transfere-se para a competência exclusiva do Tribunal de Justiça do Distrito Federal."
+      ],
+      "correctAnswer": "B) Fica suspenso durante a vigência do mandato presidencial, aplicando-se a imunidade temporária.",
+      "explanation": "O art. 86, § 4º, suspende a responsabilidade e a prescrição por atos estranhos e anteriores ao mandato."
+    },
+    {
+      "id": 12,
+      "question": "Assinale a alternativa correta quanto à sanção e ao veto presidencial (art. 66 da CF/88):",
+      "options": [
+        "A) O veto presidencial parcial deve abrigar texto integral de artigo, parágrafo, inciso ou alínea, sendo vedada a cisão de palavras.",
+        "B) O veto presidencial precisa ser fundamentado juridicamente apenas se rejeitado pela maioria absoluta.",
+        "C) O Congresso Nacional é obrigado a apreciar o veto presidencial em quarenta e oito horas.",
+        "D) O veto presidencial pode ser aposto fora do prazo de quinze dias úteis se houver recesso."
+      ],
+      "correctAnswer": "A) O veto presidencial parcial deve abrigar texto integral de artigo, parágrafo, inciso ou alínea, sendo vedada a cisão de palavras.",
+      "explanation": "O § 2º do art. 66 veda o veto parcial fracionado de palavras, exigindo o veto de texto integral de artigo, parágrafo, inciso ou alínea."
+    },
+    {
+      "id": 13,
+      "question": "A competência para declarar guerra e celebrar paz (art. 84, XIX e XX) exige do Presidente da República:",
+      "options": [
+        "A) Autorização exclusiva de comandantes militares de patente superior.",
+        "B) Autorização prévia do Congresso Nacional (ou referimento se ocorrer em intervalo de sessões legislativas).",
+        "C) Aprovação prévia do Tribunal Penal Internacional.",
+        "D) Decreto executivo autônomo sem intervenção legislativa."
+      ],
+      "correctAnswer": "B) Autorização prévia do Congresso Nacional (ou referimento se ocorrer em intervalo de sessões legislativa).",
+      "explanation": "A declaração de guerra e a celebração de paz exigem autorização do Congresso Nacional, salvo agressão estrangeira repentina."
+    },
+    {
+      "id": 14,
+      "question": "O subsídio do Presidente da República, dos Ministros de Estado e demais agentes políticos é fixado por:",
+      "options": [
+        "A) Decreto legislativo do Congresso Nacional, em iniciativa de lei.",
+        "B) Lei de iniciativa conjunta da Câmara dos Deputados e do Senado Federal.",
+        "C) Resolução interna do Tribunal de Contas da União.",
+        "D) Portaria interministerial do Ministério da Economia."
+      ],
+      "correctAnswer": "B) Lei de iniciativa conjunta da Câmara dos Deputados e do Senado Federal.",
+      "explanation": "O art. 48, XV, da CF/88 estabelece que a fixação dos subsídios do Presidente, Vice e Ministros compete ao Congresso Nacional via lei."
+    },
+    {
+      "id": 15,
+      "question": "Assinale a opção incorreta no tocante às responsabilidades e atribuições do Presidente da República:",
+      "options": [
+        "A) O Presidente pode conceder indulto e comutar penas após o trânsito em julgado da condenação.",
+        "B) O Presidente pode delegar a competência para conferir condecorações e distinções honoríficas aos Ministros de Estado.",
+        "C) O Presidente possui imunidade penal absoluta por qualquer conduta delituosa praticada antes ou durante o mandato presidencial.",
+        "D) O Presidente pode apresentar projeto de lei ordinária ou complementar em matérias de sua competência."
+      ],
+      "correctAnswer": "C) O Presidente possui imunidade penal absoluta por qualquer conduta delituosa praticada antes ou durante o mandato presidencial.",
+      "explanation": "A alternativa é INCORRETA (resposta da questão) porque a imunidade do Presidente é **temporária** e restrita a atos anteriores ao mandato; por atos cometidos *durante* o mandato (comuns ou de responsabilidade), ele responde com os devidos afastamentos e julgamentos."
+    }
+  ]
 }
 
 
