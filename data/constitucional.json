@@ -1,8 +1,11 @@
 {
   "materia": "Direito Constitucional",
   "temas": [
+    
+    
+    
     {
-      "nomeTema": "Poder Constituinte",
+      "nomeTema": "Direito - Constitucional Poder Constituinte",
       "questoes": [
         {
           "id": 1,
@@ -186,8 +189,9 @@
         }
       ]
     },
+    
     {
-      "nomeTema": "Fundamentos do Poder Constituinte",
+      "nomeTema": "Direito Constitucional Fundamentos do Poder Constituinte",
       "questoes": [
         {
           "id": 1,
@@ -370,6 +374,1316 @@
           "explanation": "A autonomia expressa a liberdade irrestrita do PCO para modelar livremente a estrutura política, jurídica e institucional do novo Estado, escolhendo federação ou unitarismo, república ou monarquia, presidencialismo ou parlamentarismo, etc."
         }
       ]
+    },
+
+    {
+  "nomeTema": "Direito Constitucional - Poder Constituinte Originario e Derivado",
+  "questoes": [
+    {
+      "id": 1,
+      "question": "No que tange à distinção dogmática entre o Poder Constituinte Originário (PCO) e o Poder Constituinte Derivado (PCD), assinale a alternativa que apresenta corretamente uma característica exclusiva do PCO.",
+      "options": [
+        "A) Subordinação estrita aos limites materiais expressos nas cláusulas pétreas constitucionais.",
+        "B) Natureza jurídica de poder de direito, instituído por uma norma pré-existente.",
+        "C) Condicionamento formal a ritos rígidos de votação em dois turnos pelas Casas do Congresso Nacional.",
+        "D) Incondicionalidade, caracterizada pela ausência de submissão a formas, prazos ou ritos pré-fixados."
+      ],
+      "correctAnswer": "D) Incondicionalidade, caracterizada pela ausência de submissão a formas, prazos ou ritos pré-fixados.",
+      "explanation": "O Poder Constituinte Originário é incondicionado, o que significa que ele não precisa seguir nenhuma forma, rito ou solenidade prévia. Em contrapartida, o derivado é estritamente condicionado aos ritos da constituição vigente."
+    },
+    {
+      "id": 2,
+      "question": "Um Estado-Membro da Federação brasileira resolve elaborar sua nova Constituição estadual. O poder exercido por essa unidade federativa para estruturar sua própria ordem jurídica interna denomina-se:",
+      "options": [
+        "A) Poder Constituinte Originário Pleno.",
+        "B) Poder Constituinte Derivado Decorrente.",
+        "C) Poder Constituinte Derivado Reformador.",
+        "D) Poder Constituinte Revisor Extraordinário."
+      ],
+      "correctAnswer": "B) Poder Constituinte Derivado Decorrente.",
+      "explanation": "O Poder Constituinte Decorrente é a capacidade que os Estados-Membros possuem de elaborar suas próprias Constituições, subordinando-se, no entanto, aos princípios e regras da Constituição Federal."
+    },
+    {
+      "id": 3,
+      "question": "Acerca dos limites impostos ao Poder Constituinte Derivado Reformador (responsável pela edição de Emendas Constitucionais), é correto afirmar que:",
+      "options": [
+        "A) Encontra limites formais, circunstanciais e materiais expressos na própria Constituição Federal.",
+        "B) Possui liberdade absoluta e ilimitada para abolir a forma federativa de Estado se houver aprovação unânime do povo em plebiscito.",
+        "C) Confunde-se com o poder originário quando altera mais da metade do texto da constituição original.",
+        "D) Submete-se exclusivamente ao veto do Presidente da República, não sofrendo controle de constitucionalidade pelo STF."
+      ],
+      "correctAnswer": "A) Encontra limites formais, circunstanciais e materiais expressos na própria Constituição Federal.",
+      "explanation": "O poder derivado reformador é limitado expressamente pelas regras de tramitação (formais), pela proibição de emendas em estado de exceção (circunstanciais) e pelas cláusulas pétreas (materiais)."
+    },
+    {
+      "id": 4,
+      "question": "Assinale a opção que descreve adequadamente a natureza jurídica do Poder Constituinte Originário frente ao ordenamento jurídico:",
+      "options": [
+        "A) É um poder constituído, derivado e condicionado.",
+        "B) É um poder de fato, inaugural, autônomo e ilimitado juridicamente.",
+        "C) É um poder administrativo subordinado ao controle prévio do Tribunal de Contas.",
+        "D) É um poder transitório exercido exclusivamente pelo Supremo Tribunal Federal."
+      ],
+      "correctAnswer": "B) É um poder de fato, inaugural, autônomo e ilimitado juridicamente.",
+      "explanation": "Dogmaticamente, o PCO é um poder de fato (pré-jurídico), inaugural (cria a ordem), autônomo e ilimitado juridicamente, pois não se curva a nenhuma norma anterior."
+    },
+    {
+      "id": 5,
+      "question": "Durante a vigência de uma Intervenção Federal decretada pelo Presidente da República, o Congresso Nacional pretende promulgar uma Proposta de Emenda Constitucional (PEC) de reforma tributária. À luz do art. 60 da CF/88, assinale a correta:",
+      "options": [
+        "A) A PEC pode ser promulgada normalmente, desde que aprovada por 3/5 dos votos.",
+        "B) A Constituição não poderá ser emendada enquanto vigorar a intervenção federal, caracterizando limite circunstancial.",
+        "C) O Congresso Nacional atua como poder originário ilimitado, superando a proibição circunstancial.",
+        "D) A proibição restringe-se apenas ao Poder Judiciário, sendo livre a atuação do poder legislativo."
+      ],
+      "correctAnswer": "B) A Constituição não poderá ser emendada enquanto vigorar a intervenção federal, caracterizando limite circunstancial.",
+      "explanation": "O art. 60, § 1º, da CF/88 estabelece os limites circunstanciais: a Constituição não pode ser emendada na vigência de intervenção federal, estado de defesa ou estado de sítio."
+    },
+    {
+      "id": 6,
+      "question": "No que tange ao controle de constitucionalidade exercido pelo Supremo Tribunal Federal sobre produtos normativos do Poder Constituinte Originário e do Poder Derivado, assinale a correta:",
+      "options": [
+        "A) Tanto o PCO quanto o PCD podem ter suas normas declaradas inconstitucionais pelo STF em sede de ADI.",
+        "B) O PCO não se submete a controle de constitucionalidade, enquanto as Emendas Constitucionais (PCD) podem ser anuladas se violarem cláusulas pétreas.",
+        "C) O STF possui competência para anular a própria Constituição originária se julgar seu conteúdo inoportuno.",
+        "D) O PCD é insuscetível de controle de constitucionalidade, pois representa a vontade soberana imediata da nação."
+      ],
+      "correctAnswer": "B) O PCO não se submete a controle de constitucionalidade, enquanto as Emendas Constitucionais (PCD) podem ser anuladas se violarem cláusulas pétreas.",
+      "explanation": "O PCO cria a ordem e não pode ser fiscalizado por ela (não há controle de constitucionalidade sobre a constituição originária). Já o PCD é constituído e submetese à fiscalização do STF quanto aos limites formais e materiais."
+    },
+    {
+      "id": 7,
+      "question": "Um projeto de emenda constitucional é apresentado com o objetivo de abolir o voto direto, secreto, universal e periódico, substituindo-o por voto censitário indireto. À luz da teoria do poder constituinte, tal PEC padece de:",
+      "options": [
+        "A) Inconstitucionalidade material por violação a limite implícito de transitoriedade.",
+        "B) Inconstitucionalidade material por ofensa a limite material expresso (cláusula pétrea do art. 60, § 4º, II, da CF/88).",
+        "C) Mera irregularidade formal sanável por maioria absoluta em sessão conjunta.",
+        "D) Nulidade absoluta sanável pelo exercício de poder constituinte derivado decorrente."
+      ],
+      "correctAnswer": "B) Inconstitucionalidade material por ofensa a limite material expresso (cláusula pétrea do art. 60, § 4º, II, da CF/88).",
+      "explanation": "O voto direto, secreto, universal e periódico é cláusula pétrea expressa (art. 60, § 4º, II). O poder derivado reformador não pode aboli-lo, sob pena de inconstitucionalidade material."
+    },
+    {
+      "id": 8,
+      "question": "A característica da 'derivabilidade' do Poder Constituinte Derivado significa que:",
+      "options": [
+        "A) Ele surge diretamente da vontade espontânea e desvinculada de qualquer povo soberano.",
+        "B) Ele retira sua existência, validade e limites diretamente do Poder Constituinte Originário.",
+        "C) Ele possui competência exclusiva para revogar a constituição anterior e instaurar um novo Estado.",
+        "D) Ele independe de previsões formais na constituição para alterar cláusulas pétreas."
+      ],
+      "correctAnswer": "B) Ele retira sua existência, validade e limites diretamente do Poder Constituinte Originário.",
+      "explanation": "Ser derivado significa exatamente isso: sua existência, competências e barreiras decorrem do ato criador do Poder Constituinte Originário, que estruturou a Constituição."
+    },
+    {
+      "id": 9,
+      "question": "Assinale a alternativa que diferencia corretamente a titularidade e o exercício entre o PCO e o PCD:",
+      "options": [
+        "A) A titularidade do PCO pertence ao povo; a do PCD pertence aos órgãos constituídos (Congresso Nacional).",
+        "B) A titularidade de ambos pertence exclusivamente aos Ministros do Supremo Tribunal Federal.",
+        "C) O PCD exerce a soberania nacional de forma direta e incondicionada, superando o PCO.",
+        "D) O PCO é exercido unicamente por comissões parlamentares permanentes."
+      ],
+      "correctAnswer": "A) A titularidade do PCO pertence ao povo; a do PCD pertence aos órgãos constituídos (Congresso Nacional).",
+      "explanation": "O PCO emana do povo (soberania popular). O PCD, por ser constituído, é exercido pelos órgãos previstos na própria Constituição, como o Congresso Nacional no caso das PECs."
+    },
+    {
+      "id": 10,
+      "question": "Sobre o Poder Constituinte Revisor (previsto transitoriamente no art. 3º do ADCT da CF/88), assinale a correta:",
+      "options": [
+        "A) Confunde-se integralmente com o Poder Constituinte Originário, sendo ilimitado e incondicionado.",
+        "B) É uma espécie de poder derivado que possuía rito simplificado de revisão após 5 anos da promulgação, estando hoje exaurido.",
+        "C) É exercido permanentemente pelos governadores de estado em conjunto com as assembleias legislativas.",
+        "D) Destina-se exclusivamente à alteração das cláusulas pétreas por maioria simples."
+      ],
+      "correctAnswer": "B) É uma espécie de poder derivado que possuía rito simplificado de revisão após 5 anos da promulgação, estando hoje exaurido.",
+      "explanation": "O poder revisor foi um poder derivado com rito próprio (maioria absoluta em sessão unicameral) previsto para ocorrer após 5 anos da promulgação da CF/88. Cumpriu seu papel e exauriu-se temporalmente."
+    },
+    {
+      "id": 11,
+      "question": "Se o Poder Constituinte Originário decidir criar um Estado Unitário centralizado, extinguindo a federação brasileira, juridicamente ele pode fazê-lo? Justifique com base na dogmática:",
+      "options": [
+        "A) Não, pois a federação é cláusula pétrea imutável para qualquer poder.",
+        "B) Sim, pois o PCO é juridicamente ilimitado, autônomo e incondicionado, podendo estruturar o Estado da forma que aprouver à Nação.",
+        "C) Sim, desde que haja autorização prévia por referendo internacional da ONU.",
+        "D) Não, pois o PCO submete-se às regras da Constituição anterior."
+      ],
+      "correctAnswer": "B) Sim, pois o PCO é juridicamente ilimitado, autônomo e incondicionado, podendo estruturar o Estado da forma que aprouver à Nação.",
+      "explanation": "As limitações materiais (cláusulas pétreas) aplicam-se apenas ao Poder Constituinte Derivado (reformador). O PCO é juridicamente ilimitado e pode modificar a forma de Estado, adotando o unitarismo se assim o desejar."
+    },
+    {
+      "id": 12,
+      "question": "Assinale a alternativa que indica corretamente o papel do Poder Constituinte Derivado Reformador na estrutura constitucional:",
+      "options": [
+        "A) Romper com a ordem jurídica anterior e criar uma nova Constituição.",
+        "B) Adaptar a Constituição às mutações e necessidades sociais através de alterações textuais pontuais, respeitando os limites constitucionais.",
+        "C) Julgar crimes de responsabilidade cometidos pelo Presidente da República.",
+        "D) Elaborar as leis ordinárias e complementares do dia a dia do processo legislativo comum."
+      ],
+      "correctAnswer": "B) Adaptar a Constituição às mudanças e necessidades sociais através de alterações textuais pontuais, respeitando os limites constitucionais.",
+      "explanation": "O papel do reformador é atualizar o texto constitucional via emendas, mantendo a harmonia com o projeto original e respeitando as barreiras impostas pelo constituinte originário."
+    },
+    {
+      "id": 13,
+      "question": "A tese da 'dupla revisão' (tentar alterar o mecanismo de alteração de cláusulas pétreas para posteriormente modificar a cláusula pétrea) é rechaçada pela doutrina porque:",
+      "options": [
+        "A) Viola um limite implícito de proteção ao núcleo estrutural da Constituição, configurando fraude à norma constitucional.",
+        "B) Exige aprovação unânime do Senado Federal em quatro turnos.",
+        "C) Confunde o poder reformador com o poder decorrente estadual.",
+        "D) É expressamente permitida pelo art. 60, § 5º, da CF/88."
+      ],
+      "correctAnswer": "A) Viola um limite implícito de proteção ao núcleo estrutural da Constituição, configurando fraude à norma constitucional.",
+      "explanation": "A vedação da dupla revisão é um limite implícito clássico: o poder derivado não pode alterar as regras do art. 60 para facilitar a supressão de uma cláusula pétrea, pois isso burlaria o sistema de proteção."
+    },
+    {
+      "id": 14,
+      "question": "No que concerne à distinção entre a norma criada pelo PCO e a norma criada por Emenda Constitucional (PCD), assinale a correta:",
+      "options": [
+        "A) As normas originárias e as emendas possuem exatamente o mesmo grau hierárquico na ordem jurídica interna.",
+        "B) As emendas constitucionais possuem hierarquia superior à Constituição originária.",
+        "C) A constituição originária não possui hierarquia, sendo apenas um documento político sem força normativa.",
+        "D) As normas originárias são inferiores às leis complementares aprovadas pelo Congresso."
+      ],
+      "correctAnswer": "A) As normas originárias e as emendas possuem exatamente o mesmo grau hierárquico na ordem jurídica interna.",
+      "explanation": "Embora tenham origens distintas, as normas criadas por Emenda Constitucional integram o corpo da Constituição, possuindo o mesmo patamar hierárquico das normas originárias (ambas estão no topo do ordenamento)."
+    },
+    {
+      "id": 15,
+      "question": "Se um grupo político depuser o governo atual por meio de um golpe de Estado bem-sucedido e instaurar uma nova Constituição sem submeter o texto a nenhuma regra anterior, que tipo de poder foi exercido?",
+      "options": [
+        "A) Poder Constituinte Derivado Reformador.",
+        "B) Poder Constituinte Derivado Decorrente.",
+        "C) Poder Constituinte Originário de fato (Inaugural).",
+        "D) Poder Legislativo Ordinário Delegado."
+      ],
+      "correctAnswer": "C) Poder Constituinte Originário de fato (Inaugural).",
+      "explanation": "A instauração de uma nova ordem jurídica por meio de ruptura (seja pacífica ou revolucionária/golpe) que obtém eficácia social configura o exercício do Poder Constituinte Originário."
     }
+  ]
+},
+
+
+{
+  "nomeTema": "Direito Constitucional - Reforma e Revisao Constitucionais",
+  "questoes": [
+    {
+      "id": 1,
+      "question": "Acerca do processo legislativo de emenda à Constituição (Reforma Constitucional) previsto no art. 60 da CF/88, assinale a alternativa correta quanto à iniciativa das Propostas de Emenda Constitucional (PECs).",
+      "options": [
+        "A) A iniciativa pode ser exercida por cidadãos brasileiros por meio de projeto de lei de iniciativa popular subscrito por pelo menos um por cento do eleitorado nacional.",
+        "B) A iniciativa é privativa do Presidente da República e do Procurador-Geral da República.",
+        "C) A iniciativa pode ser exercida pelo Presidente da República, por um terço, no mínimo, dos membros da Câmara dos Deputados ou do Senado Federal, ou por mais da metade das Assembleias Legislativas das unidades da Federação, manifestando-se cada uma delas pela maioria relativa de seus membros.",
+        "D) A iniciativa compete exclusivamente ao Supremo Tribunal Federal em matérias relativas à organização do Poder Judiciário."
+      ],
+      "correctAnswer": "C) A iniciativa pode ser exercida pelo Presidente da República, por um terço, no mínimo, dos membros da Câmara dos Deputados ou do Senado Federal, ou por mais da metade das Assembleias Legislativas das unidades da Federação, manifestando-se cada uma delas pela maioria relativa de seus membros.",
+      "explanation": "O art. 60, incisos I, II e III, da CF/88 estabelece exaustivamente os legitimados para propor PECs. Note que cidadãos não possuem iniciativa para propor emendas constitucionais."
+    },
+    {
+      "id": 2,
+      "question": "Sobre o rito de aprovação de uma Proposta de Emenda Constitucional (PEC) no Congresso Nacional, assinale a opção correta:",
+      "options": [
+        "A) A PEC deve ser discutida e votada em cada Casa do Congresso, em dois turnos, considerando-se aprovada se obtiver, em ambos, o quórum de três quintos dos votos dos respectivos membros.",
+        "B) A votação ocorre em sessão unicameral conjunta, exigindo maioria absoluta de votos para sua aprovação definitiva.",
+        "C) O Presidente da República possui o poder de veto total ou parcial caso discorde de emendas aprovadas pelo parlamento.",
+        "D) Aprovada a PEC por maioria simples na Câmara, ela segue diretamente para sanção presidencial."
+      ],
+      "correctAnswer": "A) A PEC deve ser discutida e votada em cada Casa do Congresso, em dois turnos, considerando-se aprovada se obtiver, em ambos, o quórum de três quintos dos votos dos respectivos membros.",
+      "explanation": "O art. 60, § 2º, da CF/88 fixa rigorosamente que a PEC exige votação bicameral (em cada Casa), em dois turnos, com quórum qualificado de 3/5. O Presidente não veta nem sanciona PECs."
+    },
+    {
+      "id": 3,
+      "question": "No tocante aos limites circunstanciais ao poder de reforma constitucional (art. 60, § 1º, da CF/88), é correto afirmar que a Constituição não poderá ser emendada durante a vigência de:",
+      "options": [
+        "A) Greve geral de servidores públicos ou paralisação de transportes essenciais.",
+        "B) Intervenção federal, estado de defesa ou estado de sítio.",
+        "C) Eleições presidenciais ou durante o recesso parlamentar de janeiro.",
+        "D) Calamidade financeira de âmbito municipal reconhecida pelo Tribunal de Contas."
+      ],
+      "correctAnswer": "B) Intervenção federal, estado de defesa ou estado de sítio.",
+      "explanation": "Os limites circunstanciais protegem a ordem constitucional em momentos de crise institucional grave, vedando emendas durante a vigência de intervenção federal, estado de defesa ou estado de sítio."
+    },
+    {
+      "id": 4,
+      "question": "A respeito do Poder Derivado Revisor, previsto no art. 3º do Ato das Disposições Constitucionais Transitórias (ADCT) da CF/88, assinale a alternativa correta:",
+      "options": [
+        "A) Permanece em vigor permanente, podendo ser convocado a cada dez anos por decreto legislativo.",
+        "B) Trata-se de poder temporário que já se exauriu temporalmente em outubro de 1993, não podendo mais ser aplicado.",
+        "C) Confunde-se com o poder constituinte originário, possuindo competência irrestrita para abolir cláusulas pétreas.",
+        "D) É exercido privativamente pelos governadores de estado em assembleia nacional constituinte extraordinária."
+      ],
+      "correctAnswer": "B) Trata-se de poder temporário que já se exauriu temporalmente em outubro de 1993, não podendo mais ser aplicado.",
+      "explanation": "O art. 3º do ADCT previa a revisão constitucional após 5 anos da promulgação da CF (o que ocorreu em 1993, gerando as Emendas de Revisão). O instituto exauriu seu prazo e não existe mais."
+    },
+    {
+      "id": 5,
+      "question": "Assinale a alternativa que apresenta corretamente uma matéria protegida como limite material (cláusula pétrea) pelo art. 60, § 4º, da CF/88:",
+      "options": [
+        "A) O número de deputados federais de cada Estado da Federação.",
+        "B) O regime jurídico único dos servidores públicos civis da União.",
+        "C) A forma federativa de Estado.",
+        "D) A competência privativa do Superior Tribunal de Justiça para julgar recursos especiais."
+      ],
+      "correctAnswer": "C) A forma federativa de Estado.",
+      "explanation": "O art. 60, § 4º, I, elenca expressamente a forma federativa de Estado como limite material (cláusula pétrea). As demais opções podem ser alteradas por emenda constitucional regular."
+    },
+    {
+      "id": 6,
+      "question": "Um projeto de emenda constitucional é aprovado pelo Congresso Nacional e encaminhado para promulgação. Quem são os órgãos competentes para realizar a promulgação de uma Emenda Constitucional?",
+      "options": [
+        "A) O Presidente da República e o Vice-Presidente da República.",
+        "B) As Mesas da Câmara dos Deputados e do Senado Federal.",
+        "C) O Presidente do Supremo Tribunal Federal e o Procurador-Geral da República.",
+        "D) O Plenário do Congresso Nacional em sessão solene unicameral presidida pelo decano."
+      ],
+      "correctAnswer": "B) As Mesas da Câmara dos Deputados e do Senado Federal.",
+      "explanation": "Conforme o art. 60, § 3º, da CF/88, a emenda constitucional será promulgada pelas Mesas da Câmara dos Deputados e do Senado Federal, com o respectivo número de ordem."
+    },
+    {
+      "id": 7,
+      "question": "Sobre a possibilidade de controle de jurisdição constitucional sobre Emendas Constitucionais que supostamente violem limites materiais, o STF entende que:",
+      "options": [
+        "A) O STF pode exercer o controle de constitucionalidade sobre ECs, declarando-as nulas se afrontarem cláusulas pétreas ou limites formais.",
+        "B) O STF é incompetente para julgar emendas constitucionais, pois são atos soberanos insuscetíveis de controle.",
+        "C) O controle só pode ser feito de forma prévia por comissão mista do Congresso, vedada a atuação do STF.",
+        "D) Emendas constitucionais possuem grau hierárquico superior à própria constituição originária, impedindo anulação."
+      ],
+      "correctAnswer": "A) O STF pode exercer o controle de constitucionalidade sobre ECs, declarando-as nulas se afrontarem cláusulas pétreas ou limites formais.",
+      "explanation": "O STF possui jurisprudência pacífica no sentido de que emendas constitucionais constituem produto de poder constituído (derivado) e, portanto, submetem-se ao controle de constitucionalidade."
+    },
+    {
+      "id": 8,
+      "question": "A proibição de deliberação sobre proposta de emenda constitucional tendente a abolir os direitos e garantias individuais constitui um limite:",
+      "options": [
+        "A) Circunstancial de exceção institucional.",
+        "B) Material expresso (cláusula pétrea).",
+        "C) Formal de iniciativa privativa.",
+        "D) Temporal de vigência limitada."
+      ],
+      "correctAnswer": "B) Material expresso (cláusula pétrea).",
+      "explanation": "Os direitos e garantias individuais constam no art. 60, § 4º, IV, configurando limite material explícito (cláusula pétrea) ao poder de reforma."
+    },
+    {
+      "id": 9,
+      "question": "Diferencie o rito da Reforma Constitucional comum (PEC) e o rito da extinta Revisão Constitucional do ADCT:",
+      "options": [
+        "A) A reforma exige 3/5 em dois turnos bicameral; a revisão ocorreu após 5 anos, por maioria absoluta, em sessão unicameral.",
+        "B) Ambas exigem exatamente o mesmo rito de aprovação unânime em turno único.",
+        "C) A reforma é feita por decreto autônomo do Presidente; a revisão exige sanção do STF.",
+        "D) Não há nenhuma distinção técnica entre os dois institutos no direito brasileiro."
+      ],
+      "correctAnswer": "A) A reforma exige 3/5 em dois turnos bicameral; a revisão ocorreu após 5 anos, por maioria absoluta, em sessão unicameral.",
+      "explanation": "A reforma exige o rito rigoroso do art. 60 (3/5, 2 turnos, Câmara e Senado). A revisão do art. 3º do ADCT ocorreu por maioria absoluta em sessão unicameral do Congresso após 5 anos da CF/88."
+    },
+    {
+      "id": 10,
+      "question": "Se uma Assembleia Legislativa estadual aprovar uma moção de iniciativa para alterar a Constituição Federal em matéria tributária, contando com apoio da maioria absoluta de seus membros, a iniciativa:",
+      "options": [
+        "A) Será aceita, pois as Assembleias Legislativas possuem iniciativa isolada irrestrita.",
+        "B) Será rejeitada por ilegitimidade, pois a Constituição exige que a iniciativa por via das Assembleias parta de mais da metade delas, manifestando-se cada uma por maioria relativa.",
+        "C) Substituirá com eficácia plena a necessidade de proposta federal.",
+        "D) Depende de homologação prévia do Tribunal de Contas da União."
+      ],
+      "correctAnswer": "B) Será rejeitada por ilegitimidade, pois a Constituição exige que a iniciativa por via das Assembleias parta de mais da metade delas, manifestando-se cada uma por maioria relativa.",
+      "explanation": "O art. 60, III, da CF/88 exige que a iniciativa por via estadual parta de *mais da metade* das Assembleias Legislativas, e não de apenas uma de forma isolada."
+    },
+    {
+      "id": 11,
+      "question": "Assinale a alternativa que descreve corretamente a consequência jurídica se o Presidente da República vetar uma Proposta de Emenda Constitucional aprovada pelo Congresso Nacional:",
+      "options": [
+        "A) O veto presidencial será submetido à apreciação do Congresso em sessão conjunta.",
+        "B) O veto é juridicamente inexistente, pois o Presidente da República não participa do processo de elaboração de EC com poder de veto.",
+        "C) A PEC será arquivada definitivamente, exigindo nova legislatura para reapresentação.",
+        "D) O STF decidirá se o veto deve ou não ser derrubado por votação de maioria simples."
+      ],
+      "correctAnswer": "B) O veto é juridicamente inexistente, pois o Presidente da República não participa do processo de elaboração de EC com poder de veto.",
+      "explanation": "Como o Presidente da República não possui competência para sancionar ou vetar PECs (sua atuação cinge-se à iniciativa), um eventual veto seria juridicamente inexistente e inapto a barrar a promulgação."
+    },
+    {
+      "id": 12,
+      "question": "Durante a tramitação de uma PEC no Congresso, decreta-se intervenção federal em um Estado-membro. O Presidente da Mesa do Congresso determina o prosseguimento das votações. Sob a ótica da jurisprudência do STF sobre limites circunstanciais:",
+      "options": [
+        "A) A tramitação pode ocorrer, mas a promulgação final fica impedida enquanto durar a intervenção.",
+        "B) Todo o processo legislativo é imediatamente anulado desde o início.",
+        "C) A intervenção federal não afeta em nada a votação de emendas constitucionais.",
+        "D) O Congresso assume poderes de constituinte originário e revoga a proibição."
+      ],
+      "correctAnswer": "A) A tramitação pode ocorrer, mas a promulgação final fica impedida enquanto durar a intervenção.",
+      "explanation": "O STF firmou entendimento de que o limite circunstancial proíbe a *promulgação* da emenda na vigência da crise, não invalidando a mera tramitação interna prévia, desde que a votação e promulgação ocorram após o fim da intervenção."
+    },
+    {
+      "id": 13,
+      "question": "A adoção da forma republicana de governo e o princípio da separação dos poderes encontram proteção jurídica no art. 60, § 4º, da CF/88 como:",
+      "options": [
+        "A) Limites circunstanciais temporários.",
+        "B) Limites materiais expressos (cláusulas pétreas).",
+        "C) Diretrizes programáticas sem força vinculante para o legislador.",
+        "D) Regras dispositivas passíveis de alteração por maioria simples."
+      ],
+      "correctAnswer": "B) Limites materiais expressos (cláusulas pétreas).",
+      "explanation": "A forma republicana (e federativa) e a separação dos poderes constam expressamente no rol das cláusulas pétreas do art. 60, § 4º, da Constituição Federal."
+    },
+    {
+      "id": 14,
+      "question": "No que concerne ao princípio da vedação de retrocesso social e a sua relação com o Poder Constituinte Derivado Reformador, é correto afirmar que:",
+      "options": [
+        "A) O poder reformador pode suprimir livremente quaisquer direitos sociais fundamentais sem qualquer restrição.",
+        "B) Os direitos fundamentais sociais já incorporados integram o núcleo das garantias individuais e encontram barreiras na proteção material contra o esvaziamento do seu núcleo essencial.",
+        "C) A vedação de retrocesso impede absolutamente qualquer alteração na legislação previdenciária.",
+        "D) Direitos sociais possuem status inferior às leis ordinárias, podendo ser revogados por portaria ministerial."
+      ],
+      "correctAnswer": "B) Os direitos fundamentais sociais já incorporados integram o núcleo das garantias individuais e encontram barreiras na proteção material contra o esvaziamento do seu núcleo essencial.",
+      "explanation": "Embora reformas ocorram, o STF reconhece que o núcleo essencial dos direitos fundamentais (inclusive sociais integrados às garantias) não pode ser destruído pelo poder reformador."
+    },
+    {
+      "id": 15,
+      "question": "Assinale a opção correta quanto ao requisito temporal para a apresentação de uma nova Proposta de Emenda Constitucional sobre matéria idêntica à de outra rejeitada ou havida por prejudicada na mesma sessão legislativa:",
+      "options": [
+        "A) O art. 60, § 5º, da CF/88 veda que a matéria constante de proposta de emenda rejeitada ou havida por prejudicada possa ser objeto de nova proposta na mesma sessão legislativa.",
+        "B) A matéria pode ser reapresentada no dia seguinte, bastando a assinatura de mais parlamentares.",
+        "C) Exige-se o aguardo do prazo mínimo de cinco anos para reapresentação.",
+        "D) A vedação aplica-se apenas aos projetos de lei ordinária, sendo livre a reapresentação de PECs a qualquer momento."
+      ],
+      "correctAnswer": "A) O art. 60, § 5º, da CF/88 veda que a matéria constante de proposta de emenda rejeitada ou havida por prejudicada possa ser objeto de nova proposta na mesma sessão legislativa.",
+      "explanation": "O art. 60, § 5º, da CF/88 consagra expressamente o princípio da irrepetibilidade na mesma sessão legislativa para PECs rejeitadas ou prejudicadas."
+    }
+  ]
+},
+
+{
+  "nomeTema": "Direito Constitucional - Limitacao do Poder de Revisao",
+  "questoes": [
+    {
+      "id": 1,
+      "question": "No que tange aos limites materiais expressos ao poder de reforma constitucional (cláusulas pétreas, art. 60, § 4º, da CF/88), assinale a alternativa que apresenta corretamente um dos elementos protegidos contra abolição.",
+      "options": [
+        "A) O regime jurídico único dos servidores públicos civis da administração federal direta.",
+        "B) A forma federativa de Estado.",
+        "C) O número exato de cinquenta e um deputados federais por Estado da Federação.",
+        "D) A competência privativa dos Tribunais Regionais Federais para julgamento de crimes comuns."
+      ],
+      "correctAnswer": "B) A forma federativa de Estado.",
+      "explanation": "O art. 60, § 4º, I, elenca expressamente a forma federativa de Estado como limite material intransponível (cláusula pétrea)."
+    },
+    {
+      "id": 2,
+      "question": "Sobre os limites circunstanciais ao poder de reforma constitucional previstos no art. 60, § 1º, da CF/88, assinale a opção correta:",
+      "options": [
+        "A) A Constituição não poderá ser emendada durante a vigência de intervenção federal, estado de defesa ou estado de sítio.",
+        "B) O Congresso Nacional pode aprovar e promulgar PECs livremente durante o estado de sítio, desde que haja acordo de lideranças partidárias.",
+        "C) Os limites circunstanciais aplicam-se exclusivamente às leis ordinárias federais, sendo inoperantes em sede de emendas constitucionais.",
+        "D) A decretação de greve geral suspende temporariamente os efeitos das cláusulas pétreas constitucionais."
+      ],
+      "correctAnswer": "A) A Constituição não poderá ser emendada durante a vigência de intervenção federal, estado de defesa ou estado de sítio.",
+      "explanation": "O art. 60, § 1º, estabelece com clareza os limites circunstanciais, vedando emendas constitucionais durante crises institucionais graves de exceção."
+    },
+    {
+      "id": 3,
+      "question": "A doutrina e a jurisprudência do STF reconhecem a existência de limitações implícitas ao poder de reforma constitucional. Um exemplo clássico de limite implícito é:",
+      "options": [
+        "A) A proibição de alteração do quórum de votação em dois turnos.",
+        "B) A vedação da chamada 'dupla revisão', isto é, alterar as regras de modificação da constituição para facilitar a abolição de uma cláusula pétrea.",
+        "C) A obrigatoriedade de sanção presidencial em todas as propostas de emenda.",
+        "D) A exigência de que o STF seja consultado previamente antes de qualquer iniciativa de PEC."
+      ],
+      "correctAnswer": "B) A vedação da chamada 'dupla revisão', isto é, alterar as regras de modificação da constituição para facilitar a abolição de uma cláusula pétrea.",
+      "explanation": "A vedação à dupla revisão é um limite implícito clássico, impedindo fraudes ao sistema de proteção das cláusulas pétreas por meio de alteração prévia das regras do próprio art. 60."
+    },
+    {
+      "id": 4,
+      "question": "No tocante aos direitos e garantias individuais protegidos como cláusulas pétreas (art. 60, § 4º, IV, da CF/88), o Supremo Tribunal Federal possui o entendimento de que tais garantias:",
+      "options": [
+        "A) Restringem-se exclusivamente aos incisos do art. 5º da Constituição Federal, sendo taxativos.",
+        "B) Não se limitam apenas ao art. 5º, abrangendo também direitos e garantias fundamentais espalhados por todo o texto constitucional.",
+        "C) Podem ser abolidos por maioria absoluta se houver referendo popular favorável.",
+        "D) Possuem status inferior às normas emanadas de tratados internacionais de comércio."
+      ],
+      "correctAnswer": "B) Não se limitam apenas ao art. 5º, abrangendo também direitos e garantias fundamentais espalhados por todo o texto constitucional.",
+      "explanation": "O STF firmou tese de que a proteção das cláusulas pétreas aos direitos e garantias individuais não se restringe topograficamente ao art. 5º, estendendo-se por todo o texto constitucional."
+    },
+    {
+      "id": 5,
+      "question": "Um projeto de emenda constitucional é apresentado com o objetivo de alterar o voto secreto para voto totalmente aberto e nominal em todas as instâncias e eleições políticas do país. À luz do art. 60, § 4º, II, da CF/88, tal proposta:",
+      "options": [
+        "A) É plenamente constitucional, pois o voto secreto não faz parte das cláusulas pétreas.",
+        "B) Afronta limite material expresso (cláusula pétrea), pois o voto deve ser direto, secreto, universal e periódico.",
+        "C) Depende de aprovação unânime do Tribunal Superior Eleitoral para tramitar.",
+        "D) Configura mera alteração de procedimento administrativo eleitoral sanável por lei complementar."
+      ],
+      "correctAnswer": "B) Afronta limite material expresso (cláusula pétrea), pois o voto deve ser direto, secreto, universal e periódico.",
+      "explanation": "O art. 60, § 4º, II, protege expressamente o voto direto, secreto, universal e periódico como cláusula pétrea. Tentar suprimir o sigilo do voto fere o núcleo intangível."
+    },
+    {
+      "id": 6,
+      "question": "O princípio da separação dos poderes constitui limite material ao poder de reforma. Sobre essa garantia, assinale a alternativa correta:",
+      "options": [
+        "A) O poder reformador pode extinguir o Poder Judiciário federal se houver crise orçamentária grave.",
+        "B) A separação dos poderes é cláusula pétrea, sendo inconstitucional qualquer emenda que tenda a abolir ou desfigurar o equilíbrio e a independência entre os Poderes.",
+        "C) O Poder Executivo pode absorver funções legislativas de forma permanente mediante emenda aprovada por maioria simples.",
+        "D) As bancas examinadoras consideram a separação dos poderes como mero princípio dispositivo alterável pelo Congresso."
+      ],
+      "correctAnswer": "B) A separação dos poderes é cláusula pétrea, sendo inconstitucional qualquer emenda que tenda a abolir ou desfigurar o equilíbrio e a independência entre os Poderes.",
+      "explanation": "A separação dos poderes é cláusula pétrea explícita (art. 60, § 4º, III). Emendas que destruam a independência ou o equilíbrio entre os poderes são materialmente inconstitucionais."
+    },
+    {
+      "id": 7,
+      "question": "A expressão 'tendente a abolir', contuada no art. 60, § 4º, da CF/88, significa, na interpretação do STF, que:",
+      "options": [
+        "A) Apenas a extinção total e imediata de uma cláusula pétrea é vedada; reduções parciais são livres.",
+        "B) Não apenas a supressão total, mas qualquer esvaziamento, restrição abusiva ou desfiguração do núcleo essencial de uma cláusula pétrea é vedada.",
+        "C) As emendas constitucionais podem abolir provisoriamente direitos fundamentais durante períodos de férias forenses.",
+        "D) O termo possui sentido meramente programático, sem força invalidante."
+      ],
+      "correctAnswer": "B) Não apenas a supressão total, mas qualquer esvaziamento, restrição abusiva ou desfiguração do núcleo essencial de uma cláusula pétrea é vedada.",
+      "explanation": "A interpretação dada pelo STF à expressão 'tendente a abolir' é ampla: proíbe-se tanto a abolição formal quanto qualquer tentativa de esvaziar o núcleo essencial da garantia."
+    },
+    {
+      "id": 8,
+      "question": "No que tange aos limites formais e procedimentais de alteração constitucional, o art. 60, § 5º, da CF/88 estabelece que a matéria constante de proposta de emenda rejeitada ou havida por prejudicada:",
+      "options": [
+        "A) Pode ser reapresentada no dia seguinte mediante assinatura de novos parlamentares.",
+        "B) Não pode ser objeto de nova proposta na mesma sessão legislativa (Princípio da Irrepetibilidade).",
+        "C) Exige autorização prévia da Mesa Diretora do Senado para nova tramitação.",
+        "D) Transforma-se automaticamente em projeto de lei ordinária."
+      ],
+      "correctAnswer": "B) Não pode ser objeto de nova proposta na mesma sessão legislativa (Princípio da Irrepetibilidade).",
+      "explanation": "O art. 60, § 5º consagra o princípio da irrepetibilidade na mesma sessão legislativa para PECs rejeitadas ou prejudicadas."
+    },
+    {
+      "id": 9,
+      "question": "Assinale a alternativa que descreve corretamente a relação entre o Poder Constituinte Derivado Reformador e as normas constitucionais originárias:",
+      "options": [
+        "A) O poder reformador possui hierarquia superior à Constituição originária, podendo revogá-la por completo.",
+        "B) O poder reformador é subordinado aos limites expressos e implícitos da Constituição originária, integrando-se a ela com a mesma hierarquia, mas sob estrito controle de validade.",
+        "C) O poder reformador atua de forma incondicionada, sem observar prazos ou quóruns.",
+        "D) As emendas constitucionais sobrepõem-se às cláusulas pétreas originárias em caso de conflito temporal."
+      ],
+      "correctAnswer": "B) O poder reformador é subordinado aos limites expressos e implícitos da Constituição originária, integrando-se a ela com a mesma hierarquia, mas sob estrito controle de validade.",
+      "explanation": "O poder reformador cria normas de igual hierarquia às originárias (ambas no topo do ordenamento), mas subordina-se inteiramente aos limites estruturais impostos pelo originário."
+    },
+    {
+      "id": 10,
+      "question": "Se um Estado-Membro da Federação decidir, por meio de sua Constituição Estadual decorrente, abolir o Tribunal de Contas local, tal medida:",
+      "options": [
+        "A) É válida, pois o poder decorrente é originário e ilimitado.",
+        "B) É inconstitucional, pois desrespeita os limites do poder decorrente e o princípio da simetria aplicável à forma federativa e aos órgãos de controle.",
+        "C) Depende de autorização do Tribunal de Contas da União.",
+        "D) Configura exercício legítimo de autonomia municipal."
+      ],
+      "correctAnswer": "B) É inconstitucional, pois desrespeita os limites do poder decorrente e o princípio da simetria aplicável à forma federativa e aos órgãos de controle.",
+      "explanation": "O poder constituinte decorrente dos Estados-membros submete-se às regras e princípios da CF/88, sendo obrigatória a manutenção de estruturas essenciais exigidas pelo modelo federal (princípio da simetria)."
+    },
+    {
+      "id": 11,
+      "question": "A proibição de emendas constitucionais durante a vigência de estado de sítio visa primordialmente:",
+      "options": [
+        "A) Garantir que o Congresso Nacional encerre suas atividades legislativas ordinárias.",
+        "B) Proteger o processo democrático e a integridade da Constituição contra investidas arbitrárias em momentos de grave anormalidade institucional.",
+        "C) Impedir o aumento de salários de servidores públicos municipais.",
+        "D) Assegurar exclusividade de atuação ao Poder Judiciário."
+      ],
+      "correctAnswer": "B) Proteger o processo democrático e a integridade da Constituição contra investidas arbitrárias em momentos de grave anormalidade institucional.",
+      "explanation": "Os limites circunstanciais (art. 60, § 1º) existem exatamente para evitar que o parlamento altere a Constituição sob o impacto e a coerção de estados de exceção e crise institucional."
+    },
+    {
+      "id": 12,
+      "question": "Sobre a iniciativa para propor Emendas Constitucionais, assinale a opção que indica corretamente um legitimado conforme o art. 60 da CF/88:",
+      "options": [
+        "A) O Procurador-Geral da República.",
+        "B) O Conselho Federal da Ordem dos Advogados do Brasil (OAB).",
+        "C) Mais da metade das Assembleias Legislativas das unidades da Federação, manifestando-se cada uma por maioria relativa.",
+        "D) O Presidente do Supremo Tribunal Federal."
+      ],
+      "correctAnswer": "C) Mais da metade das Assembleias Legislativas das unidades da Federação, manifestando-se cada uma por maioria relativa.",
+      "explanation": "O art. 60, III, elenca as Assembleias Legislativas (mais da metade, por maioria relativa) como legitimadas concorrentes para propor PECs. PGR, OAB e STF não possuem essa iniciativa."
+    },
+    {
+      "id": 13,
+      "question": "Assinale a alternativa incorreta no que diz respeito aos limites ao poder de reforma constitucional:",
+      "options": [
+        "A) As cláusulas pétreas podem ser ampliadas por emenda constitucional, mas nunca suprimidas ou reduzidas em seu núcleo essencial.",
+        "B) O Presidente da República pode vetar uma Proposta de Emenda Constitucional caso entenda que ela viola o art. 60 da CF/88.",
+        "C) O controle de constitucionalidade de emendas constitucionais pode ser realizado pelo STF.",
+        "D) A forma federativa de Estado é limite material expresso ao poder de reforma."
+      ],
+      "correctAnswer": "B) O Presidente da República pode vetar uma Proposta de Emenda Constitucional caso entenda que ela viola o art. 60 da CF/88.",
+      "explanation": "A alternativa é INCORRETA (e, portanto, a resposta correta da questão) porque o Presidente da República não possui competência para vetar PECs; o veto presidencial é inexistente nesse processo legislativo."
+    },
+    {
+      "id": 14,
+      "question": "No tocante ao alcance da proteção conferida pela cláusula pétrea dos direitos e garantias individuais, o STF entende que:",
+      "options": [
+        "A) A ampliação de um direito fundamental por emenda é admitida, mas a restrição que afete o seu núcleo essencial é vedada pela rigidez constitucional.",
+        "B) Direitos sociais e trabalhistas jamais podem ser alterados sob nenhuma hipótese ou conjuntura econômica.",
+        "C) O direito de propriedade é absoluto e imune a qualquer regulamentação por lei complementar.",
+        "D) Emendas constitucionais podem revogar o princípio da presunção de inocência se aprovadas por unanimidade."
+      ],
+      "correctAnswer": "A) A ampliação de um direito fundamental por emenda é admitida, mas a restrição que afete o seu núcleo essencial é vedada pela rigidez constitucional.",
+      "explanation": "O STF admite que direitos fundamentais sejam ampliados, mas o esvaziamento ou supressão de seu núcleo essencial por via de reforma esbarra diretamente na vedação da cláusula pétrea."
+    },
+    {
+      "id": 15,
+      "question": "Caso uma Proposta de Emenda Constitucional seja aprovada em primeiro turno na Câmara dos Deputados por quórum inferior a três quintos (por exemplo, maioria absoluta simples), qual é a consequência jurídica imediata?",
+      "options": [
+        "A) A proposta é considerada aprovada se obtiver 3/5 no segundo turno compensatório.",
+        "B) A proposta é rejeitada e arquivada por inobservância do limite formal de quórum qualificado exigido pelo art. 60, § 2º, da CF/88.",
+        "C) A matéria é remetida diretamente ao Senado para validação por maioria simples.",
+        "D) O Presidente do Congresso pode conceder prazo suplementar de 30 dias para repescagem."
+      ],
+      "correctAnswer": "B) A proposta é rejeitada e arquivada por inobservância do limite formal de quórum qualificado exigido pelo art. 60, § 2º, da CF/88.",
+      "explanation": "O quórum de 3/5 é exigido em *ambos* os turnos de votação em *cada* Casa do Congresso. A falha no quórum em qualquer etapa acarreta a rejeição e o arquivamento da proposição."
+    }
+  ]
+},
+
+{
+  "nomeTema": "Direito Constitucional - Emendas a Constituicao",
+  "questoes": [
+    {
+      "id": 1,
+      "question": "Sobre o processo legislativo de Emendas à Constituição (ECs) no ordenamento jurídico brasileiro, assinale a alternativa correta:",
+      "options": [
+        "A) A iniciativa popular de emenda constitucional pode ser exercida por duzentos milhares de eleitores distribuídos em pelo menos cinco Estados.",
+        "B) O Presidente da República possui prerrogativa de veto total ou parcial em relação às emendas aprovadas pelo Congresso Nacional.",
+        "C) As emendas constitucionais são promulgadas pelas Mesas da Câmara dos Deputados e do Senado Federal, com o respectivo número de ordem.",
+        "D) A votação de uma PEC ocorre em sessão unicameral conjunta de Deputados e Senadores, exigindo maioria absoluta."
+      ],
+      "correctAnswer": "C) As emendas constitucionais são promulgadas pelas Mesas da Câmara dos Deputados e do Senado Federal, com o respectivo número de ordem.",
+      "explanation": "Conforme o art. 60, § 3º, da CF/88, as ECs são promulgadas pelas Mesas da Câmara e do Senado. Cidadãos não têm iniciativa para PEC, e o Presidente não possui poder de veto."
+    },
+    {
+      "id": 2,
+      "question": "No que tange aos quóruns e turnos exigidos para a aprovação de uma Proposta de Emenda Constitucional (PEC), assinale a correta:",
+      "options": [
+        "A) Maioria absoluta em turno único em cada Casa do Congresso.",
+        "B) Três quintos dos votos dos respectivos membros, em dois turnos, em cada Casa do Congresso Nacional.",
+        "C) Maioria simples em sessão bicameral conjunta.",
+        "D) Dois terços dos membros do Senado Federal, com ratificação posterior por decreto legislativo."
+      ],
+      "correctAnswer": "B) Três quintos dos votos dos respectivos membros, em dois turnos, em cada Casa do Congresso Nacional.",
+      "explanation": "O art. 60, § 2º, estabelece com rigor que a PEC exige discussão e votação em cada Casa, em dois turnos, com quórum qualificado de 3/5."
+    },
+    {
+      "id": 3,
+      "question": "Um partido político com representação no Congresso Nacional impetra Mandado de Segurança preventivo perante o STF alegando que uma PEC em tramitação viola frontalmente o princípio da separação dos poderes. De acordo com a jurisprudência do STF:",
+      "options": [
+        "A) O MS é cabível, pois parlamentares e partidos possuem direito líquido e certo ao respeito às regras constitucionais do devido processo legislativo de emendas.",
+        "B) O MS é incabível, pois o controle preventivo de constitucionalidade de PECs é exclusivo do Presidente da República.",
+        "C) O STF não pode interferir em atos interna corporis do Poder Legislativo sob nenhuma hipótese.",
+        "D) O Mandado de Segurança só pode ser impetrado após a promulgação da emenda."
+      ],
+      "correctAnswer": "A) O MS é cabível, pois parlamentares e partidos possuem direito líquido e certo ao respeito às regras constitucionais do devido processo legislativo de emendas.",
+      "explanation": "O STF firmou tese de que parlamentares possuem legitimidade para impetrar MS visando coibir o processamento de PEC que contrarie regras constitucionais (como o art. 60), configurando controle preventivo."
+    },
+    {
+      "id": 4,
+      "question": "Assinale a alternativa que indica corretamente um sujeito dotado de iniciativa para propor Emenda à Constituição Federal:",
+      "options": [
+        "A) O Procurador-Geral da República.",
+        "B) O Conselho Federal da OAB.",
+        "C) Mais da metade das Assembleias Legislativas das unidades da Federação, manifestando-se cada uma por maioria relativa de seus membros.",
+        "D) O Presidente do Supremo Tribunal Federal."
+      ],
+      "correctAnswer": "C) Mais da metade das Assembleias Legislativas das unidades da Federação, manifestando-se cada uma por maioria relativa de seus membros.",
+      "explanation": "O art. 60, III, da CF/88 elenca expressamente as Assembleias Legislativas (mais da metade, por maioria relativa) entre os legitimados para propor PECs."
+    },
+    {
+      "id": 5,
+      "question": "A respeito da hierarquia e dos efeitos normativos das Emendas Constitucionais, é correto afirmar que:",
+      "options": [
+        "A) Possuem hierarquia superior à Constituição originária, revogando qualquer cláusula pétrea com ela incompatível.",
+        "B) Possuem idêntico status hierárquico das normas originárias da Constituição, integrando-se ao texto constitucional.",
+        "C) Possuem valor de lei complementar, subordinando-se às normas originárias da Carta de 1988.",
+        "D) Possuem eficácia meramente programática, dependendo de regulamentação por portaria ministerial."
+      ],
+      "correctAnswer": "B) Possuem idêntico status hierárquico das normas originárias da Constituição, integrando-se ao texto constitucional.",
+      "explanation": "As Emendas Constitucionais entram no bloco de constitucionalidade com o mesmo grau hierárquico das normas originárias."
+    },
+    {
+      "id": 6,
+      "question": "Se uma PEC for rejeitada na Comissão de Constituição e Justiça da Câmara dos Deputados por inconstitucionalidade material, qual é o desdobramento regimental e constitucional?",
+      "options": [
+        "A) O projeto é arquivado definitivamente, aplicando-se o princípio da irrepetibilidade na mesma sessão legislativa (art. 60, § 5º).",
+        "B) A matéria é submetida diretamente a referendo popular obrigatório.",
+        "C) O Presidente da República pode avocar a matéria e promulgá-la por decreto.",
+        "D) O Senado Federal pode assumir a relatoria imediata e aprovar a PEC em turno único."
+      ],
+      "correctAnswer": "A) O projeto é arquivado definitivamente, aplicando-se o princípio da irrepetibilidade na mesma sessão legislativa (art. 60, § 5º).",
+      "explanation": "Rejeitada a proposta, aplica-se o art. 60, § 5º, da CF/88, vedando a reapresentação da matéria na mesma sessão legislativa."
+    },
+    {
+      "id": 7,
+      "question": "No que concerne ao controle repressivo de constitucionalidade exercido pelo STF sobre Emendas Constitucionais, assinale a correta:",
+      "options": [
+        "A) O STF pode julgar Ação Direta de Inconstitucionalidade (ADI) contra Emenda Constitucional que fira limites formais ou materiais (cláusulas pétreas).",
+        "B) O STF apenas emite parecer consultivo não vinculante para o Congresso.",
+        "C) O controle repressivo de ECs é competência privativa do Superior Tribunal de Justiça.",
+        "D) Emendas constitucionais jamais podem ser objeto de ADI."
+      ],
+      "correctAnswer": "A) O STF pode julgar Ação Direta de Inconstitucionalidade (ADI) contra Emenda Constitucional que fira limites formais ou materiais (cláusulas pétreas).",
+      "explanation": "O STF consolida o cabimento de ADI contra Emendas Constitucionais para fiscalizar o respeito aos limites do art. 60."
+    },
+    {
+      "id": 8,
+      "question": "Assinale a alternativa que apresenta uma vedação expressa ao processo legislativo de emendas constitucionais:",
+      "options": [
+        "A) A realização de reuniões com portas fechadas durante as comissões especiais.",
+        "B) A tramitação de PEC durante a vigência de estado de sítio, estado de defesa ou intervenção federal (limite circunstancial).",
+        "C) A utilização de recursos de tecnologia digital para votação remota de parlamentares.",
+        "D) A apresentação de emendas de bancada regional."
+      ],
+      "correctAnswer": "B) A tramitação de PEC durante a vigência de estado de sítio, estado de defesa ou intervenção federal (limite circunstancial).",
+      "explanation": "O art. 60, § 1º, veda emendas em momentos de exceção institucional (limite circunstancial)."
+    },
+    {
+      "id": 9,
+      "question": "Sobre a participação do Presidente da República no processo de Emendas à Constituição, é correto afirmar:",
+      "options": [
+        "A) Possui iniciativa privativa nas matérias de orçamento e tributação via PEC.",
+        "B) Possui apenas a faculdade de propor PECs, não participando das fases de aprovação parlamentar, sanção ou veto.",
+        "C) Deve obrigatoriamente sancionar o texto aprovado antes da promulgação pelas Mesas do Congresso.",
+        "D) Pode vetar trechos de emendas que afetem a administração federal direta."
+      ],
+      "correctAnswer": "B) Possui apenas a faculdade de propor PECs, não participando das fases de aprovação parlamentar, sanção ou veto.",
+      "explanation": "O Presidente da República é apenas um dos legitimados para iniciar uma PEC (art. 60, II); ele não sanciona nem veta."
+    },
+    {
+      "id": 10,
+      "question": "Se um Estado-Membro da Federação aprovar, por meio de sua Assembleia Legislativa, uma proposta de emenda à Constituição Estadual ampliando direitos sociais locais, tal norma:",
+      "options": [
+        "A) Configura exercício de Poder Constituinte Derivado Decorrente, devendo respeitar os princípios da CF/88.",
+        "B) Equivale a uma Emenda à Constituição Federal de validade nacional.",
+        "C) Submete-se ao quórum de 3/5 em dois turnos no Congresso Nacional.",
+        "D) É nula, pois estados não possuem poder de alterar constituição."
+      ],
+      "correctAnswer": "A) Configura exercício de Poder Constituinte Derivado Decorrente, devendo respeitar os princípios da CF/88.",
+      "explanation": "A alteração de Constituições Estaduais decorre do poder decorrente, respeitando os limites da federação."
+    },
+    {
+      "id": 11,
+      "question": "A exigência de votação em dois turnos para aprovação de PECs tem como principal objetivo dogmático:",
+      "options": [
+        "A) Aumentar a arrecadação de diárias dos parlamentares em Brasília.",
+        "B) Assegurar maior reflexão, debate aprofundado e maturação política antes da alteração do texto constitucional (rigidez constitucional).",
+        "C) Permitir que o Poder Judiciário participe da relatoria intermediária.",
+        "D) Cumprir exigência protocolar de tratados internacionais da OEA."
+      ],
+      "correctAnswer": "B) Assegurar maior reflexão, debate aprofundado e maturação política antes da alteração do texto constitucional (rigidez constitucional).",
+      "explanation": "A exigência de dois turnos e quórum qualificado consagra o princípio da rigidez constitucional."
+    },
+    {
+      "id": 12,
+      "question": "No que tange aos limites materiais (cláusulas pétreas), uma Emenda Constitucional pode suprimir direito fundamental individual se houver aprovação de 99% do Congresso?",
+      "options": [
+        "A) Sim, pois a vontade parlamentar expressiva reconstrói o pacto originário.",
+        "B) Não, pois o quórum de aprovação é irrelevante frente à barreira intransponível das cláusulas pétreas (art. 60, § 4º).",
+        "C) Sim, desde que haja referendo popular ratificador.",
+        "D) Não, a menos que o STF emita autorização prévia por votação unânime."
+      ],
+      "correctAnswer": "B) Não, pois o quórum de aprovação é irrelevante frente à barreira intransponível das cláusulas pétreas (art. 60, § 4º).",
+      "explanation": "Cláusulas pétreas são intangíveis independentemente do quórum parlamentar obtido."
+    },
+    {
+      "id": 13,
+      "question": "Assinale a alternativa correta quanto à numeração e publicação das Emendas à Constituição:",
+      "options": [
+        "A) As emendas recebem numeração sequencial ordinal própria (ex: EC nº 103/2019), distinta das leis ordinárias.",
+        "B) São numeradas em conjunto com as medidas provisórias editadas no ano.",
+        "C) São publicadas no Diário Oficial sob a rubrica exclusiva do Presidente da República.",
+        "D) Não precisam ser publicadas, bastando a leitura em plenário."
+      ],
+      "correctAnswer": "A) As emendas recebem numeração sequencial ordinal própria (ex: EC nº 103/2019), distinta das leis ordinárias.",
+      "explanation": "As Emendas Constitucionais possuem numeração própria, sequencial e ordinal, expedida pelo Congresso Nacional."
+    },
+    {
+      "id": 14,
+      "question": "Se o Congresso Nacional pretender alterar a forma federativa de Estado por meio de PEC aprovada por unanimidade, qual é a postura esperada do STF?",
+      "options": [
+        "A) Validar a emenda devido ao consenso unânime obtido no parlamento.",
+        "B) Declarar a inconstitucionalidade material da emenda, por ofensa direta ao art. 60, § 4º, I, da CF/88.",
+        "C) Converter a PEC em projeto de lei complementar.",
+        "D) Determinar a convocação imediata de nova Assembleia Constituinte."
+      ],
+      "correctAnswer": "B) Declarar a inconstitucionalidade material da emenda, por ofensa direta ao art. 60, § 4º, I, da CF/88.",
+      "explanation": "A forma federativa é cláusula pétrea; nenhuma emenda (mesmo unânime) pode aboli-la."
+    },
+    {
+      "id": 15,
+      "question": "O princípio da irrepetibilidade na mesma sessão legislativa para PECs rejeitadas ou havidas por prejudicadas está previsto expressamente no:",
+      "options": [
+        "A) Art. 60, § 5º, da Constituição Federal.",
+        "B) Art. 5º, inciso LXVIII, da Constituição Federal.",
+        "C) Art. 37, caput, da Constituição Federal.",
+        "D) Art. 102, inciso I, alínea 'a', da Constituição Federal."
+      ],
+      "correctAnswer": "A) Art. 60, § 5º, da Constituição Federal.",
+      "explanation": "O art. 60, § 5º, da CF/88 consagra o princípio da irrepetibilidade de propostas rejeitadas ou prejudicadas na mesma sessão legislativa."
+    }
+  ]
+},
+
+{
+  "nomeTema": "Direito Constitucional - Fundamentos dos Direitos e Deveres Fundamentais",
+  "questoes": [
+    {
+      "id": 1,
+      "question": "A respeito da distinção conceitual e dogmática entre direitos humanos e direitos fundamentais, assinale a alternativa correta:",
+      "options": [
+        "A) Os direitos fundamentais restringem-se unicamente aos tratados internacionais ratificados pelo Congresso Nacional.",
+        "B) Os direitos fundamentais são os direitos humanos que foram positivamente inseridos no texto de uma Constituição interna rígida.",
+        "C) Os direitos humanos possuem eficácia jurídica superior às normas constitucionais originárias internas.",
+        "D) Não há qualquer distinção terminológica ou dogmática entre ambos na teoria do direito público."
+      ],
+      "correctAnswer": "B) Os direitos fundamentais são os direitos humanos que foram positivamente inseridos no texto de uma Constituição interna rígida.",
+      "explanation": "A principal diferença é que os direitos fundamentais são aqueles consagrados no direito positivo constitucional interno de um Estado, enquanto os direitos humanos possuem base no direito internacional."
+    },
+    {
+      "id": 2,
+      "question": "Os direitos sociais, econômicos e culturais (como saúde, educação e trabalho), caracterizados por exigirem prestações positivas do Estado (estado intervencionista), integram qual dimensão (geração) dos direitos fundamentais?",
+      "options": [
+        "A) Primeira dimensão.",
+        "B) Segunda dimensão.",
+        "C) Terceira dimensão.",
+        "D) Quarta dimensão."
+      ],
+      "correctAnswer": "B) Segunda dimensão.",
+      "explanation": "Os direitos sociais, econômicos e culturais pertencem à segunda dimensão, marcados pelo lema da igualdade material e pela exigência de ações prestacionais do Estado."
+    },
+    {
+      "id": 3,
+      "question": "Acerca das características dos direitos fundamentais, assinale a opção correta sobre a característica da 'relatividade':",
+      "options": [
+        "A) Todos os direitos fundamentais previstos na CF/88 possuem caráter absoluto e intangível por lei.",
+        "B) Os direitos fundamentais não são absolutos; em caso de colisão entre dois ou mais direitos, o intérprete deve sopesá-los com base no princípio da proporcionalidade.",
+        "C) O direito à vida é o único direito absoluto do ordenamento pátrio, admitindo zero exceções.",
+        "D) A relatividade impede que os direitos fundamentais produzam efeitos jurídicos nas relações privadas."
+      ],
+      "correctAnswer": "B) Os direitos fundamentais não são absolutos; em caso de colisão entre dois ou mais direitos, o intérprete deve sopesá-los com base no princípio da proporcionalidade.",
+      "explanation": "Nenhum direito fundamental é absoluto. Havendo colisão, utiliza-se a técnica da ponderação e a proporcionalidade para harmonizá-los."
+    },
+    {
+      "id": 4,
+      "question": "A eficácia horizontal dos direitos fundamentais significa, na dogmática constitucional contemporânea, que:",
+      "options": [
+        "A) Os direitos fundamentais vinculam apenas os órgãos do Poder Executivo federal.",
+        "B) Os direitos fundamentais irradiam seus efeitos e devem ser respeitados também nas relações jurídicas privadas entre particulares.",
+        "C) Os direitos fundamentais aplicam-se exclusivamente aos Estados estrangeiros em território nacional.",
+        "D) Os particulares possuem prerrogativa de suspender garantias individuais por decreto."
+      ],
+      "correctAnswer": "B) Os direitos fundamentais irradiam seus efeitos e devem ser respeitados também nas relações jurídicas privadas entre particulares.",
+      "explanation": "A eficácia horizontal (ou externa) garante que os direitos fundamentais alcancem as relações privadas (ex: associações, empresas, condomínios, relações de trabalho)."
+    },
+    {
+      "id": 5,
+      "question": "Assinale a alternativa que apresenta corretamente uma característica inerente aos direitos fundamentais:",
+      "options": [
+        "A) Prescritibilidade, extinguindo-se se não utilizados em dez anos.",
+        "B) Alienabilidade, permitindo sua venda por contrato particular.",
+        "C) Historicidade, pois surgem e se transformam ao longo da evolução da sociedade.",
+        "D) Transitoriedade absoluta, perdendo validade a cada mudança de governo."
+      ],
+      "correctAnswer": "C) Historicidade, pois surgem e se transformam ao longo da evolução da sociedade.",
+      "explanation": "A historicidade demonstra que os direitos fundamentais não são imutáveis; eles nascem, evoluem em dimensões e adaptam-se às necessidades sociais."
+    },
+    {
+      "id": 6,
+      "question": "O direito ao meio ambiente ecologicamente equilibrado e a proteção dos direitos transindividuais (difusos e coletivos) pertencem a qual dimensão dos direitos fundamentais?",
+      "options": [
+        "A) Primeira dimensão.",
+        "B) Segunda dimensão.",
+        "C) Terceira dimensão.",
+        "D) Quarta dimensão."
+      ],
+      "correctAnswer": "C) Terceira dimensão.",
+      "explanation": "Os direitos de terceira dimensão são marcados pelo princípio da fraternidade/solidariedade, tutelando interesses difusos e coletivos, como o meio ambiente."
+    },
+    {
+      "id": 7,
+      "question": "No que tange à aplicabilidade das normas definidoras de direitos e garantias fundamentais, o art. 5º, § 1º, da CF/88 estabelece que tais normas possuem:",
+      "options": [
+        "A) Eficácia limitada dependente de lei ordinária federal obrigatória para gerar efeitos mínimos.",
+        "B) Aplicação imediata.",
+        "C) Mera natureza programática sem qualquer vinculação obrigatória para juízes.",
+        "D) Eficácia contida restrita aos decretos regulamentares do Poder Executivo."
+      ],
+      "correctAnswer": "B) Aplicação imediata.",
+      "explanation": "O art. 5º, § 1º, da CF/88 consagra expressamente que as normas definidoras de direitos e garantias fundamentais têm aplicação imediata."
+    },
+    {
+      "id": 8,
+      "question": "Se uma associação privada punir um associado sem lhe dar direito de defesa, violando diretrizes constitucionais internas, a jurisprudência do STF autoriza o controle jurisdicional fundamentado na:",
+      "options": [
+        "A) Teoria da eficácia horizontal dos direitos fundamentais.",
+        "B) Imunidade parlamentar absoluta dos dirigentes.",
+        "C) Teoria do fato consumado administrativo.",
+        "D) Incompetência absoluta da Justiça Comum para litígios associativos."
+      ],
+      "correctAnswer": "A) Teoria da eficácia horizontal dos direitos fundamentais.",
+      "explanation": "O STF aplica a eficácia horizontal para estender o contraditório e a ampla defesa às entidades privadas."
+    },
+    {
+      "id": 9,
+      "question": "A característica da 'inalienabilidade' dos direitos fundamentais significa que:",
+      "options": [
+        "A) Eles podem ser comercializados livremente por escritura pública.",
+        "B) Não possuem valor econômico patrimonial disponível, não podendo ser objeto de comércio ou transferência.",
+        "C) Devem ser renunciados em prol da segurança nacional.",
+        "D) Expiram automaticamente com a maioridade civil do titular."
+      ],
+      "correctAnswer": "B) Não possuem valor econômico patrimonial disponível, não podendo ser objeto de comércio ou transferência.",
+      "explanation": "Inalienabilidade significa que os direitos fundamentais estão fora do comércio jurídico patrimonial."
+    },
+    {
+      "id": 10,
+      "question": "Sobre os direitos fundamentais de quarta dimensão, apontados pela doutrina de Paulo Bonavides, é correto afirmar que compreendem:",
+      "options": [
+        "A) A globalização política, o direito à informação, o pluralismo e a bioética.",
+        "B) Exclusivamente os direitos laborais clássicos de 1919.",
+        "C) O direito ao sufrágio censitário masculino.",
+        "D) A regulamentação de feudos medievais."
+      ],
+      "correctAnswer": "A) A globalização política, o direito à informação, o pluralismo e a bioética.",
+      "explanation": "A quarta dimensão engloba a globalização dos direitos fundamentais, a democracia, a informação e a engenharia genética/bioética."
+    },
+    {
+      "id": 11,
+      "question": "A proibição de retrocesso social (efeito cliquet) atua como barreira para que:",
+      "options": [
+        "A) O Estado elimine arbitrariamente direitos sociais já incorporados sem a devida justificativa constitucional ou alternativa proporcional.",
+        "B) Os tribunais superiores julguem recursos extraordinários em matéria penal.",
+        "C) Os cidadãos votem em eleições municipais de dois turnos.",
+        "D) As leis complementares federais sejam revisadas pelo Congresso."
+      ],
+      "correctAnswer": "A) O Estado elimine arbitrariamente direitos sociais já incorporados sem a devida justificativa constitucional ou alternativa proporcional.",
+      "explanation": "O princípio da proibição de retrocesso protege conquistas sociais já efetivadas contra desmonte estatal arbitrário."
+    },
+    {
+      "id": 12,
+      "question": "Assinale a alternativa correta quanto à titularidade dos direitos fundamentais na ordem constitucional brasileira:",
+      "options": [
+        "A) Apenas os cidadãos brasileiros natos possuem direitos fundamentais oponíveis ao Estado.",
+        "B) Tanto os brasileiros quanto os estrangeiros residentes ou em trânsito no país possuem ampla titularidade de direitos fundamentais (como vida, igualdade e segurança), respeitadas as restrições constitucionais expressas.",
+        "C) As pessoas jurídicas de direito privado jamais podem invocar direitos fundamentais em juízo.",
+        "D) Os apátridas não possuem qualquer resguardo jurídico no Brasil."
+      ],
+      "correctAnswer": "B) Tanto os brasileiros quanto os estrangeiros residentes ou em trânsito no país possuem ampla titularidade de direitos fundamentais (como vida, igualdade e segurança), respeitadas as restrições constitucionais expressas.",
+      "explanation": "O caput do art. 5º da CF/88 garante os direitos fundamentais tanto aos brasileiros quanto aos estrangeiros residentes no país."
+    },
+    {
+      "id": 13,
+      "question": "A imprescritibilidade dos direitos fundamentais assegura que:",
+      "options": [
+        "A) O titular não perde o direito de exercê-lo ou reivindicá-lo pelo simples decurso do tempo.",
+        "B) As ações de reparação por danos morais nunca prescrevem contra o Estado.",
+        "C) Os crimes hediondos prescrevem em prazo dobrado.",
+        "D) Os mandados de segurança podem ser impetrados a qualquer momento sem prazo decadencial."
+      ],
+      "correctAnswer": "A) O titular não perde o direito de exercê-lo ou reivindicá-lo pelo simples decurso do tempo.",
+      "explanation": "Imprescritibilidade significa que o transcurso do tempo não faz perecer a essência do direito fundamental."
+    },
+    {
+      "id": 14,
+      "question": "O princípio da concordância prática, frequentemente aplicado na resolução de colisões entre direitos fundamentais, orienta que:",
+      "options": [
+        "A) Um direito deve ser totalmente sacrificado em benefício do outro.",
+        "B) Deve-se buscar a coordenação e a harmonização dos bens jurídicos em conflito, evitando a anulação total de qualquer um deles.",
+        "C) O direito penal deve prevalecer sempre sobre os direitos civis.",
+        "D) O STF tem competência exclusiva para extinguir o direito em litígio."
+      ],
+      "correctAnswer": "B) Deve-se buscar a coordenação e a harmonização dos bens jurídicos em conflito, evitando a anulação total de qualquer um deles.",
+      "explanation": "A concordância prática exige otimização conjunta dos bens em colisão, evitando sacrifício total de um em prol do outro."
+    },
+    {
+      "id": 15,
+      "question": "Em relação aos direitos e deveres individuais e coletivos previstos no art. 5º da CF/88, assinale a assertiva correta:",
+      "options": [
+        "A) O rol de direitos e garantias fundamentais expresso no art. 5º é taxativo, vedando o reconhecimento de outros direitos fora dele.",
+        "B) O rol do art. 5º é meramente exemplificativo (numerus apertus), admitindo outros direitos fundamentais decorrentes do regime e dos princípios adotados pela Constituição.",
+        "C) Apenas os direitos inseridos por emenda constitucional possuem eficácia jurídica plena.",
+        "D) Os tratados internacionais de direitos humanos aprovados por rito comum possuem status supraconstitucional automático."
+      ],
+      "correctAnswer": "B) O rol do art. 5º é meramente exemplificativo (numerus apertus), admitindo outros direitos fundamentais decorrentes do regime e dos princípios adotados pela Constituição.",
+      "explanation": "O § 2º do art. 5º da CF/88 deixa claro que o rol de direitos fundamentais é exemplificativo (*numerus apertus*), admitindo direitos implícitos e advindos de tratados internacionais."
+    }
+  ]
+},
+
+{
+  "nomeTema": "Direito Constitucional - Direitos e Deveres Individuais e Coletivos",
+  "questoes": [
+    {
+      "id": 1,
+      "question": "Acerca da inviolabilidade de domicílio prevista no art. 5º, inciso XI, da Constituição Federal, assinale a alternativa correta:",
+      "options": [
+        "A) A polícia pode ingressar em qualquer residência a qualquer hora do dia ou da noite, desde que munida de mandado de busca e apreensão assinado por Delegado de Polícia.",
+        "B) A casa é asilo inviolável, sendo lícito o ingresso sem consentimento do morador durante a noite em caso de cumprimento de mandado judicial de busca e apreensão.",
+        "C) O ingresso forçado em domicílio sem mandado judicial é lícito a qualquer hora do dia ou da noite em caso de flagrante delito, desastre ou para prestar socorro.",
+        "D) Denúncias anônimas isoladas legitimam o ingresso noturno e forçado da polícia em residências sem necessidade de verificação prévia."
+      ],
+      "correctAnswer": "C) O ingresso forçado em domicílio sem mandado judicial é lícito a qualquer hora do dia ou da noite em caso de flagrante delito, desastre ou para prestar socorro.",
+      "explanation": "O art. 5º, XI, permite o ingresso sem consentimento a qualquer hora (dia ou noite) em caso de flagrante, desastre ou socorro. Mandado judicial só pode ser cumprido durante o *dia*."
+    },
+    {
+      "id": 2,
+      "question": "No que tange à prisão civil por dívida no ordenamento jurídico brasileiro atual, assinale a opção correta à luz da CF/88 e da jurisprudência do STF:",
+      "options": [
+        "A) É admitida a prisão civil do depositário infiel e do inadimplente de pensão alimentícia.",
+        "B) A única hipótese constitucional de prisão civil por dívida é a do inadimplente voluntário e inescusável de obrigação alimentar.",
+        "C) Qualquer dívida comercial inadimplida por mais de 90 dias autoriza o decreto de prisão civil pelo juiz cível.",
+        "D) É terminantemente vedada qualquer forma de prisão civil por dívida no Brasil."
+      ],
+      "correctAnswer": "B) A única hipótese constitucional de prisão civil por dívida é a do inadimplente voluntário e inescusável de obrigação alimentar.",
+      "explanation": "A Súmula Vinculante 25 do STF pacificou que é ilícita a prisão civil do depositário infiel, restando apenas a prisão do devedor de alimentos."
+    },
+    {
+      "id": 3,
+      "question": "Sobre os crimes imprescritíveis previstos na Constituição Federal de 1988, assinale a alternativa que apresenta corretamente tais delitos:",
+      "options": [
+        "A) Tráfico ilícito de entorpecentes e tortura.",
+        "B) Racismo e a ação de grupos armados, civis ou militares, contra a ordem constitucional e o Estado Democrático.",
+        "C) Homicídio qualificado e estupro de vulnerável.",
+        "D) Corrupção passiva e lavagem de dinheiro."
+      ],
+      "correctAnswer": "B) Racismo e a ação de grupos armados, civis ou militares, contra a ordem constitucional e o Estado Democrático.",
+      "explanation": "O art. 5º, XLII e XLIV, estabelece que a prática do racismo e a ação de grupos armados contra a ordem constitucional são imprescritíveis."
+    },
+    {
+      "id": 4,
+      "question": "Assinale a opção correta a respeito da inadmissibilidade de provas ilícitas no processo (art. 5º, LVI, da CF/88):",
+      "options": [
+        "A) Provas ilícitas podem ser utilizadas em desfavor do réu se forem a única forma de evitar a absolvição em crimes hediondos.",
+        "B) A proibição de provas ilícitas alcança também as provas derivadas daquelas taintadas pela ilegalidade original, salvo ressalvas da fonte independente.",
+        "C) O juiz pode admitir escutas telefônicas clandestinas feitas por particulares se houver interesse jornalístico relevante.",
+        "D) A licitude da prova é convalidada automaticamente após o trânsito em julgado da ação penal."
+      ],
+      "correctAnswer": "B) A proibição de provas ilícitas alcança também as provas derivadas daquelas taintadas pela ilegalidade original, salvo ressalvas da fonte independente.",
+      "explanation": "Consagra-se a Teoria dos Frutos da Árvore Envenenada, estendendo a nulidade às provas derivadas, com exceção da teoria da fonte independente ou descoberta inevitável."
+    },
+    {
+      "id": 5,
+      "question": "A garantia constitucional do habeas corpus (art. 5º, LXVIII) destina-se a proteger qual direito fundamental?",
+      "options": [
+        "A) O direito de propriedade intelectual e industrial.",
+        "B) A liberdade de locomoção, sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação por ilegalidade ou abuso de poder.",
+        "C) O sigilo das comunicações telemáticas.",
+        "D) O direito subjetivo de acesso a cargos públicos."
+      ],
+      "correctAnswer": "B) A liberdade de locomoção, sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação por ilegalidade ou abuso de poder.",
+      "explanation": "O habeas corpus é o remédio constitucional heroico voltado exclusivamente à proteção da liberdade de locomoção (ir, vir e ficar)."
+    },
+    {
+      "id": 6,
+      "question": "Sobre a liberdade de expressão e manifestação do pensamento (art. 5º, IV e IX, da CF/88), é correto afirmar que o ordenamento brasileiro:",
+      "options": [
+        "A) Permite a censura prévia de jornais e revistas por decisão administrativa de delegacias de polícia.",
+        "B) Veda o anonimato, sendo livre a manifestação do pensamento, mas assegurado o direito de resposta e indenização por dano material ou moral.",
+        "C) Concede imunidade absoluta a qualquer declaração proferida em redes sociais, mesmo que configure discurso de ódio.",
+        "D) Exige autorização prévia do Ministério da Justiça para a publicação de biografias."
+      ],
+      "correctAnswer": "B) Veda o anonimato, sendo livre a manifestação do pensamento, mas assegurado o direito de resposta e indenização por dano material ou moral.",
+      "explanation": "O art. 5º, IV, proíbe o anonimato, garantindo a liberdade de expressão associada à responsabilidade civil/penal e ao direito de resposta."
+    },
+    {
+      "id": 7,
+      "question": "No que concerne ao direito de propriedade (art. 5º, XXII e XXIII, da CF/88), assinale a alternativa correta:",
+      "options": [
+        "A) A propriedade atenderá à sua função social.",
+        "B) O direito de propriedade é absoluto, vedando-se desapropriação pelo Estado sob qualquer pretexto.",
+        "C) Em caso de iminente perigo público, a autoridade competente poderá usar de propriedade particular, sem direito a indenização posterior em nenhuma hipótese.",
+        "D) A pequena propriedade rural, desde que trabalhada pela família, pode ser penhorada para pagamento de dívidas comerciais."
+      ],
+      "correctAnswer": "A) A propriedade atenderá à sua função social.",
+      "explanation": "O art. 5º, XXIII, estabelece expressamente que a propriedade atenderá à sua função social. O uso em perigo público iminente garante indenização posterior se houver dano."
+    },
+    {
+      "id": 8,
+      "question": "A garantia constitucional do Mandado de Segurança (art. 5º, LXIX) protege:",
+      "options": [
+        "A) Direito líquido e certo, não amparado por habeas corpus ou habeas data, quando o responsável pela ilegalidade for autoridade pública ou agente de pessoa jurídica no exercício de atribuições do poder público.",
+        "B) Exclusivamente direitos difusos de proteção ao consumidor.",
+        "C) O direito de certidão em repartições públicas para defesa de direitos.",
+        "D) A anulação de leis em tese por qualquer cidadão."
+      ],
+      "correctAnswer": "A) Direito líquido e certo, não amparado por habeas corpus ou habeas data, quando o responsável pela ilegalidade for autoridade pública ou agente de pessoa jurídica no exercício de atribuições do poder público.",
+      "explanation": "O MS protege direito líquido e certo contra ilegalidade ou abuso de poder de autoridade pública (ou equiparada), não amparado por HC ou HD."
+    },
+    {
+      "id": 9,
+      "question": "Sobre a extradição de nacionais e estrangeiros (art. 5º, LI e LII, da CF/88), assinale a correta:",
+      "options": [
+        "A) O brasileiro nato poderá ser extraditado se cometer crime hediondo no exterior.",
+        "B) Não será concedida a extradição de estrangeiro por crime político ou de opinião.",
+        "C) O brasileiro naturalizado pode ser extraditado a qualquer momento por crime comum praticado antes ou depois da naturalização.",
+        "D) A extradição de brasileiros natos depende de autorização do Senado Federal."
+      ],
+      "correctAnswer": "B) Não será concedida a extradição de estrangeiro por crime político ou de opinião.",
+      "explanation": "O art. 5º, LII, veda expressamente a extradição de estrangeiro por crime político ou de opinião. Brasileiro nato jamais é extraditado; naturalizado apenas em caso de tráfico de drogas ou crime comum antes da naturalização."
+    },
+    {
+      "id": 10,
+      "question": "A Ação Popular (art. 5º, LXXIII) pode ser proposta por:",
+      "options": [
+        "A) Qualquer cidadão que vise a anular ato lesivo ao patrimônio público ou de entidade de que o Estado participe, à moralidade administrativa, ao meio ambiente e ao patrimônio histórico e cultural.",
+        "B) Exclusivamente o Ministério Público Federal.",
+        "C) Partidos políticos com representação no Congresso Nacional.",
+        "D) Associações de classe constituídas há pelo menos cinco anos."
+      ],
+      "correctAnswer": "A) Qualquer cidadão que vise a anular ato lesivo ao patrimônio público ou de entidade de que o Estado participe, à moralidade administrativa, ao meio ambiente e ao patrimônio histórico e cultural.",
+      "explanation": "A ação popular é prerrogativa de cidadão (portador de direitos políticos ativos) para anular atos lesivos ao erário, moralidade, meio ambiente e patrimônio."
+    },
+    {
+      "id": 11,
+      "question": "Assinale a alternativa correta sobre a exigência de gratuidade ou custas nos remédios constitucionais do habeas corpus e do habeas data:",
+      "options": [
+        "A) Ambos exigem o pagamento prévio de custas judiciais e taxas de distribuição.",
+        "B) São gratuitos o habeas corpus e o habeas data, bem como, na forma da lei, os atos necessários ao exercício da cidadania.",
+        "C) Apenas o habeas data possui gratuidade absoluta; o habeas corpus cobra emolumentos.",
+        "D) A gratuidade depende de comprovação de hipossuficiência financeira perante o juiz."
+      ],
+      "correctAnswer": "B) São gratuitos o habeas corpus e o habeas data, bem como, na forma da lei, os atos necessários ao exercício da cidadania.",
+      "explanation": "O art. 5º, LXXVII, consagra expressamente a gratuidade para o habeas corpus e para o habeas data."
+    },
+    {
+      "id": 12,
+      "question": "O princípio da anterioridade da lei penal (nullum crimen, nulla poena sine praevia lege) garante que:",
+      "options": [
+        "A) Nenhuma pena pode ser aplicada sem prévia cominação legal, não havendo crime sem lei anterior que o defina, nem pena sem prévia cominação legal.",
+        "B) O juiz pode criar novos crimes por analogia se houver clamor público.",
+        "C) A lei penal pode retroagir para prejudicar o réu em qualquer hipótese.",
+        "D) Medidas provisórias podem definir crimes e cominar penas privativas de liberdade severas."
+      ],
+      "correctAnswer": "A) Nenhuma pena pode ser aplicada sem prévia cominação legal, não havendo crime sem lei anterior que o defina, nem pena sem prévia cominação legal.",
+      "explanation": "O art. 5º, XXX9, consagra a legalidade e a anterioridade penal: não há crime sem lei anterior que o defina, nem pena sem prévia cominação legal."
+    },
+    {
+      "id": 13,
+      "question": "A garantia do duplo grau de jurisdição e o direito ao contraditório e à ampla defesa (art. 5º, LV) aplicam-se:",
+      "options": [
+        "A) Apenas aos processos judiciais criminais, sendo vedados em processos administrativos disciplinares.",
+        "B) Aos litigantes em processo judicial ou administrativo, e aos acusados em geral, assegurados os meios e recursos a ele inerentes.",
+        "C) Exclusivamente aos órgãos do Poder Legislativo federal.",
+        "D) Somente quando houver condenação em primeira instância superior a 8 anos."
+      ],
+      "correctAnswer": "B) Aos litigantes em processo judicial ou administrativo, e aos acusados em geral, assegurados os meios e recursos a ele inerentes.",
+      "explanation": "O devido processo legal, contraditório e ampla defesa aplicam-se expressamente tanto a processos judiciais quanto a administrativos."
+    },
+    {
+      "id": 14,
+      "question": "No que diz respeito ao direito de reunião (art. 5º, XVI, da CF/88), assinale a correta:",
+      "options": [
+        "A) Todos podem reunir-se pacificamente, sem armas, em locais abertos ao público, independentemente de prévia autorização ou aviso à autoridade competente, desde que não frustrem outra reunião anteriormente convocada para o mesmo local.",
+        "B) Exige-se autorização prévia por escrito da autoridade policial com 30 dias de antecedência.",
+        "C) É proibida a realização de reuniões em praças públicas aos domingos.",
+        "D) O direito de reunião depende de alvará de funcionamento emitido pela prefeitura."
+      ],
+      "correctAnswer": "A) Todos podem reunir-se pacificamente, sem armas, em locais abertos ao público, independentemente de prévia autorização ou aviso à autoridade competente, desde que não frustrem outra reunião anteriormente convocada para o mesmo local.",
+      "explanation": "O direito de reunião exige apenas **prévio aviso** (e não autorização prévia) à autoridade competente, desde que pacífico, sem armas e sem frustrar outra reunião anterior."
+    },
+    {
+      "id": 15,
+      "question": "A lei não excluirá da apreciação do Poder Judiciário lesão ou ameaça a direito (Princípio da Inafastabilidade da Jurisdição ou Acesso à Justiça). Esse preceito constitui:",
+      "options": [
+        "A) Cláusula pétrea de garantia individual protegida pelo art. 5º, XXXV, da CF/88.",
+        "B) Regra dispositiva passível de supressão por convenção de arbitragem obrigatória.",
+        "C) Norma programática sem eficácia jurídica direta.",
+        "D) Prerrogativa exclusiva do Ministério Público."
+      ],
+      "correctAnswer": "A) Cláusula pétrea de garantia individual protegida pelo art. 5º, XXXV, da CF/88.",
+      "explanation": "O princípio do livre acesso à justiça (inafastabilidade da jurisdição) é direito fundamental individual e cláusula pétrea (art. 5º, XXXV)."
+    }
+  ]
+},
+
+
+{
+  "nomeTema": "Direito Constitucional - Vida, Liberdade, Igualdade, Seguranca e Propriedade",
+  "questoes": [
+    {
+      "id": 1,
+      "question": "No que tange ao direito à vida e à proibição da pena de morte no ordenamento constitucional brasileiro (art. 5º, XLVII, 'a', da CF/88), assinale a alternativa correta:",
+      "options": [
+        "A) A pena de morte é permitida em caso de crimes hediondos praticados com extrema crueldade.",
+        "B) Não haverá pena de morte, salvo em caso de guerra declarada, nos termos do art. 84, XIX.",
+        "C) O Congresso Nacional pode instituir pena de morte por meio de lei complementar aprovada por maioria absoluta.",
+        "D) A pena de morte é admitida para traição à pátria em tempos de paz e normalidade institucional."
+      ],
+      "correctAnswer": "B) Não haverá pena de morte, salvo em caso de guerra declarada, nos termos do art. 84, XIX.",
+      "explanation": "A regra é o banimento da pena de morte, ressalvada expressamente a única exceção constitucional: guerra declarada."
+    },
+    {
+      "id": 2,
+      "question": "Sobre a liberdade de manifestação do pensamento e os limites constitucionais previstos no art. 5º da CF/88, assinale a opção correta:",
+      "options": [
+        "A) É livre a manifestação do pensamento, sendo permitido o anonimato em cartas de denúncia formal enviadas à ouvidoria.",
+        "B) É livre a manifestação do pensamento, sendo vedado o anonimato, e assegurado o direito de resposta proporcional ao agravo, além da indenização por dano material ou moral.",
+        "C) O Estado pode exercer censura prévia em programas televisivos exibidos antes das vinte e duas horas.",
+        "D) A publicação de biografias de pessoas públicas depende de autorização prévia por escrito do biografado ou de sua família."
+      ],
+      "correctAnswer": "B) É livre a manifestação do pensamento, sendo vedado o anonimato, e assegurado o direito de resposta proporcional ao agravo, além da indenização por dano material ou moral.",
+      "explanation": "O art. 5º, IV, veda o anonimato e consagra o direito de resposta e indenização. O STF também pacificou que biografias não exigem autorização prévia."
+    },
+    {
+      "id": 3,
+      "question": "Acerca do direito de propriedade e sua função social (art. 5º, XXII e XXIII, da CF/88), assinale a alternativa correta:",
+      "options": [
+        "A) A propriedade privada possui caráter absoluto, não podendo sofrer limitações administrativas de interesse público.",
+        "B) A propriedade atenderá à sua função social, podendo o Estado desapropriá-la por necessidade ou utilidade pública, mediante prévia e justa indenização em dinheiro.",
+        "C) A pequena propriedade rural trabalhada pela família pode ser penhorada para pagamento de empréstimos bancários agrícolas.",
+        "D) A desapropriação por interesse social nunca gera direito a indenização."
+      ],
+      "correctAnswer": "B) A propriedade atenderá à sua função social, podendo o Estado desapropriá-la por necessidade ou utilidade pública, mediante prévia e justa indenização em dinheiro.",
+      "explanation": "A propriedade submete-se à função social. A desapropriação ordinária (necessidade/utilidade/interesse social) exige prévia e justa indenização em dinheiro."
+    },
+    {
+      "id": 4,
+      "question": "No que concerne à liberdade profissional e ao exercício de ofícios (art. 5º, XIII, da CF/88), o STF entende que:",
+      "options": [
+        "A) A exigência de diploma de curso superior para o exercício de qualquer profissão é sempre inconstitucional.",
+        "B) É livre o exercício de qualquer trabalho, ofício ou profissão, mas a lei pode estabelecer qualificações profissionais obrigatórias quando houver potencial risco de dano social (ex: medicina e advocacia).",
+        "C) O Estado não pode fiscalizar conselhos profissionais de classe.",
+        "D) Profissões de nível técnico independem de qualquer regulamentação legal."
+      ],
+      "correctAnswer": "B) É livre o exercício de qualquer trabalho, ofício ou profissão, mas a lei pode estabelecer qualificações profissionais obrigatórias quando houver potencial risco de dano social (ex: medicina e advocacia).",
+      "explanation": "O art. 5º, XIII, é norma de eficácia contida: a lei restringe o exercício profissional quando há relevância social e risco de dano (ex: médico, advogado, engenheiro)."
+    },
+    {
+      "id": 5,
+      "question": "A garantia da segurança jurídica consubstanciada no respeito ao direito adquirido, ao ato jurídico perfeito e à coisa julgada (art. 5º, XXXVI, da CF/88) vincula:",
+      "options": [
+        "A) Apenas os juízes de primeiro grau da justiça comum.",
+        "B) A própria lei nova (o legislador), que não poderá retroagir para atingir situações jurídicas consolidadas sob a vigência de lei anterior.",
+        "C) Exclusivamente os contratos de locação imobiliária residencial.",
+        "D) O poder executivo em decretos de calamidade pública."
+      ],
+      "correctAnswer": "B) A própria lei nova (o legislador), que não poderá retroagir para atingir situações jurídicas consolidadas sob a vigência de lei anterior.",
+      "explanation": "A irretroatividade da lei para proteger o direito adquirido, o ato jurídico perfeito e a coisa julgada é mandamento constitucional que vincula inclusive o legislador."
+    },
+    {
+      "id": 6,
+      "question": "Sobre a liberdade religiosa e de crença no Brasil (art. 5º, VI, VII e VIII, da CF/88), é correto afirmar que:",
+      "options": [
+        "A) Ninguém será privado de direitos por motivo de crença religiosa ou de convicção filosófica, salvo se recusar cumprir obrigação a todas imposta e recusar prestação alternativa fixada em lei.",
+        "B) O Brasil é um Estado confessional vinculado à religião católica apostólica romana.",
+        "C) É obrigatório o ensino religioso confessional nas escolas públicas de ensino médio.",
+        "D) Cultos religiosos dependem de autorização prévia do Ministério da Justiça para funcionamento."
+      ],
+      "correctAnswer": "A) Ninguém será privado de direitos por motivo de crença religiosa ou de convicção filosófica, salvo se recusar cumprir obrigação a todas imposta e recusar prestação alternativa fixada em lei.",
+      "explanation": "Trata-se da escusa de consciência (art. 5º, VIII): a perda de direitos ocorre se o indivíduo invocar crença para eximir-se de obrigação legal a todos imposta e recusar a prestação alternativa."
+    },
+    {
+      "id": 7,
+      "question": "A proibição de censura prévia no direito brasileiro (art. 5º, IX, da CF/88) significa que:",
+      "options": [
+        "A) As emissoras de rádio e TV só podem exibir filmes após liberação de alvará policial preventivo.",
+        "B) A manifestação artística, de comunicação e de imprensa é livre de controle governamental prévio, respondendo os autores e veículos pelos excessos cometidos na esfera civil e penal (*a posteriori*).",
+        "C) Livros didáticos dependem de aprovação do Ministério da Educação antes da impressão.",
+        "D) Manifestações políticas em praça pública exigem autorização de delegado."
+      ],
+      "correctAnswer": "B) A manifestação artística, de comunicação e de imprensa é livre de controle governamental prévio, respondendo os autores e veículos pelos excessos cometidos na esfera civil e penal (*a posteriori*).",
+      "explanation": "A Constituição veda qualquer censura prévia, garantindo responsabilização apenas *a posteriori*."
+    },
+    {
+      "id": 8,
+      "question": "No que tange ao princípio da igualdade entre homens e mulheres (art. 5º, I, da CF/88), assinale a alternativa correta:",
+      "options": [
+        "A) Homens e mulheres são iguais em direitos e obrigações, nos termos da Constituição.",
+        "B) As mulheres possuem prioridade absoluta em cargos de chefia do Poder Judiciário por força de lei complementar.",
+        "C) O princípio da isonomia impede a fixação de idade diferenciada de aposentadoria entre gêneros.",
+        "D) É vedada a concessão de licença-maternidade superior a 60 dias."
+      ],
+      "correctAnswer": "A) Homens e mulheres são iguais em direitos e obrigações, nos termos da Constituição.",
+      "explanation": "O art. 5º, I, estabelece expressamente a igualdade jurídica entre homens e mulheres."
+    },
+    {
+      "id": 9,
+      "question": "Se o Poder Público desapropriar uma gleba de terras particulares por interesse social para fins de reforma agrária, a indenização devida ao proprietário será paga em:",
+      "options": [
+        "A) Dinheiro à vista antes da imissão na posse.",
+        "B) Títulos da dívida agrária, com cláusula de preservação do valor real, resgatáveis em até vinte anos.",
+        "C) Ações ordinárias da bolsa de valores geridas pelo Banco Central.",
+        "D) Imóveis públicos situados no exterior."
+      ],
+      "correctAnswer": "B) Títulos da dívida agrária, com cláusula de preservação do valor real, resgatáveis em até vinte anos.",
+      "explanation": "A desapropriação por interesse social para reforma agrária indeniza-se mediante Títulos da Dívida Agrária (TDA), diferentemente da utilidade/necessidade pública comum, que exige dinheiro."
+    },
+    {
+      "id": 10,
+      "question": "A inviolabilidade do sigilo de correspondência e das comunicações telegráficas, de dados e telefônicas (art. 5º, XII, da CF/88) pode ser afastada por:",
+      "options": [
+        "A) Ordem fundamentada de Delegado de Polícia em investigação de furto simples.",
+        "B) Ordem judicial, nas hipóteses e na forma que a lei estabelecer para fins de investigação criminal ou instrução processual penal.",
+        "C) Requerimento administrativo de promotor de justiça sem aval do juiz.",
+        "D) Decisão soberana da diretoria de empresas de telecomunicações."
+      ],
+      "correctAnswer": "B) Ordem judicial, nas hipóteses e na forma que a lei estabelecer para fins de investigação criminal ou instrução processual penal.",
+      "explanation": "O sigilo de comunicações e dados exige reserva de jurisdição (exclusivo por ordem judicial para investigação criminal ou instrução processual)."
+    },
+    {
+      "id": 11,
+      "question": "Assinale a alternativa correta quanto ao direito de herança (art. 5º, XXX, da CF/88):",
+      "options": [
+        "A) É garantido o direito de herança, sendo vedada a tributação de inventários acima de um milhão de reais.",
+        "B) É garantido o direito de herança.",
+        "C) O Estado absorve 50% de todo e qualquer espólio deixado sem testamento público.",
+        "D) O direito de herança é considerado cláusula pétrea apenas para herdeiros necessários em linha reta colateral."
+      ],
+      "correctAnswer": "B) É garantido o direito de herança.",
+      "explanation": "O art. 5º, XXX, garante de forma direta e concisa o direito de herança."
+    },
+    {
+      "id": 12,
+      "question": "A garantia constitucional que assegura o direito de obter certidões em repartições públicas para defesa de direitos e esclarecimento de situações de interesse pessoal (art. 5º, XXXIV, 'b') é instrumentalizada juridicamente pelo remédio constitucional denominado:",
+      "options": [
+        "A) Mandado de Segurança repressivo.",
+        "B) Habeas Data.",
+        "C) Direito de petição e expedição de certidão (assegurado independentemente do pagamento de taxas para defesa de direitos).",
+        "D) Ação popular ambiental."
+      ],
+      "correctAnswer": "C) Direito de petição e expedição de certidão (assegurado independentemente do pagamento de taxas para defesa de direitos).",
+      "explanation": "O art. 5º, XXXIV, assegura o direito de petição aos poderes públicos contra ilegalidade ou abuso de poder e a obtenção de certidões para defesa de direitos, independentemente do pagamento de taxas."
+    },
+    {
+      "id": 13,
+      "question": "No que tange à garantia da irretroatividade da lei (art. 5º, XL, da CF/88), a lei penal não retroagirá, salvo para:",
+      "options": [
+        "A) Prejudicar o réu, desde que aprovada por maioria absoluta do congresso.",
+        "B) Beneficiar o réu (lex mitior / retroatividade benéfica).",
+        "C) Aumentar o prazo prescricional de crimes contra a administração pública.",
+        "D) Permitir prisões cautelares mais severas em crimes hediondos."
+      ],
+      "correctAnswer": "B) Beneficiar o réu (lex mitior / retroatividade benéfica).",
+      "explanation": "A lei penal não retroage, salvo para beneficiar o réu, princípio basilar do direito penal e constitucional."
+    },
+    {
+      "id": 14,
+      "question": "A proteção constitucional ao consumidor (art. 5º, XXXII) estabelece que:",
+      "options": [
+        "A) O Estado promoverá, na forma da lei, a defesa do consumidor.",
+        "B) Os preços de produtos essenciais serão fixados diretamente por portaria do Ministério da Fazenda.",
+        "C) Fica proibida a cobrança de juros bancários acima de 6% ao ano em contratos de consumo.",
+        "D) O direito do consumidor possui eficácia limitada dependente de ratificação por tratado da OEA."
+      ],
+      "correctAnswer": "A) O Estado promoverá, na forma da lei, a defesa do consumidor.",
+      "explanation": "O art. 5º, XXXII, consagra como direito e garantia fundamental que o Estado promoverá a defesa do consumidor (o que resultou na edição do CDC - Lei nº 8.078/1990)."
+    },
+    {
+      "id": 15,
+      "question": "Em relação à garantia constitucional de acesso à jurisdição (art. 5º, XXXV — Princípio da Inafastabilidade da Tutela Jurisdicional), assinale a correta:",
+      "options": [
+        "A) A lei não excluirá da apreciação do Poder Judiciário lesão ou ameaça a direito.",
+        "B) O cidadão deve esgotar todas as instâncias administrativas federais antes de ajuizar qualquer ação judicial cível.",
+        "C) A arbitragem privada é inconstitucional por afastar a jurisdição estatal.",
+        "D) Litígios de valor inferior a dez salários mínimos não podem ser submetidos a juízes togados."
+      ],
+      "correctAnswer": "A) A lei não excluirá da apreciação do Poder Judiciário lesão ou ameaça a direito.",
+      "explanation": "O princípio da inafastabilidade da jurisdição garante que nenhuma lesão ou ameaça a direito pode ser sonegada da apreciação do Poder Judiciário."
+    }
+  ]
+}
+
+
+
+
+
+
   ]
 }
