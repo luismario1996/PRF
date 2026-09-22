@@ -3,12 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Plataforma de Estudos - Múltiplos JSONs</title>
+    <title>Plataforma de Estudos - Matérias e Temas</title>
     <style>
         :root {
             --bg-color: #f4f7f6;
             --card-bg: #ffffff;
             --primary: #4a90e2;
+            --primary-hover: #357abd;
             --text-main: #333333;
             --text-muted: #666666;
             --border: #e0e0e0;
@@ -69,6 +70,48 @@
             border-color: var(--primary);
         }
 
+        /* Container de Temas */
+        #lista-temas {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+            margin-bottom: 25px;
+        }
+
+        .tema-btn {
+            background-color: #f0f4f8;
+            border: 1px solid var(--border);
+            padding: 15px;
+            border-radius: 8px;
+            font-size: 1rem;
+            font-weight: 600;
+            color: var(--primary);
+            text-align: left;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        .tema-btn:hover {
+            background-color: var(--primary);
+            color: #fff;
+            border-color: var(--primary);
+        }
+
+        .btn-voltar {
+            background: #e0e0e0;
+            border: none;
+            padding: 8px 15px;
+            border-radius: 6px;
+            cursor: pointer;
+            font-weight: 600;
+            margin-bottom: 15px;
+            display: none;
+        }
+
+        .btn-voltar:hover {
+            background: #d0d0d0;
+        }
+
         .question-card {
             background: #fafbfc;
             border: 1px solid var(--border);
@@ -77,7 +120,7 @@
             margin-bottom: 20px;
         }
 
-        .materia-tag {
+        .tema-tag {
             display: inline-block;
             background: #e1f0ff;
             color: var(--primary);
@@ -129,14 +172,15 @@
 
     <header>
         <h1>Plataforma de Estudos</h1>
-        <p>Banco de Questões Modularizado por JSON</p>
+        <p>Banco de Questões por Matéria e Temas</p>
     </header>
 
     <div class="container">
+        <!-- Seletor de Matérias -->
         <div class="filter-group">
             <label for="filtroMateria">Escolha a Matéria:</label>
-            <select id="filtroMateria" onchange="carregarMateriaSelecionada()">
-                <option value="todas">Todas as Matérias</option>
+            <select id="filtroMateria" onchange="carregarMateria()">
+                <option value="">Selecione uma Matéria...</option>
                 <option value="constitucional">Direito Constitucional</option>
                 <option value="administrativo">Direito Administrativo</option>
                 <option value="penal">Direito Penal</option>
@@ -154,90 +198,110 @@
             </select>
         </div>
 
-        <div id="lista-questoes">
-            <p class="loading">Selecione uma matéria ou aguarde o carregamento...</p>
+        <!-- Botão para voltar aos temas -->
+        <button id="btnVoltar" class="btn-voltar" onclick="voltarParaTemas()">← Voltar aos Temas</button>
+
+        <!-- Área onde aparecem os botões dos temas ou as questões -->
+        <div id="painel-conteudo">
+            <p class="loading">Selecione uma matéria acima para ver os temas disponíveis.</p>
         </div>
     </div>
 
     <script>
-        // Mapeia o valor do select para o nome do arquivo JSON correspondente
-        const arquivosMatérias = [
-            "constitucional", "administrativo", "penal", "processual_penal", 
-            "legislacao_especial", "direitos_humanos", "portugues", 
-            "raciocinio_logico", "informatica", "fisica", "etica_cid", 
-            "geopolitica", "lingua_estrangeira", "transito"
-        ];
+        let dadosMateriaAtual = null;
 
-        async function carregarMateriaSelecionada() {
-            const selecionada = document.getElementById('filtroMateria').value;
-            const container = document.getElementById('lista-questoes');
-            container.innerHTML = '<p class="loading">Carregando questões...</p>';
+        async function carregarMateria() {
+            const materiaSelecionada = document.getElementById('filtroMateria').value;
+            const painel = document.getElementById('painel-conteudo');
+            const btnVoltar = document.getElementById('btnVoltar');
+            
+            btnVoltar.style.display = 'none';
 
-            let todasQuestoes = [];
-
-            try {
-                if (selecionada === 'todas') {
-                    // Busca todos os arquivos JSON em paralelo
-                    const promessas = arquivosMatérias.map(arq => 
-                        fetch(`data/${arq}.json`).then(res => res.ok ? res.json() : null).catch(() => null)
-                    );
-                    const resultados = await Promise.all(promessas);
-                    
-                    resultados.forEach(dados => {
-                        if (dados && dados.questoes) {
-                            todasQuestoes = todasQuestoes.concat(dados.questoes);
-                        }
-                    });
-                } else {
-                    // Busca apenas o arquivo da matéria específica
-                    const response = await fetch(`data/${selecionada}.json`);
-                    if (response.ok) {
-                        const dados = await response.json();
-                        todasQuestoes = dados.questoes || [];
-                    }
-                }
-
-                exibirQuestoes(todasQuestoes);
-
-            } catch (error) {
-                console.error("Erro ao carregar os JSONs:", error);
-                container.innerHTML = '<p style="text-align: center; color: #d9534f;">Erro ao carregar os dados. Verifique se os arquivos JSON existem na pasta <b>data/</b> e se está rodando via Live Server.</p>';
-            }
-        }
-
-        function exibirQuestoes(questoes) {
-            const container = document.getElementById('lista-questoes');
-            container.innerHTML = '';
-
-            if (questoes.length === 0) {
-                container.innerHTML = '<p style="text-align: center; color: var(--text-muted);">Nenhuma questão cadastrada para este arquivo/matéria ainda. Crie o arquivo JSON correspondente!</p>';
+            if (!materiaSelecionada) {
+                painel.innerHTML = '<p class="loading">Selecione uma matéria acima para ver os temas disponíveis.</p>';
+                dadosMateriaAtual = null;
                 return;
             }
 
-            questoes.forEach((q, index) => {
+            painel.innerHTML = '<p class="loading">Carregando temas...</p>';
+
+            try {
+                const response = await fetch(`data/${materiaSelecionada}.json`);
+                if (!response.ok) {
+                    throw new Error("Arquivo JSON não encontrado.");
+                }
+                dadosMateriaAtual = await response.json();
+                exibirTemas(dadosMateriaAtual);
+            } catch (error) {
+                console.error(error);
+                painel.innerHTML = `<p style="text-align: center; color: #d9534f;">Ainda não há arquivo JSON cadastrado para esta matéria na pasta <b>data/</b> (ex: <code>${materiaSelecionada}.json</code>).</p>`;
+                dadosMateriaAtual = null;
+            }
+        }
+
+        function exibirTemas(dados) {
+            const painel = document.getElementById('painel-conteudo');
+            painel.innerHTML = '<h3>Escolha um Tema:</h3><div id="lista-temas"></div>';
+            const listaTemasDiv = document.getElementById('lista-temas');
+
+            if (!dados.temas || dados.temas.length === 0) {
+                listaTemasDiv.innerHTML = '<p style="color: var(--text-muted);">Nenhum tema cadastrado nesta matéria ainda.</p>';
+                return;
+            }
+
+            dados.temas.forEach((tema, index) => {
+                const btn = document.createElement('button');
+                btn.className = 'tema-btn';
+                btn.innerHTML = `📚 ${tema.nomeTema} <span style="font-size:0.8rem; color:var(--text-muted); font-weight:normal;">(${tema.questoes.length} questões)</span>`;
+                btn.onclick = () => exibirQuestoesDoTema(index);
+                listaTemasDiv.appendChild(btn);
+            });
+        }
+
+        function exibirQuestoesDoTema(indexTema) {
+            const temaObj = dadosMateriaAtual.temas[indexTema];
+            const painel = document.getElementById('painel-conteudo');
+            const btnVoltar = document.getElementById('btnVoltar');
+
+            // Mostra o botão de voltar e oculta a lista de temas, exibindo as questões
+            btnVoltar.style.display = 'block';
+            painel.innerHTML = `<h2>Tema: ${temaObj.nomeTema}</h2>`;
+
+            if (!temaObj.questoes || temaObj.questoes.length === 0) {
+                painel.innerHTML += '<p style="text-align: center; color: var(--text-muted);">Nenhuma questão cadastrada neste tema ainda.</p>';
+                return;
+            }
+
+            temaObj.questoes.forEach((q, qIndex) => {
                 let htmlAlternativas = '';
                 q.alternativas.forEach((alt, altIndex) => {
-                    htmlAlternativas += `<li onclick="verificarResposta(this, ${altIndex}, ${q.resposta}, '${q.enunciado.substring(0, 10)}')">${alt}</li>`;
+                    htmlAlternativas += `<li onclick="verificarResposta(this, ${altIndex}, ${q.resposta})">${alt}</li>`;
                 });
 
                 const card = document.createElement('div');
                 card.className = 'question-card';
-                // ID único gerado baseado no índice para evitar conflitos
-                const uniqueId = 'q-' + index + '-' + Math.floor(Math.random() * 1000);
+                const uniqueId = 'comentario-' + qIndex + '-' + Math.floor(Math.random() * 1000);
                 
                 card.innerHTML = `
-                    <span class="materia-tag">${q.materia || 'Matéria'}</span>
-                    <p><strong>Questão ${index + 1}:</strong> ${q.enunciado}</p>
+                    <span class="tema-tag">${temaObj.nomeTema}</span>
+                    <p><strong>Questão ${qIndex + 1}:</strong> ${q.enunciado}</p>
                     <ul class="alternativas">${htmlAlternativas}</ul>
                     <div class="comentario" id="${uniqueId}">
                         <strong>Explicação:</strong> ${q.comentario}
                     </div>
                 `;
-                container.appendChild(card);
+                painel.appendChild(card);
             });
         }
 
-        function verificarResposta(elemento, selecionada, correta, idUnico) {
+        function voltarParaTemas() {
+            if (dadosMateriaAtual) {
+                document.getElementById('btnVoltar').style.display = 'none';
+                exibirTemas(dadosMateriaAtual);
+            }
+        }
+
+        function verificarResposta(elemento, selecionada, correta) {
             const pai = elemento.parentElement;
             const itens = pai.getElementsByTagName('li');
             
@@ -258,16 +322,12 @@
                 itens[correta].style.color = '#155724';
             }
 
-            // Acha o elemento de comentário correspondente dentro do card
             const cardPai = pai.closest('.question-card');
             const comentarioDiv = cardPai.querySelector('.comentario');
             if (comentarioDiv) {
                 comentarioDiv.style.display = 'block';
             }
         }
-
-        // Carrega todas as matérias ao abrir a página pela primeira vez
-        carregarMateriaSelecionada();
     </script>
 </body>
 </html>

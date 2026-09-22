@@ -1,0 +1,17 @@
+{
+  "materia": "Informática",
+  "questoes": [
+    {
+      "id": 1,
+      "enunciado": "Qual protocolo é utilizado de forma segura (com criptografia) para a navegação na WEB?",
+      "alternativas": [
+        "A) HTTP",
+        "B) FTP",
+        "C) HTTPS",
+        "D) SMTP"
+      ],
+      "resposta": 2,
+      "comentario": "O HTTPS utiliza camadas de segurança como SSL/TLS para criptografar os dados trafegados."
+    }
+  ]
+}

@@ -1,17 +1,39 @@
 {
   "materia": "Direito Constitucional",
-  "questoes": [
+  "temas": [
     {
-      "id": 1,
-      "enunciado": "Segundo a Constituição Federal de 1988, os direitos e garantias fundamentais têm aplicação:",
-      "alternativas": [
-        "A) Apenas eficácia limitada.",
-        "B) Aplicação imediata.",
-        "C) Depende de regulamentação por lei complementar.",
-        "D) Aplicação restrita aos cidadãos brasileiros."
-      ],
-      "resposta": 1,
-      "comentario": "O art. 5°, § 1°, da CF/88 estabelece que as normas definidoras dos direitos e garantias fundamentais têm aplicação imediata."
+      "nomeTema": "Direitos e Garantias Fundamentais",
+      "questoes": [
+        {
+          "id": 1,
+          "enunciado": "Segundo a Constituição Federal de 1988, os direitos e garantias fundamentais têm aplicação:",
+          "alternativas": [
+            "A) Apenas eficácia limitada.",
+            "B) Aplicação imediata.",
+            "C) Depende de regulamentação por lei complementar.",
+            "D) Aplicação restrita aos cidadãos brasileiros."
+          ],
+          "resposta": 1,
+          "comentario": "O art. 5°, § 1°, da CF/88 estabelece que as normas definidoras dos direitos e garantias fundamentais têm aplicação imediata."
+        }
+      ]
+    },
+    {
+      "nomeTema": "Nacionalidade",
+      "questoes": [
+        {
+          "id": 2,
+          "enunciado": "São brasileiros natos, entre outros:",
+          "alternativas": [
+            "A) Os nascidos no Brasil, ainda que de pais estrangeiros a serviço de seu país.",
+            "B) Os estrangeiros de qualquer nacionalidade residentes no Brasil há mais de 15 anos.",
+            "C) Os nascidos no estrangeiro, de pai brasileiro ou mãe brasileira, desde que sejam registrados em repartição brasileira competente.",
+            "D) Apenas os filhos de brasileiros natos nascidos no exterior."
+          ],
+          "resposta": 2,
+          "comentario": "Conforme o art. 12, I, 'c', da CF/88, são brasileiros natos os nascidos no estrangeiro, de pai brasileiro ou mãe brasileira, desde que registrados..."
+        }
+      ]
     }
   ]
 }
