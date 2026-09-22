@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Plataforma de Estudos - Múltiplos JSONs</title>
+    <style>
+        :root {
+            --bg-color: #f4f7f6;
+            --card-bg: #ffffff;
+            --primary: #4a90e2;
+            --text-main: #333333;
+            --text-muted: #666666;
+            --border: #e0e0e0;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-main);
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        header h1 {
+            color: var(--primary);
+            margin-bottom: 5px;
+        }
+
+        .container {
+            width: 100%;
+            max-width: 800px;
+            background: var(--card-bg);
+            padding: 30px;
+            border-radius: 12px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+        }
+
+        .filter-group {
+            margin-bottom: 25px;
+        }
+
+        label {
+            font-weight: 600;
+            display: block;
+            margin-bottom: 8px;
+        }
+
+        select {
+            width: 100%;
+            padding: 12px;
+            border-radius: 8px;
+            border: 1px solid var(--border);
+            font-size: 1rem;
+            background-color: #fff;
+            outline: none;
+            transition: border-color 0.2s;
+        }
+
+        select:focus {
+            border-color: var(--primary);
+        }
+
+        .question-card {
+            background: #fafbfc;
+            border: 1px solid var(--border);
+            padding: 20px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+        }
+
+        .materia-tag {
+            display: inline-block;
+            background: #e1f0ff;
+            color: var(--primary);
+            padding: 4px 10px;
+            border-radius: 20px;
+            font-size: 0.85rem;
+            font-weight: 600;
+            margin-bottom: 10px;
+        }
+
+        .alternativas {
+            list-style: none;
+            padding: 0;
+            margin-top: 15px;
+        }
+
+        .alternativas li {
+            padding: 10px 15px;
+            background: #fff;
+            border: 1px solid var(--border);
+            margin-bottom: 8px;
+            border-radius: 6px;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        .alternativas li:hover {
+            background: #f0f4f8;
+            border-color: var(--primary);
+        }
+
+        .comentario {
+            margin-top: 15px;
+            padding: 12px;
+            background: #e8f5e9;
+            border-left: 4px solid #4caf50;
+            font-size: 0.95rem;
+            display: none;
+        }
+        
+        .loading {
+            text-align: center;
+            color: var(--text-muted);
+            font-style: italic;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Plataforma de Estudos</h1>
+        <p>Banco de Questões Modularizado por JSON</p>
+    </header>
+
+    <div class="container">
+        <div class="filter-group">
+            <label for="filtroMateria">Escolha a Matéria:</label>
+            <select id="filtroMateria" onchange="carregarMateriaSelecionada()">
+                <option value="todas">Todas as Matérias</option>
+                <option value="constitucional">Direito Constitucional</option>
+                <option value="administrativo">Direito Administrativo</option>
+                <option value="penal">Direito Penal</option>
+                <option value="processual_penal">Direito Processual Penal</option>
+                <option value="legislacao_especial">Legislação Especial</option>
+                <option value="direitos_humanos">Direitos Humanos</option>
+                <option value="portugues">Língua Portuguesa</option>
+                <option value="raciocinio_logico">Raciocínio Lógico-Matemático</option>
+                <option value="informatica">Informática</option>
+                <option value="fisica">Física</option>
+                <option value="etica_cid">Ética e Cidadania</option>
+                <option value="geopolitica">Geopolítica</option>
+                <option value="lingua_estrangeira">Língua Estrangeira</option>
+                <option value="transito">Legislação de Trânsito</option>
+            </select>
+        </div>
+
+        <div id="lista-questoes">
+            <p class="loading">Selecione uma matéria ou aguarde o carregamento...</p>
+        </div>
+    </div>
+
+    <script>
+        // Mapeia o valor do select para o nome do arquivo JSON correspondente
+        const arquivosMatérias = [
+            "constitucional", "administrativo", "penal", "processual_penal", 
+            "legislacao_especial", "direitos_humanos", "portugues", 
+            "raciocinio_logico", "informatica", "fisica", "etica_cid", 
+            "geopolitica", "lingua_estrangeira", "transito"
+        ];
+
+        async function carregarMateriaSelecionada() {
+            const selecionada = document.getElementById('filtroMateria').value;
+            const container = document.getElementById('lista-questoes');
+            container.innerHTML = '<p class="loading">Carregando questões...</p>';
+
+            let todasQuestoes = [];
+
+            try {
+                if (selecionada === 'todas') {
+                    // Busca todos os arquivos JSON em paralelo
+                    const promessas = arquivosMatérias.map(arq => 
+                        fetch(`data/${arq}.json`).then(res => res.ok ? res.json() : null).catch(() => null)
+                    );
+                    const resultados = await Promise.all(promessas);
+                    
+                    resultados.forEach(dados => {
+                        if (dados && dados.questoes) {
+                            todasQuestoes = todasQuestoes.concat(dados.questoes);
+                        }
+                    });
+                } else {
+                    // Busca apenas o arquivo da matéria específica
+                    const response = await fetch(`data/${selecionada}.json`);
+                    if (response.ok) {
+                        const dados = await response.json();
+                        todasQuestoes = dados.questoes || [];
+                    }
+                }
+
+                exibirQuestoes(todasQuestoes);
+
+            } catch (error) {
+                console.error("Erro ao carregar os JSONs:", error);
+                container.innerHTML = '<p style="text-align: center; color: #d9534f;">Erro ao carregar os dados. Verifique se os arquivos JSON existem na pasta <b>data/</b> e se está rodando via Live Server.</p>';
+            }
+        }
+
+        function exibirQuestoes(questoes) {
+            const container = document.getElementById('lista-questoes');
+            container.innerHTML = '';
+
+            if (questoes.length === 0) {
+                container.innerHTML = '<p style="text-align: center; color: var(--text-muted);">Nenhuma questão cadastrada para este arquivo/matéria ainda. Crie o arquivo JSON correspondente!</p>';
+                return;
+            }
+
+            questoes.forEach((q, index) => {
+                let htmlAlternativas = '';
+                q.alternativas.forEach((alt, altIndex) => {
+                    htmlAlternativas += `<li onclick="verificarResposta(this, ${altIndex}, ${q.resposta}, '${q.enunciado.substring(0, 10)}')">${alt}</li>`;
+                });
+
+                const card = document.createElement('div');
+                card.className = 'question-card';
+                // ID único gerado baseado no índice para evitar conflitos
+                const uniqueId = 'q-' + index + '-' + Math.floor(Math.random() * 1000);
+                
+                card.innerHTML = `
+                    <span class="materia-tag">${q.materia || 'Matéria'}</span>
+                    <p><strong>Questão ${index + 1}:</strong> ${q.enunciado}</p>
+                    <ul class="alternativas">${htmlAlternativas}</ul>
+                    <div class="comentario" id="${uniqueId}">
+                        <strong>Explicação:</strong> ${q.comentario}
+                    </div>
+                `;
+                container.appendChild(card);
+            });
+        }
+
+        function verificarResposta(elemento, selecionada, correta, idUnico) {
+            const pai = elemento.parentElement;
+            const itens = pai.getElementsByTagName('li');
+            
+            for (let item of itens) {
+                item.style.pointerEvents = 'none';
+            }
+
+            if (selecionada === correta) {
+                elemento.style.backgroundColor = '#d4edda';
+                elemento.style.borderColor = '#c3e6cb';
+                elemento.style.color = '#155724';
+            } else {
+                elemento.style.backgroundColor = '#f8d7da';
+                elemento.style.borderColor = '#f5c6cb';
+                elemento.style.color = '#721c24';
+                itens[correta].style.backgroundColor = '#d4edda';
+                itens[correta].style.borderColor = '#c3e6cb';
+                itens[correta].style.color = '#155724';
+            }
+
+            // Acha o elemento de comentário correspondente dentro do card
+            const cardPai = pai.closest('.question-card');
+            const comentarioDiv = cardPai.querySelector('.comentario');
+            if (comentarioDiv) {
+                comentarioDiv.style.display = 'block';
+            }
+        }
+
+        // Carrega todas as matérias ao abrir a página pela primeira vez
+        carregarMateriaSelecionada();
+    </script>
+</body>
+</html>

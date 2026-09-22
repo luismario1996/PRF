@@ -1,0 +1,17 @@
+{
+  "materia": "Direito Constitucional",
+  "questoes": [
+    {
+      "id": 1,
+      "enunciado": "Segundo a Constituição Federal de 1988, os direitos e garantias fundamentais têm aplicação:",
+      "alternativas": [
+        "A) Apenas eficácia limitada.",
+        "B) Aplicação imediata.",
+        "C) Depende de regulamentação por lei complementar.",
+        "D) Aplicação restrita aos cidadãos brasileiros."
+      ],
+      "resposta": 1,
+      "comentario": "O art. 5°, § 1°, da CF/88 estabelece que as normas definidoras dos direitos e garantias fundamentais têm aplicação imediata."
+    }
+  ]
+}
