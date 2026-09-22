@@ -3167,7 +3167,1497 @@
       "explanation": "A alternativa é INCORRETA (resposta da questão) porque a imunidade do Presidente é **temporária** e restrita a atos anteriores ao mandato; por atos cometidos *durante* o mandato (comuns ou de responsabilidade), ele responde com os devidos afastamentos e julgamentos."
     }
   ]
+},
+
+{
+  "nomeTema": "Direito Constitucional - Da Uniao Bens e Competencias",
+  "questoes": [
+    {
+      "id": 1,
+      "question": "Acerca dos bens da União previstos expressamente no art. 20 da Constituição Federal, assinale a alternativa correta:",
+      "options": [
+        "A) Todas as terras devolutas situadas no território nacional pertencem patrimonialmente à União.",
+        "B) As ilhas oceânicas e costeiras pertencem à União, salvo aquelas que contenham a sede de Municípios, ressalvadas as áreas afetadas ao serviço público e a unidades ambientais federais.",
+        "C) Os recursos minerais e potenciais de energia hidráulica pertencem aos Estados onde estiverem localizados geograficamente.",
+        "D) As praias marítimas e fluviais pertencem aos particulares lindeiros que possuam escritura registrada em cartório."
+      ],
+      "correctAnswer": "B) As ilhas oceânicas e costeiras pertencem à União, salvo aquelas que contenham a sede de Municípios, ressalvadas as áreas afetadas ao serviço público e a unidades ambientais federais.",
+      "explanation": "O art. 20, IV, exclui expressamente das ilhas federais aquelas que contêm sede de Município (com ressalvas de serviço público/ambiental). Terras devolutas gerais são dos Estados."
+    },
+    {
+      "id": 2,
+      "question": "No que tange à repartição constitucional de competências legislativas (art. 22 da CF/88), compete privativamente à União legislar sobre:",
+      "options": [
+        "A) Guarda municipal, trânsito urbano municipal e limpeza pública.",
+        "B) Direito civil, comercial, penal, processual, eleitoral, agrário, marítimo, aeronáutico, espacial e do trabalho.",
+        "C) Proteção ao patrimônio histórico e artístico local de cada município.",
+        "D) Licenciamento ambiental de empreendimentos de impacto local."
+      ],
+      "correctAnswer": "B) Direito civil, comercial, penal, processual, eleitoral, agrário, marítimo, aeronáutico, espacial e do trabalho.",
+      "explanation": "O art. 22 elenca o rol de competências legislativas privativas da União, englobando direito civil, penal, processual, trabalhista, etc."
+    },
+    {
+      "id": 3,
+      "question": "Sobre a competência legislativa concorrente (art. 24 da CF/88), assinale a alternativa correta quanto aos entes federados autorizados a atuar nessa seara:",
+      "options": [
+        "A) União, Estados, Distrito Federal e Municípios de forma conjunta.",
+        "B) Exclusivamente a União e os Municípios.",
+        "C) Apenas a União, os Estados e o Distrito Federal, vedada a participação dos Municípios no rol do art. 24.",
+        "D) Apenas os Estados-membros, com vedação total de intervenção da União."
+      ],
+      "correctAnswer": "C) Apenas a União, os Estados e o Distrito Federal, vedada a participação dos Municípios no rol do art. 24.",
+      "explanation": "A competência concorrente do art. 24 restringe-se estritamente à União, aos Estados e ao DF. Municípios não integram o art. 24."
+    },
+    {
+      "id": 4,
+      "question": "A respeito da superveniência de lei federal sobre normas gerais em matéria de competência concorrente (art. 24, § 4º, da CF/88), a consequência jurídica para a lei estadual anterior contrária é:",
+      "options": [
+        "A) A revogação automática e definitiva por incompatibilidade superveniente.",
+        "B) A suspensão de eficácia no que lhe for contrário, na medida da incompatibilidade.",
+        "C) A convalidação imediata pelo Tribunal de Contas da União.",
+        "D) A conversão em projeto de lei complementar federal."
+      ],
+      "correctAnswer": "B) A suspensão de eficácia no que lhe for contrário, na medida da incompatibilidade.",
+      "explanation": "O art. 24, § 4º, consagra expressamente que a superveniência de lei federal sobre normas gerais suspende a eficácia da lei estadual, no que lhe for contrária (não há revogação)."
+    },
+    {
+      "id": 5,
+      "question": "Se um Estado-Membro pretender legislar sobre direito penal ou processual penal, qual é o panorama constitucional aplicável?",
+      "options": [
+        "A) O Estado tem competência plena para criar crimes estaduais de menor potencial ofensivo.",
+        "B) O Estado é absolutamente incompetente, pois compete privativamente à União legislar sobre direito penal e processual penal (art. 22, I).",
+        "C) O Estado pode legislar desde que haja autorização prévia por decreto do Ministério da Justiça.",
+        "D) Os Municípios possuem preferência legislativa em matéria penal urbana."
+      ],
+      "correctAnswer": "B) O Estado é absolutamente incompetente, pois compete privativamente à União legislar sobre direito penal e processual penal (art. 22, I).",
+      "explanation": "Direito penal, civil e processual são competências privativas da União (art. 22, I), sendo vedada a atuação primária dos Estados."
+    },
+    {
+      "id": 6,
+      "question": "A competência material comum (administrativa) prevista no art. 23 da CF/88 é exercida por:",
+      "options": [
+        "A) Apenas a União e os Estados por meio de convênios.",
+        "B) Todos os entes da Federação (União, Estados, Distrito Federal e Municípios) em regime de cooperação.",
+        "C) Exclusivamente os Municípios em questões de saneamento básico.",
+        "D) O Supremo Tribunal Federal em caráter originário."
+      ],
+      "correctAnswer": "B) Todos os entes da Federação (União, Estados, Distrito Federal e Municípios) em regime de cooperação.",
+      "explanation": "O art. 23 trata das competências comuns (administrativas) de *todos* os entes da federação (União, Estados, DF e Municípios)."
+    },
+    {
+      "id": 7,
+      "question": "Diferencie competência exclusiva de competência privativa na dogmática constitucional brasileira:",
+      "options": [
+        "A) São termos sinônimos utilizados sem distinção pela Constituição.",
+        "B) A competência exclusiva refere-se a matérias administrativas inegociáveis que não admitem delegação comum; a competência privativa refere-se a matérias legislativas que podem ser delegadas aos Estados por lei complementar.",
+        "C) A competência exclusiva é exercida pelos Municípios; a privativa pelos Estados.",
+        "D) Competência exclusiva é exercida pelo Poder Judiciário."
+      ],
+      "correctAnswer": "B) A competência exclusiva refere-se a matérias administrativas inegociáveis que não admitem delegação comum; a competência privativa refere-se a matérias legislativas que podem ser delegadas aos Estados por lei complementar.",
+      "explanation": "Exclusiva (art. 21) = administrativa, indelegável por lei comum. Privativa (art. 22) = legislativa, passível de delegação aos Estados via lei complementar (parágrafo único)."
+    },
+    {
+      "id": 8,
+      "question": "As terras devolutas indispensáveis à defesa das fronteiras, das fortificações e das construções militares pertencem ao patrimônio de qual ente federativo?",
+      "options": [
+        "A) Do Município onde estiverem localizadas.",
+        "B) Do Estado-Membro onde se situam geograficamente.",
+        "C) Da União, por expressa disposição do art. 20, inciso II, da CF/88.",
+        "D) De fundações privadas de colonização."
+      ],
+      "correctAnswer": "C) Da União, por expressa disposição do art. 20, inciso II, da CF/88.",
+      "explanation": "Terras devolutas de fronteira, defesa e fortificações pertencem à União (art. 20, II). As demais devolutas gerais são dos Estados."
+    },
+    {
+      "id": 9,
+      "question": "No âmbito da competência legislativa concorrente (art. 24), caso a União não tenha editado normas gerais sobre proteção ao meio ambiente, os Estados-membros:",
+      "options": [
+        "A) Ficam proibidos de legislar sobre qualquer assunto ambiental até que o Congresso aprove uma lei federal.",
+        "B) Exercem a competência legislativa plena para atender às suas peculiaridades locais.",
+        "C) Devem submeter seus projetos de lei prévia ao Senado Federal para validação.",
+        "D) Perdem competência para os Municípios."
+      ],
+      "correctAnswer": "B) Exercem a competência legislativa plena para atender às suas peculiaridades locais.",
+      "explanation": "O art. 24, § 3º, estabelece que se a União não editar normas gerais, os Estados exercem competência legislativa plena."
+    },
+    {
+      "id": 10,
+      "question": "Assinale a alternativa que indica corretamente uma matéria inserida na competência legislativa privativa da União (art. 22):",
+      "options": [
+        "A) Criação e estruturação de guardas municipais.",
+        "B) Águas, energia, informática, telecomunicações e radiodifusão.",
+        "C) Transporte coletivo urbano municipal.",
+        "D) Policía ostensiva de trânsito rodoviário estadual."
+      ],
+      "correctAnswer": "B) Águas, energia, informática, telecomunicações e radiodifusão.",
+      "explanation": "O art. 22, IV e XII, elenca águas, energia, informática e telecomunicações como competência legislativa privativa da União."
+    },
+    {
+      "id": 11,
+      "question": "A competência para emitir moeda (art. 21, VII) constitui atribuição administrativa:",
+      "options": [
+        "A) Exclusiva da União.",
+        "B) Concorrente entre Estados e Municípios.",
+        "C) Suplementar do Distrito Federal.",
+        "D) Privativa dos bancos comerciais particulares."
+      ],
+      "correctAnswer": "A) Exclusiva da União.",
+      "explanation": "Emitir moeda é matéria administrativa exclusiva da União (art. 21, VII)."
+    },
+    {
+      "id": 12,
+      "question": "Sobre a repartição de competências e o federalismo brasileiro, assinale a correta:",
+      "options": [
+        "A) O Brasil adota o modelo de federalismo centrífugo puro.",
+        "B) A repartição de competências na CF/88 é baseada no princípio da predominância de interesses.",
+        "C) Os Municípios possuem competência para legislar sobre direito penal em caráter suplementar.",
+        "D) A União possui competência para intervir em assuntos internos municipais sem qualquer restrição."
+      ],
+      "correctAnswer": "B) A repartição de competências na CF/88 é baseada no princípio da predominância de interesses.",
+      "explanation": "O princípio norteador da repartição federativa brasileira é a predominância de interesses."
+    },
+    {
+      "id": 13,
+      "question": "Se um Estado-Membro desejar legislar sobre matérias de competência privativa da União (art. 22), tal delegação de competência legislativa para pontos específicos dependerá necessariamente de:",
+      "options": [
+        "A) Lei complementar federal autorizativa.",
+        "B) Decreto executivo do Presidente da República.",
+        "C) Decisão plenária do Supremo Tribunal Federal.",
+        "D) Plebiscito estadual com quórum de maioria absoluta."
+      ],
+      "correctAnswer": "A) Lei complementar federal autorizativa.",
+      "explanation": "O parágrafo único do art. 22 permite a delegação de competência privativa da União aos Estados mediante **lei complementar** federal."
+    },
+    {
+      "id": 14,
+      "question": "A proteção do patrimônio histórico, cultural, artístico, turístico e paisagístico (art. 23, III) é matéria de competência material:",
+      "options": [
+        "A) Exclusiva da União.",
+        "B) Privativa do Senado Federal.",
+        "C) Comum (administrativa) da União, dos Estados, do Distrito Federal e dos Municípios.",
+        "D) Concorrente exclusiva entre Estados e Municípios."
+      ],
+      "correctAnswer": "C) Comum (administrativa) da União, dos Estados, do Distrito Federal e dos Municípios.",
+      "explanation": "O art. 23, III, define a proteção ao patrimônio histórico e cultural como competência material comum de todos os entes."
+    },
+    {
+      "id": 15,
+      "question": "Assinale a opção incorreta no tocante à organização de competências na Constituição de 1988:",
+      "options": [
+        "A) Os Municípios possuem competência para legislar sobre assuntos de interesse local.",
+        "B) Os Estados podem incorporar-se mediante aprovação da população diretamente interessada através de plebiscito e lei complementar federal.",
+        "C) A competência material comum abrange tarefas administrativas exercidas de forma isolada e absoluta pela União, vedada cooperação.",
+        "D) O Distrito Federal acumula as competências legislativas reservadas aos Estados e aos Municípios."
+      ],
+      "correctAnswer": "C) A competência material comum abrange tarefas administrativas exercidas de forma isolada e absoluta pela União, vedada cooperação.",
+      "explanation": "A alternativa é INCORRETA (resposta da questão) porque a competência comum (art. 23) exige cooperação mútua entre todos os entes, nunca exclusividade absoluta isolada da União."
+    }
+  ]
+},
+{
+  "nomeTema": "Direito Constitucional - Defesa do Estado e das Instituicoes Democraticas",
+  "questoes": [
+    {
+      "id": 1,
+      "question": "Acerca do Estado de Defesa previsto no art. 136 da Constituição Federal, assinale a alternativa correta:",
+      "options": [
+        "A) O decreto de estado de defesa exige autorização prévia e unânime do Senado Federal.",
+        "B) O prazo máximo de duração do estado de defesa, computada eventual prorrogação, não poderá exceder a sessenta dias.",
+        "C) O Presidente da República pode decretar estado de defesa por prazo indeterminado se houver guerra declarada.",
+        "D) É permitida a prisão incomunicável de suspeitos durante a vigência do estado de defesa."
+      ],
+      "correctAnswer": "B) O prazo máximo de duração do estado de defesa, computada eventual prorrogação, não poderá exceder a sessenta dias.",
+      "explanation": "O estado de defesa dura no máximo 30 dias, prorrogável uma única vez por igual período (total de 60 dias). Não exige autorização prévia e veda prisão incomunicável."
+    },
+    {
+      "id": 2,
+      "question": "No que tange ao Estado de Sítio (arts. 137 a 139 da CF/88), o rito constitucional exige que o Presidente da República:",
+       "options": [
+        "A) Promulgue o decreto de ofício e comunique o Congresso após o término da crise.",
+        "B) Solicite autorização prévia ao Congresso Nacional para decretar o estado de sítio.",
+        "C) Submeta a decisão exclusivamente ao Supremo Tribunal Federal.",
+        "D) Consulte o Conselho de Defesa Nacional com caráter vinculante absolutório."
+      ],
+      "correctAnswer": "B) Solicite autorização prévia ao Congresso Nacional para decretar o estado de sítio.",
+      "explanation": "Diferente do estado de defesa (onde o decreto é posterior), o estado de sítio exige **autorização prévia** do Congresso Nacional."
+    },
+    {
+      "id": 3,
+      "question": "Dentre os órgãos de Segurança Pública listados taxativamente no art. 144 da Constituição Federal, inclui-se expressamente:",
+      "options": [
+        "A) As Guardas Municipais.",
+        "B) As Polícias Penais federal, estaduais e distrital.",
+        "C) A Força Nacional de Segurança Pública permanente.",
+        "D) Os Agentes de Trânsito rodoviário municipal."
+      ],
+      "correctAnswer": "B) As Polícias Penais federal, estaduais e distrital.",
+      "explanation": "A EC 104/2019 inseriu as Polícias Penais no rol do art. 144 da CF/88. Guardas Municipais não constam no *caput* do art. 144."
+    },
+    {
+      "id": 4,
+      "question": "Sobre o Estado de Defesa, o decreto presidencial correspondente deverá ser submetido pelo Presidente da República ao Congresso Nacional, com justificativa, no prazo máximo de:",
+      "options": [
+        "A) Vinte e quatro horas.",
+        "B) Quarenta e oito horas.",
+        "C) Cinco dias úteis.",
+        "D) Quinze dias corridos."
+      ],
+      "correctAnswer": "A) Vinte e quatro horas.",
+      "explanation": "O art. 136, § 4º, exige que o decreto de estado de defesa seja enviado ao Congresso em até 24 horas."
+    },
+    {
+      "id": 5,
+      "question": "Assinale a alternativa que indica uma medida restritiva expressamente proibida durante a vigência do Estado de Defesa:",
+      "options": [
+        "A) A restrição temporária ao direito de reunião.",
+        "B) A ocupação e uso temporário de bens públicos na hipótese de calamidade.",
+        "C) A prisão incomunicável do investigado.",
+        "D) A suspensão de correspondências de suspeitos investigados."
+      ],
+      "correctAnswer": "C) A prisão incomunicável do investigado.",
+      "explanation": "O art. 136, § 3º, IV, veda expressamente a prisão incomunicável em estado de defesa."
+    },
+    {
+      "id": 6,
+      "question": "No que concerne às hipóteses de Intervenção Federal (art. 34 da CF/88), compete privativamente ao Presidente da República decretá-la, exceto quando:",
+      "options": [
+        "A) Houver provimento de representação do Procurador-Geral da República para garantir a observância de princípio constitucional sensível.",
+        "B) Ocorre invasão estrangeira de um Estado-Membro.",
+        "C) O Supremo Tribunal Federal requisitar para assegurar a execução de decisão judicial.",
+        "D) O Congresso Nacional decidir por maioria simples destituir um governador por impopularidade."
+      ],
+      "correctAnswer": "D) O Congresso Nacional decidir por maioria simples destituir um governador por impopularidade.",
+      "explanation": "Impopularidade não constitui hipótese constitucional de intervenção federal (art. 34)."
+    },
+    {
+      "id": 7,
+      "question": "Sobre as Guardas Municipais (art. 144, § 8º, da CF/88), a jurisprudência consolidada do STF estabelece que:",
+      "options": [
+        "A) São órgãos de segurança pública integrantes do rol principal do art. 144 com competência investigativa criminal plena idêntica à Polícia Civil.",
+        "B) Destinam-se à proteção de bens, serviços e instalações municipais, possuindo natureza de corporação de segurança local, com reconhecimento de atuação em segurança viária e ostensiva preventiva urbana.",
+        "C) Subordinam-se hierarquicamente ao Comando do Exército Brasileiro.",
+        "D) Não possuem nenhuma prerrogativa de patrulhamento ostensivo."
+      ],
+      "correctAnswer": "B) Destinam-se à proteção de bens, serviços e instalações municipais, possuindo natureza de corporação de segurança local, com reconhecimento de atuação em segurança viária e ostensiva preventiva urbana.",
+      "explanation": "O STF reconhece as guardas municipais como parte do sistema de segurança urbana local, embora não pertençam ao rol taxativo do *caput* do art. 144."
+    },
+    {
+      "id": 8,
+      "question": "Qual é o prazo máximo de apreciação pelo Congresso Nacional do decreto que institui o Estado de Defesa?",
+      "options": [
+        "A) Dez dias, contados de seu recebimento.",
+        "B) Trinta dias.",
+        "C) Quarenta e oito horas.",
+        "D) Vinte dias úteis."
+      ],
+      "correctAnswer": "A) Dez dias, contados de seu recebimento.",
+      "explanation": "O Congresso Nacional aprecia o decreto de estado de defesa em **10 dias** (por maioria absoluta)."
+    },
+    {
+      "id": 9,
+      "question": "As Polícias Militares e os Corpos de Bombeiros Militares são forças auxiliares e reserva do Exército, subordinando-se, no plano estadual, aos respectivos:",
+      "options": [
+        "A) Presidentes dos Tribunais de Justiça.",
+        "B) Governadores dos Estados e do Distrito Federal.",
+        "C) Procuradores-Gerais de Justiça.",
+        "D) Ministros da Defesa."
+      ],
+      "correctAnswer": "B) Governadores dos Estados e do Distrito Federal.",
+      "explanation": "O art. 144, § 6º, estabelece a subordinação das PMs e CBMs aos Governadores dos Estados e do DF."
+    },
+    {
+      "id": 10,
+      "question": "Se o Estado de Sítio for decretado em caso de guerra declarada, sua vigência perdurará por:",
+      "options": [
+        "A) Trinta dias improrrogáveis.",
+        "B) O tempo que durar a guerra, se assim persistirem as hostilidades.",
+        "C) Sessenta dias corridos prorrogáveis por decreto de ministros.",
+        "D) Exatamente um ano."
+      ],
+      "correctAnswer": "B) O tempo que durar a guerra, se assim persistirem as hostilidades.",
+      "explanation": "O estado de sítio por guerra (art. 138) vigora pelo tempo que durar o conflito bélico."
+    },
+    {
+      "id": 11,
+      "question": "Assinale a alternativa correta quanto à competência para a decretação do Estado de Sítio:",
+      "options": [
+        "A) Decreto exclusivo do Presidente da República sem aval do Congresso.",
+        "B) Solicitação prévia do Presidente da República aprovada por maioria absoluta do Congresso Nacional.",
+        "C) Decisão monocrática do Presidente do Senado Federal.",
+        "D) Resolução conjunta dos comandantes militares."
+      ],
+      "correctAnswer": "B) Solicitação prévia do Presidente da República aprovada por maioria absoluta do Congresso Nacional.",
+      "explanation": "O estado de sítio exige autorização prévia do Congresso Nacional mediante solicitação fundamentada do Presidente."
+    },
+    {
+      "id": 12,
+      "question": "No que diz respeito à Polícia Rodoviária Federal (PRF), constitui sua atribuição institucional básica:",
+      "options": [
+        "A) O patrulhamento ostensivo das rodovias federais, nos termos da lei.",
+        "B) A apuração de crimes contra o sistema financeiro nacional em âmbito interestadual.",
+        "C) A guarda de embaixadas estrangeiras no Distrito Federal.",
+        "D) A realização de perícias criminais balísticas em tribunais estaduais."
+      ],
+      "correctAnswer": "A) O patrulhamento ostensivo das rodovias federais, nos termos da lei.",
+      "explanation": "O art. 144, § 2º, define a PRF como órgão encarregado do patrulhamento ostensivo das rodovias federais."
+    },
+    {
+      "id": 13,
+      "question": "A Polícia Federal (art. 144, § 1º) possui atribuição de exercer, com exclusividade, funções de:",
+      "options": [
+        "A) Polícia judiciária da União.",
+        "B) Policiamento ostensivo geral urbano municipal.",
+        "C) Guarda de trânsito em vias urbanas estaduais.",
+        "D) Combate a incêndios florestais."
+      ],
+      "correctAnswer": "A) Polícia judiciária da União.",
+      "explanation": "A PF exerce com exclusividade as funções de polícia marítima, aeroportuária, de fronteiras e de polícia judiciária da União."
+    },
+    {
+      "id": 14,
+      "question": "Assinale a alternativa incorreta no tocante às normas de Defesa do Estado e Segurança Pública:",
+      "options": [
+        "A) As Polícias Civis são dirigidas por delegados de polícia de carreira e exercem funções de polícia judiciária e apuração de infrações penais (exceto militares).",
+        "B) O Congresso Nacional pode sustar os atos de estado de defesa que excedam os limites constitucionais.",
+        "C) A intervenção federal em Estados depende de aprovação prévia do Conselho da República e de Defesa Nacional em caráter vinculante obrigatório.",
+        "D) O estado de defesa não pode exceder a sessenta dias no total."
+      ],
+      "correctAnswer": "C) A intervenção federal em Estados depende de aprovação prévia do Conselho da República e de Defesa Nacional em caráter vinculante obrigatório.",
+      "explanation": "A alternativa é INCORRETA (resposta da questão) porque a audição dos Conselhos da República e de Defesa Nacional nos decretos de intervenção e estado de defesa possui natureza meramente **opinativa (consultiva)**, e nunca vinculante."
+    },
+    {
+      "id": 15,
+      "question": "A criação de polícias penais (federal, estaduais e distrital) foi incorporada ao art. 144 da CF/88 por força de qual instrumento normativo?",
+       "options": [
+        "A) Emenda Constitucional nº 104/2019.",
+        "B) Emenda Constitucional nº 45/2004.",
+        "C) Lei Complementar nº 75/1993.",
+        "D) Medida Provisória de reestruturação penitenciária."
+      ],
+      "correctAnswer": "A) Emenda Constitucional nº 104/2019.",
+      "explanation": "A EC 104/2019 alterou a estrutura do art. 144 para criar as Polícias Penais."
+    }
+  ]
+},
+
+{
+  "nomeTema": "Direito Constitucional - Forcas Armadas",
+  "questoes": [
+    {
+      "id": 1,
+      "question": "Acerca da organização, das finalidades e do regime jurídico das Forças Armadas (art. 142 da CF/88), assinale a alternativa correta:",
+      "options": [
+        "A) As Forças Armadas constituem poder moderador autônomo com prerrogativa de intervir diretamente sobre o Poder Legislativo em caso de impasse institucional.",
+        "B) As Forças Armadas são instituições nacionais permanentes e regulares, organizadas com base na hierarquia e na disciplina, sob a autoridade suprema do Presidente da República.",
+        "C) O direito de greve e a sindicalização são expressamente permitidos aos militares das Forças Armadas que integrem praças especiais.",
+        "D) O Presidente do Supremo Tribunal Federal exerce o comando supremo militar em caráter concorrente."
+      ],
+      "correctAnswer": "B) As Forças Armadas são instituições nacionais permanentes e regulares, organizadas com base na hierarquia e na disciplina, sob a autoridade suprema do Presidente da República.",
+      "explanation": "O art. 142 define as Forças Armadas como instituições permanentes e regulares, baseadas em hierarquia e disciplina, sob a autoridade suprema do Presidente da República. A tese de 'poder moderador' é rejeitada pelo STF."
+    },
+    {
+      "id": 2,
+      "question": "No que tange aos direitos políticos dos militares das Forças Armadas em atividade (art. 142, § 3º, da CF/88), assinale a opção correta:",
+      "options": [
+        "A) O militar em atividade pode filiar-se livremente a partidos políticos e concorrer a cargos eletivos sem restrições.",
+        "B) O militar em atividade é inelegível e, enquanto estiver no serviço ativo, não pode filiar-se a partidos políticos.",
+        "C) Apenas os oficiais generais possuem permissão constitucional para acumular mandatos políticos e funções militares.",
+        "D) O militar com mais de cinco anos de serviço é dispensado de afastar-se da atividade para candidatar-se."
+      ],
+      "correctAnswer": "B) O militar em atividade é inelegível e, enquanto estiver no serviço ativo, não pode filiar-se a partidos políticos.",
+      "explanation": "O art. 142, § 3º, V e VI, estabelece que o militar em atividade é inelegível e fica proibido de filiação partidária."
+    },
+    {
+      "id": 3,
+      "question": "A respeito da proibição de greve e sindicalização no âmbito militar, a Constituição Federal estabelece que:",
+      "options": [
+        "A) É proibida a sindicalização e o direito de greve para os militares.",
+        "B) A greve é permitida apenas em quartéis de fronteira, desde que aprovada por assembleia de suboficiais.",
+        "C) A sindicalização é livre para sargentos e oficiais superiores.",
+        "D) Os militares podem realizar paralisações parciais de advertência se não houver conflito internacional."
+      ],
+      "correctAnswer": "A) É proibida a sindicalização e o direito de greve para os militares.",
+      "explanation": "O art. 142, § 3º, IV, veda de forma absoluta a sindicalização e a greve aos militares."
+    },
+    {
+      "id": 4,
+      "question": "Se um militar contar com mais de dez anos de serviço e candidatar-se a cargo eletivo, o comando constitucional aplicável determina que:",
+      "options": [
+        "A) Ele continuará exercendo funções militares normalmente durante o mandato político.",
+        "B) Ele será agregado pela autoridade superior e, se eleito, passará automaticamente para a inatividade no ato da diplomação.",
+        "C) Ele será sumariamente demitido sem direito a qualquer remuneração ou provento.",
+        "D) Ele assumirá a chefia interina do Ministério da Defesa."
+      ],
+      "correctAnswer": "B) Ele será agregado pela autoridade superior e, se eleito, passará automaticamente para a inatividade no ato da diplomação.",
+      "explanation": "O art. 142, § 3º, VII, 'b', determina que o militar com mais de 10 anos de serviço, ao candidatar-se, é agregado e, se eleito, vai para a inatividade (reforma/reserva remunerada) na diplomação."
+    },
+    {
+      "id": 5,
+      "question": "As finalidades constitucionais das Forças Armadas incluem, expressamente:",
+       "options": [
+        "A) A defesa da Pátria, a garantia dos poderes constitucionais e, por iniciativa de qualquer destes, da lei e da ordem.",
+        "B) A administração direta dos tribunais regionais federais e eleições municipais.",
+        "C) A auditoria fiscal de grandes empresas multinacionais exportadoras.",
+        "D) A supervisão exclusiva de currículos escolares do ensino fundamental."
+      ],
+      "correctAnswer": "A) A defesa da Pátria, a garantia dos poderes constitucionais e, por iniciativa de qualquer destes, da lei e da ordem.",
+      "explanation": "O caput do art. 142 elenca as três missões clássicas: defesa da pátria, garantia dos poderes e GLO."
+    },
+    {
+      "id": 6,
+      "question": "A jurisdição militar federal (Justiça Militar da União) é competente para processar e julgar os crimes militares definidos em lei, tendo como órgão de cúpula:",
+      "options": [
+        "A) O Supremo Tribunal Federal em grau de apelação ordinária.",
+        "B) O Superior Tribunal Militar (STM).",
+        "C) O Tribunal Superior do Trabalho.",
+        "D) O Conselho Nacional de Justiça."
+      ],
+      "correctAnswer": "B) O Superior Tribunal Militar (STM).",
+      "explanation": "O art. 122 e seguintes da CF/88 estruturam a Justiça Militar, tendo o Superior Tribunal Militar (STM) como órgão máximo."
+    },
+    {
+      "id": 7,
+      "question": "Sobre a jurisprudência do STF acerca da interpretação do art. 142 da CF/88, assinale a correta:",
+      "options": [
+        "A) O STF pacificou que o artigo legitima uma intervenção militar autônoma moderadora sobre os Três Poderes em caso de crise.",
+        "B) O STF reiterou que a atuação das Forças Armadas limita-se estritamente aos ditames constitucionais sob subordinação civil, sendo vedada qualquer leitura que autorize tutela militar sobre os poderes civis.",
+        "C) O comando das forças armadas pode afastar ministros do STF por ato discricionário de garantia de ordem.",
+        "D) Os militares possuem soberania legislativa própria independente do Congresso Nacional."
+      ],
+      "correctAnswer": "B) O STF reiterou que a atuação das Forças Armadas limita-se estritamente aos ditames constitucionais sob subordinação civil, sendo vedada qualquer leitura que autorize tutela militar sobre os poderes civis.",
+      "explanation": "A tese firmada pelo STF descarta qualquer interpretação de 'poder moderador' ou autonomia militar fora da subordinação civil."
+    },
+    {
+      "id": 8,
+      "question": "O militar da ativa que tomar posse em cargo, emprego ou função pública civil temporária, não eletiva, direta ou indireta:",
+      "options": [
+        "A) Poderá acumular os vencimentos sem qualquer restrição.",
+        "B) Será transferido para a reserva, nos termos da lei.",
+        "C) Deverá renunciar à patente militar definitivamente em quarenta e oito horas.",
+        "D) Responderá perante o Tribunal de Contas do Estado."
+      ],
+      "correctAnswer": "B) Será transferido para a reserva, nos termos da lei.",
+      "explanation": "O art. 142, § 3º, III, determina que o militar da ativa que assumir cargo civil público temporário será transferido para a reserva."
+    },
+    {
+      "id": 9,
+      "question": "A autoridade suprema das Forças Armadas brasileiras é exercida por qual autoridade da República?",
+      "options": [
+        "A) O Ministro da Defesa.",
+        "B) O Presidente da República.",
+        "C) O Presidente do Congresso Nacional.",
+        "D) O Comandante-Geral do Exército."
+      ],
+      "correctAnswer": "B) O Presidente da República.",
+      "explanation": "O art. 142 estabelece expressamente que o comando supremo das Forças Armadas cabe ao Presidente da República."
+    },
+    {
+      "id": 10,
+      "question": "Se um militar possuir menos de dez anos de serviço e decidir candidatar-se a cargo eletivo, a consequência jurídica imediata ao registrar sua candidatura é:",
+      "options": [
+        "A) A agregação imediata e, caso eleito, a passagem automática para a inatividade no ato da diplomação.",
+        "B) A permanência na ativa com direito a acumulação de soldo e subsídio parlamentar.",
+        "C) A expulsão desonrosa das fileiras do Exército sem direitos.",
+        "D) A promoção automática a oficial general."
+      ],
+      "correctAnswer": "A) A agregação imediata e, caso eleito, a passagem automática para a inatividade no ato da diplomação.",
+      "explanation": "Tanto para menos quanto para mais de 10 anos, se eleito, o militar vai para a inatividade na diplomação (a diferença é que com menos de 10 anos ele é agregado e afastado da atividade imediatamente ao candidatar-se)."
+    },
+    {
+      "id": 11,
+      "question": "A oficialidade das Forças Armadas é conferida por qual autoridade civil ou militar?",
+      "options": [
+        "A) Privativamente pelo Presidente da República, conferindo patentes aos oficiais da Marinha, do Exército e da Aeronáutica.",
+        "B) Pelos governadores de estado em cerimônia solene.",
+        "C) Pelo Procurador-Geral da República.",
+        "D) Por votação secreta da tropa subordinada."
+      ],
+      "correctAnswer": "A) Privativamente pelo Presidente da República, conferindo patentes aos oficiais da Marinha, do Exército e da Aeronáutica.",
+      "explanation": "O art. 84, XIII, c/c art. 142, estabelece que compete privativamente ao Presidente da República conferir patentes aos oficiais das Forças Armadas."
+    },
+    {
+      "id": 12,
+      "question": "No que tange à perda de posto e patente dos oficiais das Forças Armadas, a Constituição determina que:",
+      "options": [
+        "A) Só poderão perder o posto e a patente se forem julgados indignos do oficialato ou com ele incompatíveis por decisão de tribunal militar de caráter permanente.",
+        "B) Podem perder a patente por decreto sumário do Ministro da Defesa.",
+        "C) Perdem o posto automaticamente se faltarem a três reuniões administrativas.",
+        "D) O Congresso Nacional pode destituir oficiais por maioria simples."
+      ],
+      "correctAnswer": "A) Só poderão perder o posto e a patente se forem julgados indignos do oficialato ou com ele incompatíveis por decisão de tribunal militar de caráter permanente.",
+      "explanation": "O art. 142, § 3º, VI, protege o oficial, exigindo julgamento de indignidade/incompatibilidade por tribunal militar permanente."
+    },
+    {
+      "id": 13,
+      "question": "A base organizacional fundamental que sustenta o funcionamento regular das Forças Armadas brasileiras é:",
+      "options": [
+        "A) A hierarquia e a disciplina.",
+        "B) O sufrágio universal e a deliberação partidária.",
+        "C) A autonomia financeira municipal descentralizada.",
+        "D) A negociação coletiva de salários."
+      ],
+      "correctAnswer": "A) A hierarquia e a disciplina.",
+      "explanation": "O art. 142 consagra que as Forças Armadas organizam-se estritamente com base na hierarquia e na disciplina."
+    },
+    {
+      "id": 14,
+      "question": "Assinale a alternativa incorreta no tocante ao regime jurídico dos militares das Forças Armadas:",
+      "options": [
+        "A) Aplica-se aos militares o princípio da proibição absoluta de greve.",
+        "B) O militar da ativa pode filiar-se a partidos políticos se estiver em licença especial sem vencimentos.",
+        "C) É vedada a acumulação de cargos públicos, ressalvadas exceções de saúde e magistério previstas.",
+        "D) O militar inativo que cumpre mandato eletivo passa a perceber a remuneração do cargo eletivo com as restrições legais."
+      ],
+      "correctAnswer": "B) O militar da ativa pode filiar-se a partidos políticos se estiver em licença especial sem vencimentos.",
+      "explanation": "A alternativa é INCORRETA (resposta da questão) porque o militar **na ativa** tem vedação total e absoluta de filiação partidária, independentemente de estar em licença, férias ou afastamento."
+    },
+    {
+      "id": 15,
+      "question": "A operação de Garantia da Lei e da Ordem (GLO) pelas Forças Armadas ocorre:",
+      "options": [
+        "A) Por iniciativa exclusiva e autônoma de comandantes de batalhão em qualquer praça do país.",
+        "B) Por iniciativa de qualquer dos poderes constitucionais (Executivo, Legislativo ou Judiciário), quando esgotados os instrumentos tradicionais de segurança pública.",
+        "C) Automaticamente todos os domingos de eleições gerais.",
+        "D) Mediante autorização da Organização dos Estados Americanos (OEA)."
+      ],
+      "correctAnswer": "B) Por iniciativa de qualquer dos poderes constitucionais (Executivo, Legislativo ou Judiciário), quando esgotados os instrumentos tradicionais de segurança pública.",
+      "explanation": "A GLO pressupõe iniciativa de qualquer dos Poderes constitucionais, em caráter subsidiário e episódico, sob o comando do Presidente da República."
+    }
+  ]
+},
+
+{
+  "nomeTema": "Direito Constitucional - Seguranca Publica",
+  "questoes": [
+    {
+      "id": 1,
+      "question": "Acerca do sistema de segurança pública estruturado no art. 144 da Constituição Federal, assinale a alternativa correta:",
+      "options": [
+        "A) As Guardas Municipais integram taxativamente o rol principal de órgãos de segurança pública elencados no caput do art. 144.",
+        "B) A segurança pública é dever do Estado, direito e responsabilidade de todos, exercida para a preservação da ordem pública e da incolumidade das pessoas e do patrimônio.",
+        "C) A Polícia Federal exerce funções de polícia judiciária dos Estados-membros em crimes de repercussão interestadual.",
+        "D) Os Corpos de Bombeiros Militares subordinam-se diretamente ao Ministério da Defesa."
+      ],
+      "correctAnswer": "B) A segurança pública é dever do Estado, direito e responsabilidade de todos, exercida para a preservação da ordem pública e da incolumidade das pessoas e do patrimônio.",
+      "explanation": "O caput do art. 144 traz exatamente essa definição. As Guardas Municipais não constam no rol principal do caput, e a PF é polícia judiciária da União."
+    },
+    {
+      "id": 2,
+      "question": "No que tange às atribuições da Polícia Federal (art. 144, § 1º, da CF/88), constitui competência exclusiva da instituição:",
+      "options": [
+        "A) O patrulhamento ostensivo de rodovias estaduais pavimentadas.",
+        "B) O exercício das funções de polícia marítima, aeroportuária e de fronteiras, bem como de polícia judiciária da União.",
+        "C) A guarda permanente dos palácios governamentais estaduais.",
+        "D) A apuração de infrações penais militares cometidas por praças do Exército."
+      ],
+      "correctAnswer": "B) O exercício das funções de polícia marítima, aeroportuária e de fronteiras, bem como de polícia judiciária da União.",
+      "explanation": "O art. 144, § 1º, elenca as funções de polícia marítima, aeroportuária, de fronteiras e polícia judiciária da União como exclusivas da PF."
+    },
+    {
+      "id": 3,
+      "question": "Sobre as Polícias Civis (art. 144, § 4º, da CF/88), assinale a opção correta:",
+      "options": [
+        "A) São dirigidas por delegados de polícia de carreira e exercem as funções de polícia judiciária e apuração de infrações penais, exceto as militares.",
+        "B) Subordinam-se hierarquicamente ao Comando do Exército em tempo de paz.",
+        "C) Possuem atribuição exclusiva e absoluta para realizar patrulhamento ostensivo urbano.",
+        "D) Podem ser criadas por decreto autônomo de prefeitos municipais."
+      ],
+      "correctAnswer": "A) São dirigidas por delegados de polícia de carreira e exercem as funções de polícia judiciária e apuração de infrações penais, exceto as militares.",
+      "explanation": "O art. 144, § 4º, exige delegados de carreira na direção da Polícia Civil e delimita sua função como polícia judiciária e investigativa (exceto militares)."
+    },
+    {
+      "id": 4,
+      "question": "A Polícia Rodoviária Federal (PRF) é um órgão permanente encarregado constitucionalmente de:",
+      "options": [
+        "A) Realizar o patrulhamento ostensivo das rodovias federais.",
+        "B) Fiscalizar o sistema financeiro nacional e o mercado de capitais.",
+        "C) Comandar operações militares conjuntas no exterior.",
+        "D) Emitir passaportes e vistos para estrangeiros embaixadores."
+      ],
+      "correctAnswer": "A) Realizar o patrulhamento ostensivo das rodovias federais.",
+      "explanation": "O art. 144, § 2º, define a PRF como órgão permanente para o patrulhamento ostensivo das rodovias federais."
+    },
+    {
+      "id": 5,
+      "question": "As Polícias Militares cabem precipuamente:",
+      "options": [
+        "A) A polícia ostensiva e a preservação da ordem pública.",
+        "B) A instrução de inquéritos policiais federais em zona portuária.",
+        "C) A emissão de carteiras de identidade civil (RG).",
+        "D) O registro de patentes de invenção e marcas industriais."
+      ],
+      "correctAnswer": "A) A polícia ostensiva e a preservação da ordem pública.",
+      "explanation": "O art. 144, § 5º, atribui às PMs a polícia ostensiva e a preservação da ordem pública."
+    },
+    {
+      "id": 6,
+      "question": "A criação das Polícias Penais federal, estaduais e distrital foi introduzida no texto constitucional por meio de:",
+      "options": [
+        "A) Emenda Constitucional nº 104/2019.",
+        "B) Lei Complementar nº 75/1993.",
+        "C) Emenda Constitucional nº 45/2004.",
+        "D) Medida Provisória de reestruturação carcerária."
+      ],
+      "correctAnswer": "A) Emenda Constitucional nº 104/2019.",
+      "explanation": "A EC 104 de 2019 inseriu o art. 144, § 5º-A, criando as polícias penais."
+    },
+    {
+      "id": 7,
+      "question": "No que diz respeito às Guardas Municipais (art. 144, § 8º, da CF/88), assinale a correta:",
+      "options": [
+        "A) Os Municípios poderão constituir guardas municipais destinadas à proteção de seus bens, serviços e instalações, conforme dispuser a lei.",
+        "B) Integram obrigatoriamente o caput do art. 144 como força policial primária estadual.",
+        "C) Possuem competência privativa para instaurar inquéritos policiais de homicídio doloso.",
+        "D) Subordinam-se diretamente ao Tribunal de Contas do Estado."
+      ],
+      "correctAnswer": "A) Os Municípios poderão constituir guardas municipais destinadas à proteção de seus bens, serviços e instalações, conforme dispuser a lei.",
+      "explanation": "O § 8º do art. 144 autoriza os municípios a criarem guardas voltadas à proteção de bens, serviços e instalações."
+    },
+    {
+      "id": 8,
+      "question": "Em relação à subordinação das Polícias Militares e Corpos de Bombeiros Militares, a Constituição estabelece que eles são forças auxiliares e reserva do Exército, subordinando-se, no plano estadual, aos:",
+      "options": [
+        "A) Presidentes dos Tribunais de Justiça.",
+        "B) Governadores dos Estados e do Distrito Federal.",
+        "C) Procuradores-Gerais de Justiça.",
+        "D) Secretários de Segurança Pública federais."
+      ],
+      "correctAnswer": "B) Governadores dos Estados e do Distrito Federal.",
+      "explanation": "O art. 144, § 6º, vincula as PMs e CBMs aos Governadores dos Estados e do DF."
+    },
+    {
+      "id": 9,
+      "question": "A apuração de infrações penais militares cometidas por policiais militares em serviço compete a qual órgão, em regra?",
+      "options": [
+        "A) À Polícia Civil do Estado.",
+        "B) À Polícia Federal.",
+        "C) À própria Polícia Militar (por meio de Inquérito Policial Militar - IPM) ou à Justiça Militar.",
+        "D) Ao Ministério Público Federal."
+      ],
+      "correctAnswer": "C) À própria Polícia Militar (por meio de Inquérito Policial Militar - IPM) ou à Justiça Militar.",
+      "explanation": "O art. 144, § 4º, ressalva expressamente que a apuração de infrações penais militares não compete à Polícia Civil comum."
+    },
+    {
+      "id": 10,
+      "question": "A jurisprudência do STF consolidou entendimento no sentido de que a investigação criminal:",
+      "options": [
+        "A) É exclusiva e intransferível da Polícia Civil e da Polícia Federal, sendo nula qualquer investigação conduzida por promotores.",
+        "B) Pode ser conduzida também por outros órgãos além da polícia judiciária, como o Ministério Público, nos limites constitucionais.",
+        "C) Depende de autorização prévia do Senado Federal.",
+        "D) É proibida em crimes contra o sistema financeiro."
+      ],
+      "correctAnswer": "B) Pode ser conduzida também por outros órgãos além da polícia judiciária, como o Ministério Público, nos limites constitucionais.",
+      "explanation": "O STF firmou tese de que a polícia judiciária não tem exclusividade absoluta na investigação, sendo lícita a investigação pelo MP."
+    },
+    {
+      "id": 11,
+      "question": "Qual é a função básica atribuída constitucionalmente às Polícias Penais (art. 144, § 5º-A)?",
+      "options": [
+        "A) A segurança dos estabelecimentos penais.",
+        "B) O patrulhamento de fronteiras terrestres internacionais.",
+        "C) A escolta de cargas comerciais em rodovias estaduais.",
+        "D) A fiscalização de trânsito em rodovias municipais."
+      ],
+      "correctAnswer": "A) A segurança dos estabelecimentos penais.",
+      "explanation": "A atribuição constitucional da Polícia Penal é a segurança dos estabelecimentos penais."
+    },
+    {
+      "id": 12,
+      "question": "A remuneração dos policiais civis, militares e bombeiros militares integrantes dos órgãos de segurança pública estaduais é organizada com base em:",
+      "options": [
+        "A) Subsídio fixado em parcela única, vedada a concessão de adicionais, conforme regras constitucionais aplicáveis.",
+        "B) Comissões livres de produtividade por prisões efetuadas.",
+        "C) Salário mínimo regional flutuante.",
+        "D) Doações voluntárias de entidades privadas."
+      ],
+      "correctAnswer": "A) Subsídio fixado em parcela única, vedada a concessão de adicionais, conforme regras constitucionais aplicáveis.",
+      "explanation": "O art. 144, § 9º, c/c art. 39, § 4º, prevê a remuneração por subsídio em parcela única para os integrantes de segurança pública."
+    },
+    {
+      "id": 13,
+      "question": "Se um Estado-Membro pretender instituir uma nova corporação policial autônoma para exercer patrulhamento rodoviário estadual, poderá fazê-lo?",
+      "options": [
+        "A) Sim, os Estados possuem autonomia irrestrita para criar quantas polícias desejarem.",
+        "B) Não, o rol de órgãos de segurança pública do art. 144 é exaustivo para a União e para os Estados, não podendo ser criados novos tipos de polícias estaduais fora dos tipos previstos.",
+        "C) Sim, desde que aprovada por portaria do Ministério da Justiça.",
+        "D) Não, a menos que haja autorização do Tribunal de Contas da União."
+      ],
+      "correctAnswer": "B) Não, o rol de órgãos de segurança pública do art. 144 é exaustivo para a União e para os Estados, não podendo ser criados novos tipos de polícias estaduais fora dos tipos previstos.",
+      "explanation": "O STF entende que o rol de órgãos de segurança pública da Constituição é de observância obrigatória e exaustiva para os entes federados."
+    },
+    {
+      "id": 14,
+      "question": "Assinale a alternativa incorreta no tocante às normas de Segurança Pública na CF/88:",
+      "options": [
+        "A) A Polícia Ferroviária Federal é órgão permanente encarregado do patrulhamento ostensivo das ferrovias federais.",
+        "B) A segurança pública é exercida exclusivamente pelas Forças Armadas em caráter permanente nas capitais.",
+        "C) As polícias civis exercem funções de polícia judiciária e apuração de infrações penais.",
+        "D) A União, os Estados e o Distrito Federal manterão órgãos de polícia penal."
+      ],
+      "correctAnswer": "B) A segurança pública é exercida exclusivamente pelas Forças Armadas em caráter permanente nas capitais.",
+      "explanation": "A alternativa é INCORRETA (resposta da questão) porque a segurança pública ordinária é exercida pelos órgãos do art. 144 (polícias), e não pelas Forças Armadas, cuja atuação é subsidiária e episódica."
+    },
+    {
+      "id": 15,
+      "question": "A competência para legislar sobre normas gerais de direito penal, processual penal e segurança pública pertence privativamente a:",
+      "options": [
+        "A) Os Municípios de forma concorrente.",
+        "B) A União.",
+        "C) Os Estados-membros em caráter originário pleno.",
+        "D) As Assembleias Legislativas estaduais."
+      ],
+      "correctAnswer": "B) A União.",
+      "explanation": "Conforme o art. 22, I, da CF/88, legislar sobre direito penal, processual penal e normas gerais correlatas é competência privativa da União."
+    }
+  ]
+},
+
+{
+  "nomeTema": "Direito Constitucional - Organizacao da Seguranca Publica",
+  "questoes": [
+    {
+      "id": 1,
+      "question": "Acerca da organização da segurança pública prevista no art. 144 da Constituição Federal, assinale a alternativa correta:",
+      "options": [
+        "A) O rol de órgãos de segurança pública elencados no caput do art. 144 é exemplificativo, admitindo a criação de novos tipos de polícias estaduais por decreto simples do governador.",
+        "B) O rol de órgãos de segurança pública do caput do art. 144 é taxativo, integrando-o a Polícia Federal, a PRF, a PFF, as Polícias Civis, as Polícias Militares, os Corpos de Bombeiros Militares e as Polícias Penais.",
+        "C) As Guardas Municipais integram formalmente o caput do art. 144 como órgãos de segurança pública primária.",
+        "D) Apenas os órgãos federais possuem competência para atuar na preservação da ordem pública nos Estados."
+      ],
+      "correctAnswer": "B) O rol de órgãos de segurança pública do caput do art. 144 é taxativo, integrando-o a Polícia Federal, a PRF, a PFF, as Polícias Civis, as Polícias Militares, os Corpos de Bombeiros Militares e las Polícias Penais.",
+      "explanation": "O rol do art. 144 é taxativo. Guardas Municipais não constam no caput."
+    },
+    {
+      "id": 2,
+      "question": "No que tange às funções de polícia judiciária e apuração de infrações penais comuns (exceto as militares) no âmbito dos Estados, a competência constitucional é atribuída às:",
+      "options": [
+        "A) Polícias Militares estaduais.",
+        "B) Polícias Civis, dirigidas por delegados de polícia de carreira.",
+        "C) Guardas Municipais urbanas.",
+        "D) Forças Armadas em caráter permanente."
+      ],
+      "correctAnswer": "B) Polícias Civis, dirigidas por delegados de polícia de carreira.",
+      "explanation": "O art. 144, § 4º, atribui às Polícias Civis (dirigidas por delegados de carreira) a função de polícia judiciária e investigação criminal comum."
+    },
+    {
+      "id": 3,
+      "question": "Sobre a Polícia Federal (art. 144, § 1º, da CF/88), assinale a alternativa correta quanto às suas atribuições:",
+      "options": [
+        "A) Exercer com exclusividade as funções de polícia marítima, aeroportuária e de fronteiras, bem como de polícia judiciária da União.",
+        "B) Realizar o patrulhamento ostensivo municipal de trânsito em vias urbanas secundárias.",
+        "C) Comandar diretamente os Corpos de Bombeiros Militares estaduais em épocas de seca.",
+        "D) Julgar crimes contra o sistema financeiro em segunda instância."
+      ],
+      "correctAnswer": "A) Exercer com exclusividade as funções de polícia marítima, aeroportuária e de fronteiras, bem como de polícia judiciária da União.",
+      "explanation": "O art. 144, § 1º, fixa expressamente essas funções exclusivas da PF."
+    },
+    {
+      "id": 4,
+      "question": "A criação constitucional da Polícia Penal (federal, estadual e distrital) deu-se por meio de:",
+      "options": [
+        "A) Emenda Constitucional nº 104/2019.",
+        "B) Emenda Constitucional nº 45/2004.",
+        "C) Lei Orgânica da Magistratura Nacional.",
+        "D) Medida Provisória presidencial de segurança penitenciária."
+      ],
+      "correctAnswer": "A) Emenda Constitucional nº 104/2019.",
+      "explanation": "A EC 104/2019 criou a Polícia Penal no art. 144, § 5º-A."
+    },
+    {
+      "id": 5,
+      "question": "Aos Corpos de Bombeiros Militares, além das atribuições definidas em lei, incumbe precipuamente:",
+      "options": [
+        "A) O patrulhamento ostensivo de rodovias federais e estaduais.",
+        "B) A execução de atividades de Defesa Civil, prevenção e combate a incêndios, busca, salvamento e socorro.",
+        "C) A emissão exclusiva de passaportes diplomáticos.",
+        "D) A supervisão de cartórios de registro de imóveis."
+      ],
+      "correctAnswer": "B) A execução de atividades de Defesa Civil, prevenção e combate a incêndios, busca, salvamento e socorro.",
+      "explanation": "O art. 144, § 5º, c/c leis orgânicas, define o papel dos bombeiros militares na Defesa Civil e combate a incêndios/salvamento."
+    },
+    {
+      "id": 6,
+      "question": "Sobre o poder de investigação criminal no ordenamento jurídico brasileiro, a jurisprudência atual do STF firmou tese de que:",
+      "options": [
+        "A) Apenas a Polícia Federal pode investigar crimes de repercussão nacional.",
+        "B) O Ministério Público também dispõe de competência para promover investigações criminais de forma autônoma, respeitadas as garantias legais.",
+        "C) As comissões parlamentares de inquérito são proibidas de ouvir testemunhas sob compromisso.",
+        "D) A polícia civil não pode investigar crimes cometidos por prefeitos."
+      ],
+      "correctAnswer": "B) O Ministério Público também dispõe de competência para promover investigações criminais de forma autônoma, respeitadas as garantias legais.",
+      "explanation": "O STF pacificou que o MP possui poder investigatório criminal autônomo (Tema 184 de Repercussão Geral)."
+    },
+    {
+      "id": 7,
+      "question": "No que concerne às Guardas Municipais, a Constituição Federal estabelece que elas destinam-se a:",
+      "options": [
+        "A) Fazer policiamento ostensivo e repressivo de combate ao tráfico internacional de drogas nas fronteiras.",
+        "B) Proteger os bens, serviços e instalações dos Municípios, conforme dispuser a lei.",
+        "C) Substituir integralmente as Polícias Militares em caso de greve estadual.",
+        "D) Julgar infrações penais de menor potencial ofensivo em tribunais municipais."
+      ],
+      "correctAnswer": "B) Proteger os bens, serviços e instalações dos Municípios, conforme dispuser a lei.",
+      "explanation": "O art. 144, § 8º, restringe o escopo constitucional das Guardas Municipais à proteção de bens, serviços e instalações municipais."
+    },
+    {
+      "id": 8,
+      "question": "A subordinação institucional das Polícias Militares e Corpos de Bombeiros Militares no plano dos Estados e do Distrito Federal ocorre perante:",
+      "options": [
+        "A) Os respectivos Governadores dos Estados e do Distrito Federal.",
+        "B) O Ministério da Justiça e Segurança Pública.",
+        "C) O Tribunal de Contas da União.",
+        "D) Os Presidentes das Assembleias Legislativas."
+      ],
+      "correctAnswer": "A) Os respectivos Governadores dos Estados e do Distrito Federal.",
+      "explanation": "O art. 144, § 6º, vincula PMs e CBMs aos Governadores dos Estados e do DF."
+    },
+    {
+      "id": 9,
+      "question": "A função constitucional da Polícia Rodoviária Federal (PRF) consiste em:",
+      "options": [
+        "A) Executar o patrulhamento ostensivo das rodovias federais.",
+        "B) Fiscalizar aeroportos internacionais e portos marítimos com exclusividade.",
+        "C) Realizar perícias papiloscópicas em tribunais de justiça estaduais.",
+        "D) Dirigir o sistema prisional federal de segurança máxima."
+      ],
+      "correctAnswer": "A) Executar o patrulhamento ostensivo das rodovias federais.",
+      "explanation": "O art. 144, § 2º, define a PRF como órgão permanente para o patrulhamento ostensivo de rodovias federais."
+    },
+    {
+      "id": 10,
+      "question": "Se um Estado-Membro decidir por lei estadual criar uma nova categoria policial de fiscalização ambiental autônoma fora dos tipos do art. 144, tal lei será:",
+      "options": [
+        "A) Totalmente válida, em nome da autonomia federativa.",
+        "B) Inconstitucional, por violação à taxatividade do rol de órgãos de segurança pública do art. 144 da CF/88.",
+        "C) Válida se aprovada por maioria absoluta do congresso.",
+        "D) Convertida em autarquia federal pelo STF."
+      ],
+      "correctAnswer": "B) Inconstitucional, por violação à taxatividade do rol de órgãos de segurança pública do art. 144 da CF/88.",
+      "explanation": "O STF entende que o rol do art. 144 é taxativo e de observância obrigatória, sendo vedada a criação de novos tipos de polícia pelos Estados."
+    },
+    {
+      "id": 11,
+      "question": "A segurança dos estabelecimentos penais (sistema prisional) constitui atribuição institucional própria de qual órgão?",
+      "options": [
+        "A) Polícias Penais federal, estaduais e distrital.",
+        "B) Exército Brasileiro exclusivamente.",
+        "C) Polícias Civis em regime de plantão diurno.",
+        "D) Guardas Municipais."
+      ],
+      "correctAnswer": "A) Polícias Penais federal, estaduais e distrital.",
+      "explanation": "O art. 144, § 5º-A, atribui a segurança dos estabelecimentos penais às Polícias Penais."
+    },
+    {
+      "id": 12,
+      "question": "A remuneração dos integrantes dos órgãos de segurança pública estruturados nas carreiras policiais estaduais é fixada sob o regime de:",
+      "options": [
+        "A) Subsídio em parcela única, vedada a concessão de adicionais, abonos ou prêmios não previstos em lei complementar.",
+        "B) Salário mínimo variável vinculado ao dólar americano.",
+        "C) Comissões percentuais sobre apreensões de contrabando.",
+        "D) Horas extras acumuladas sem teto constitucional."
+      ],
+      "correctAnswer": "A) Subsídio em parcela única, vedada a concessão de adicionais, abonos ou prêmios não previstos em lei complementar.",
+      "explanation": "O art. 144, § 9º, determina a remuneração por subsídio em parcela única para os integrantes dos órgãos do art. 144."
+    },
+    {
+      "id": 13,
+      "question": "As Polícias Militares e os Corpos de Bombeiros Militares são considerados constitucionalmente como:",
+      "options": [
+        "A) Forças auxiliares e reserva do Exército.",
+        "B) Órgãos civis subordinados ao Ministério da Justiça.",
+        "C) Empresas públicas de direito privado com fins lucrativos.",
+        "D) Entidades autônomas internacionais de cooperação de fronteira."
+      ],
+      "correctAnswer": "A) Forças auxiliares e reserva do Exército.",
+      "explanation": "O art. 144, § 6º, define expressamente as PMs e CBMs como forças auxiliares e reserva do Exército."
+    },
+    {
+      "id": 14,
+      "question": "Assinale a alternativa incorreta no tocante à organização da segurança pública:",
+      "options": [
+        "A) A Polícia Ferroviária Federal é órgão permanente de patrulhamento ostensivo das ferrovias federais.",
+        "B) As Polícias Civis exercem função investigativa e de polícia judiciária nos Estados.",
+        "C) As Guardas Municipais integram o rol principal de órgãos de segurança pública do caput do art. 144 da CF/88.",
+        "D) A União, os Estados e o Distrito Federal manterão polícias penais."
+      ],
+      "correctAnswer": "C) As Guardas Municipais integram o rol principal de órgãos de segurança pública do caput do art. 144 da CF/88.",
+      "explanation": "A alternativa é INCORRETA (resposta da questão) porque as Guardas Municipais **não** integram o caput do art. 144."
+    },
+    {
+      "id": 15,
+      "question": "A competência legislativa para dispor sobre normas gerais relativas à organização, garantias e deveres das polícias civis e militares cabe a:",
+      "options": [
+        "A) A União, por meio de lei federal de normas gerais.",
+        "B) Exclusivamente os prefeitos municipais.",
+        "C) Os Sindicatos de Policiais Civis e Militares.",
+        "D) Os tribunais de contas estaduais."
+      ],
+      "correctAnswer": "A) A União, por meio de lei federal de normas gerais.",
+      "explanation": "Compete privativamente à União legislar sobre normas gerais de polícias civis e militares (art. 21/22 da CF/88 c/c leis específicas)."
+    }
+  ]
+},
+
+{
+  "nomeTema": "Direito Constitucional - Atribuicoes Constitucionais da Policia Rodoviaria Federal",
+  "questoes": [
+    {
+      "id": 1,
+      "question": "Acerca das atribuições constitucionais da Polícia Rodoviária Federal (PRF) previstas no art. 144, § 2º, da Constituição Federal, assinale a alternativa correta:",
+      "options": [
+        "A) A PRF é um órgão temporário de fiscalização de trânsito subordinado diretamente aos governadores dos Estados.",
+        "B) A PRF é órgão permanente, organizado e mantido pela União e estruturado em carreira, destinado ao patrulhamento ostensivo das rodovias federais.",
+        "C) A PRF possui competência privativa para exercer funções exclusivas de polícia judiciária civil em âmbito interestadual.",
+        "D) A atuação da PRF restringe-se exclusivamente a áreas rurais, sendo vedada sua presença em trechos de rodovias federais que cruzem perímetros urbanos."
+      ],
+      "correctAnswer": "B) A PRF é órgão permanente, organizado e mantido pela União e estruturado em carreira, destinado ao patrulhamento ostensivo das rodovias federais.",
+      "explanation": "O art. 144, § 2º, define com exatidão a PRF como órgão permanente da União estruturado em carreira para o patrulhamento ostensivo de rodovias federais."
+    },
+    {
+      "id": 2,
+      "question": "No que tange à natureza jurídica e ao escopo de atuação da Polícia Rodoviária Federal, a jurisprudência pacificada dos tribunais superiores estabelece que a PRF:",
+      "options": [
+        "A) Atua estritamente como órgão administrativo de emissão de carteiras de habilitação e emplacamento municipal.",
+        "B) É um órgão de segurança pública com atribuição de patrulhamento ostensivo nas rodovias federais, possuindo legitimidade para realizar abordagens, apreensões de ilícitos e prisões em flagrante.",
+        "C) Subordina-se hierarquicamente às secretarias estaduais de segurança pública dos Estados onde atua.",
+        "D) Não pode efetuar prisões em flagrante delito, devendo aguardar sempre a chegada da polícia civil local."
+      ],
+      "correctAnswer": "B) É um órgão de segurança pública com atribuição de patrulhamento ostensivo nas rodovias federais, possuindo legitimidade para realizar abordagens, apreensões de ilícitos e prisões em flagrante.",
+      "explanation": "A PRF é força de segurança pública com plena legitimidade para abordar, apreender materiais ilícitos e efetuar prisões em flagrante nas rodovias federais."
+    },
+    {
+      "id": 3,
+      "question": "Se um trecho de rodovia federal atravessar o perímetro urbano de um município de grande porte, a competência para o patrulhamento ostensivo e fiscalização viária primária desse trecho rodoviário pertence:",
+      "options": [
+        "A) Exclusivamente à Guarda Municipal urbana.",
+        "B) À Polícia Rodoviária Federal, sem prejuízo da cooperação com órgãos locais de trânsito.",
+        "C) Apenas à Polícia Militar do Estado.",
+        "D) A concessionárias privadas de pedágio por delegação plenária."
+      ],
+      "correctAnswer": "B) À Polícia Rodoviária Federal, sem prejuízo da cooperação com órgãos locais de trânsito.",
+      "explanation": "O trecho urbano de rodovia federal continua sob jurisdição federal de patrulhamento da PRF, conforme entendimento pacificado."
+    },
+    {
+      "id": 4,
+      "question": "Assinale a alternativa que indica corretamente o enquadramento constitucional da PRF no sistema brasileiro de segurança pública:",
+      "options": [
+        "A) Art. 144, inciso II e § 2º, da Constituição Federal.",
+        "B) Art. 37, inciso II, da Constituição Federal.",
+        "C) Art. 21, inciso XIV, da Constituição Federal.",
+        "D) Art. 24, parágrafo único, da Constituição Federal."
+      ],
+      "correctAnswer": "A) Art. 144, inciso II e § 2º, da Constituição Federal.",
+      "explanation": "A PRF está prevista expressamente no art. 144, II (caput) e § 2º da CF/88."
+    },
+    {
+      "id": 5,
+      "question": "Caso agentes da PRF visualizem o transporte de armas de fogo de uso restrito sem autorização no interior de um automóvel durante fiscalização de rotina em rodovia federal, os policiais devem:",
+      "options": [
+        "A) Liberar o veículo imediatamente, pois a PRF não tem atribuição para fiscalizar armamentos.",
+        "B) Realizar a prisão em flagrante dos ocupantes e apreender o armamento, conduzindo a ocorrência à autoridade policial competente.",
+        "C) Aplicar multa administrativa de trânsito e reter a carteira de motorista sem conduzir os suspeitos.",
+        "D) Instaurar inquérito policial militar definitivo no local."
+      ],
+      "correctAnswer": "B) Realizar a prisão em flagrante dos ocupantes e apreender o armamento, conduzindo a ocorrência à autoridade policial competente.",
+      "explanation": "Diante de flagrante delito, os agentes da PRF têm o dever de efetuar a prisão, apreender os bens e encaminhar ao delegado competente."
+    },
+    {
+      "id": 6,
+      "question": "Sobre a estruturação da Polícia Rodoviária Federal, a Constituição exige expressamente que o órgão seja:",
+      "options": [
+        "A) Temporário e vinculado a contratos de terceirização privada.",
+        "B) Permanente, organizado e mantido pela União, estruturado em carreira.",
+        "C) Composto por servidores comissionados sem concurso público.",
+        "D) Subordinado financeiramente aos governos estaduais."
+      ],
+      "correctAnswer": "B) Permanente, organizado e mantido pela União, estruturado em carreira.",
+      "explanation": "O art. 144, § 2º, exige expressamente os qualificativos de permanente, mantido pela União e estruturado em carreira."
+    },
+    {
+      "id": 7,
+      "question": "A PRF possui competência originária para presidir inquéritos policiais de investigação criminal complexa de crimes de corrupção sistêmica?",
+       "options": [
+        "A) Sim, a PRF possui exclusividade absoluta em investigações de colarinho branco.",
+        "B) Não, a função de polícia judiciária e investigação criminal ordinária compete à Polícia Federal ou às Polícias Civis, cabendo à PRF o patrulhamento ostensivo e o flagrante decorrente da atividade viária.",
+        "C) Sim, desde que haja autorização do governador do estado.",
+        "D) Apenas nos fins de semana e feriados prolongados."
+      ],
+      "correctAnswer": "B) Não, a função de polícia judiciária e investigação criminal ordinária compete à Polícia Federal ou às Polícias Civis, cabendo à PRF o patrulhamento ostensivo e o flagrante decorrente da atividade viária.",
+      "explanation": "A PRF é força ostensiva rodoviária; a investigação de polícia judiciária compete primariamente à PF (no âmbito federal) ou PCs (estadual)."
+    },
+    {
+      "id": 8,
+      "question": "Em relação ao regime remuneratório dos integrantes da carreira da PRF, aplica-se a regra de:",
+      "options": [
+        "A) Subsídio fixado em parcela única, vedada a concessão de adicionais não previstos.",
+        "B) Comissões proporcionais sobre multas aplicadas.",
+        "C) Salário mínimo regional flutuante.",
+        "D) Honorários de sucumbência judicial."
+      ],
+      "correctAnswer": "A) Subsídio fixado em parcela única, vedada a concessão de adicionais não previstos.",
+      "explanation": "O art. 144, § 9º, c/c art. 39, § 4º, submete os integrantes das carreiras policiais do art. 144 ao regime de subsídio."
+    },
+    {
+      "id": 9,
+      "question": "A criação de novos postos operacionais da PRF em rodovias federais recém-construídas insere-se no âmbito da competência administrativa de qual esfera?",
+      "options": [
+        "A) Da União, por meio da administração federal e diretrizes do Ministério da Justiça e Segurança Pública.",
+        "B) Exclusivamente das Câmaras de Vereadores dos municípios limítrofes.",
+        "C) Dos consórcios de empresas privadas de transporte.",
+        "D) Do Supremo Tribunal Federal."
+      ],
+      "correctAnswer": "A) Da União, por meio da administração federal e diretrizes do Ministério da Justiça e Segurança Pública.",
+      "explanation": "Sendo órgão federal mantido pela União, a estruturação operacional e implantação de postos cabe à administração federal."
+    },
+    {
+      "id": 10,
+      "question": "Assinale a alternativa correta quanto à abrangência espacial da atuação da PRF:",
+      "options": [
+        "A) Rodovias federais e estradas federais em todo o território nacional.",
+        "B) Apenas rodovias estaduais pavimentadas mediante convênio de doação.",
+        "C) Vias vicinais e estradas municipais vicinais sem pavimentação.",
+        "D) Portos marítimos internacionais com exclusividade portuária total."
+      ],
+      "correctAnswer": "A) Rodovias federais e estradas federais em todo o território nacional.",
+      "explanation": "O texto constitucional delimita o patrulhamento ostensivo às rodovias federais."
+    },
+    {
+      "id": 11,
+      "question": "Se um motorista em rodovia federal desobedecer a ordem de parada legal emitida por agentes da PRF em patrulhamento ostensivo, comete em tese infração e crime previsto no:",
+      "options": [
+        "A) Código de Trânsito Brasileiro e Código Penal (desobediência ou resistência, conforme o caso).",
+        "B) Estatuto da Criança e do Adolescente exclusivamente.",
+        "C) Código Eleitoral.",
+        "D) Código Comercial marítimo."
+      ],
+      "correctAnswer": "A) Código de Trânsito Brasileiro e Código Penal (desobediência ou resistência, conforme o caso).",
+      "explanation": "A desobediência a ordens legais de agentes de segurança pública no exercício de suas funções configura infração e crimes previstos nas leis penais/administrativas."
+    },
+    {
+      "id": 12,
+      "question": "A PRF integra a estrutura da administração pública federal direta, encontrando-se atualmente vinculada organicamente ao:",
+      "options": [
+        "A) Ministério da Justiça e Segurança Pública.",
+        "B) Ministério da Fazenda.",
+        "C) Ministério das Relações Exteriores.",
+        "D) Ministério da Infraestrutura e Transportes."
+      ],
+      "correctAnswer": "A) Ministério da Justiça e Segurança Pública.",
+      "explanation": "A PRF integra a estrutura do Ministério da Justiça e Segurança Pública."
+    },
+    {
+      "id": 13,
+      "question": "A realização de testes de alcoolemia (bafômetro) por agentes da PRF em condutores nas rodovias federais fundamenta-se:",
+      "options": [
+        "A) No poder de polícia de trânsito e segurança viária atribuído à corporação.",
+        "B) Em ato arbitrário vedado pela Constituição.",
+        "C) Na competência exclusiva do Ministério da Saúde.",
+        "D) Em decisão privativa dos tribunais de contas."
+      ],
+      "correctAnswer": "A) No poder de polícia de trânsito e segurança viária atribuído à corporação.",
+      "explanation": "O patrulhamento ostensivo e a fiscalização de trânsito rodoviário legitimam a realização de fiscalizações de alcoolemia (CTB c/c CF/88)."
+    },
+    {
+      "id": 14,
+      "question": "Assinale a alternativa incorreta no tocante à PRF:",
+      "options": [
+        "A) É órgão permanente da União.",
+        "B) Destina-se ao patrulhamento ostensivo das rodovias federais.",
+        "C) Possui competência originária exclusiva para presidir inquéritos policiais de homicídio doloso em áreas urbanas municipais.",
+        "D) É estruturada em carreira pública federal."
+      ],
+      "correctAnswer": "C) Possui competência originária exclusiva para presidir inquéritos policiais de homicídio doloso em áreas urbanas municipais.",
+      "explanation": "A alternativa é INCORRETA (resposta da questão) porque a PRF **não** preside inquéritos de homicídio em área urbana municipal (função da Polícia Civil)."
+    },
+    {
+      "id": 15,
+      "question": "A atuação da PRF em operações integradas de segurança pública junto com a Polícia Federal e forças estaduais caracteriza o princípio constitucional da:",
+      "options": [
+        "A) Cooperação federativa e integração dos órgãos de segurança pública.",
+        "B) Concentração unitária de poderes estaduais.",
+        "C) Descentralização municipalista absoluta.",
+        "D) Intervenção militar permanente."
+      ],
+      "correctAnswer": "A) Cooperação federativa e integração dos órgãos de segurança pública.",
+      "explanation": "A integração e cooperação entre as forças policiais refletem o modelo sistêmico de segurança pública da Constituição de 1988."
+    }
+  ]
+},
+
+{
+  "nomeTema": "Direito Constitucional - Ordem Social",
+  "questoes": [
+    {
+      "id": 1,
+      "question": "Acerca da Seguridade Social estruturada no art. 194 da Constituição Federal, assinale a alternativa correta sobre as áreas que compõem o seu tripé:",
+      "options": [
+        "A) Saúde, Educação básica e Segurança pública.",
+        "B) Saúde, Previdência Social e Assistência Social.",
+        "C) Previdência privada, Habitação popular e Trabalho.",
+        "D) Defesa nacional, Cultura e Assistência judiciária."
+      ],
+      "correctAnswer": "B) Saúde, Previdência Social e Assistência Social.",
+      "explanation": "O art. 194 estabelece que a Seguridade Social compreende as ações integradas de saúde, previdência social e assistência social."
+    },
+    {
+      "id": 2,
+      "question": "No que tange à Assistência Social (art. 203 da CF/88), é correto afirmar que sua prestação ocorre:",
+      "options": [
+        "A) Condicionada à prévia contribuição financeira pelo período mínimo de cento e oitenta meses.",
+        "B) A quem dela necessitar, independentemente de contribuição à seguridade social.",
+        "C) Exclusivamente a empresários falidos por decisão judicial.",
+        "D) Aprovada mediante prévio referendo bancário internacional."
+      ],
+      "correctAnswer": "B) A quem dela necessitar, independentemente de contribuição à seguridade social.",
+      "explanation": "A assistência social rege-se pelo princípio da não-contributividade: é devida a quem dela necessitar, sem exigir contribuições prévias."
+    },
+    {
+      "id": 3,
+      "question": "Sobre o Meio Ambiente (art. 225 da CF/88), assinale a opção correta quanto ao regime de responsabilidade civil aplicável ao dano ambiental:",
+      "options": [
+        "A) Responsabilidade subjetiva, exigindo prova rigorosa de dolo do empresário poluidor.",
+        "B) Responsabilidade objetiva, integral e solidária, impondo ao poluidor a obrigação de reparar os danos causados independentemente de culpa.",
+        "C) Responsabilidade exclusiva do Estado, isentando empresas privadas de qualquer ressarcimento.",
+        "D) Responsabilidade prescritível em trinta dias após o evento."
+      ],
+      "correctAnswer": "B) Responsabilidade objetiva, integral e solidária, impondo ao poluidor a obrigação de reparar os danos causados independentemente de culpa.",
+      "explanation": "A responsabilidade civil por dano ambiental é objetiva (teoria do risco integral), prescindindo de culpa e gerando dever de reparação."
+    },
+    {
+      "id": 4,
+      "question": "A respeito dos direitos dos índios (art. 231 da CF/88), assinale a alternativa correta:",
+      "options": [
+        "A) As terras tradicionalmente ocupadas pelos índios destinam-se a sua posse permanente, sendo os direitos sobre elas inalienáveis, indisponíveis e imprescritíveis.",
+        "B) As terras indígenas podem ser compradas por particulares mediante escritura pública registrada em cartório.",
+        "C) A União não possui competência para demarcar terras indígenas.",
+        "D) Os índios não possuem personalidade jurídica civil no direito brasileiro."
+      ],
+      "correctAnswer": "A) As terras tradicionalmente ocupadas pelos índios destinam-se a sua posse permanente, sendo os direitos sobre elas inalienáveis, indisponíveis e imprescritíveis.",
+      "explanation": "O art. 231, § 4º, fixa expressamente que as terras tradicionais são inalienáveis, indisponíveis e os direitos imprescritíveis."
+    },
+    {
+      "id": 5,
+      "question": "O Sistema Único de Saúde (SUS), integrado à rede regionalizada e hierarquizada, rege-se por diretrizes constitucionais expressas (art. 198), entre as quais se destaca:",
+       "options": [
+        "A) Centralização normativa absoluta na Presidência da República.",
+        "B) Descentralização, com direção única em cada esfera de governo; atendimento integral; e participação da comunidade.",
+        "C) Obrigatoriedade de pagamento de taxas de consulta em postos de atendimento.",
+        "D) Vedação absoluta à participação de entidades privadas na assistência sanitária."
+      ],
+      "correctAnswer": "B) Descentralização, com direção única em cada esfera de governo; atendimento integral; e participação da comunidade.",
+      "explanation": "O art. 198 elenca as três diretrizes fundamentais do SUS: descentralização, atendimento integral e participação da comunidade."
+    },
+    {
+      "id": 6,
+      "question": "Sobre a Família (art. 226 da CF/88), a Constituição reconhece expressamente como entidade familiar, além do casamento civil:",
+      "options": [
+        "A) A união estável entre o homem e a mulher, bem como a comunidade formada por qualquer dos pais e seus descendentes.",
+        "B) Apenas associações comerciais com fins lucrativos.",
+        "C) Grupos de amizade residencial sem laços de parentesco civil.",
+        "D) Sociedades anônimas de capital aberto familiar."
+      ],
+      "correctAnswer": "A) A união estável entre o homem e a mulher, bem como a comunidade formada por qualquer dos pais e seus descendentes.",
+      "explanation": "O art. 226 protege o casamento, a união estável e a família monoparental (qualquer dos pais e descendentes)."
+    },
+    {
+      "id": 7,
+      "question": "O princípio constitucional da absoluta prioridade assegurado à criança, ao adolescente e ao jovem (art. 227 da CF/88) obriga:",
+      "options": [
+        "A) Exclusivamente os conselhos tutelares municipais de plantão noturno.",
+        "B) A família, a sociedade e o Estado a garantirem direitos fundamentais com precedência e prioridade absoluta.",
+        "C) O pagamento de mesada estatal universal a menores de idade.",
+        "D) A isenção de obrigações escolares para maiores de quatorze anos."
+      ],
+      "correctAnswer": "B) A família, a sociedade e o Estado a garantirem direitos fundamentais com precedência e prioridade absoluta.",
+      "explanation": "O art. 227 consagra o dever conjunto da família, da sociedade e do Estado na proteção integral prioritária."
+    },
+    {
+      "id": 8,
+      "question": "Em relação à Previdência Social (art. 201 da CF/88), é correto afirmar que rege-se pelo princípio do caráter:",
+      "options": [
+        "A) Voluntário e beneficente sem exigência de custeio.",
+        "B) Contributivo e de filiação obrigatória, observados critérios que preservem o equilíbrio financeiro e atuarial.",
+        "C) Gratuito para todas as faixas de renda empresarial.",
+        "D) Facultativo para servidores públicos titulares de cargo efetivo."
+      ],
+      "correctAnswer": "B) Contributivo e de filiação obrigatória, observados critérios que preservem o equilíbrio financeiro e atuarial.",
+      "explanation": "A previdência social geral e pública caracteriza-se pelo regime contributivo e de filiação obrigatória."
+    },
+    {
+      "id": 9,
+      "question": "A assistência à saúde é livre à iniciativa privada. Sobre essa participação no SUS, a Constituição estabelece que:",
+      "options": [
+        "A) As instituições privadas poderão participar de forma complementar do sistema único de saúde, preferencialmente com entidades filantrópicas e sem fins lucrativos.",
+        "B) É proibido o uso de recursos públicos por hospitais particulares em qualquer hipótese.",
+        "C) Clínicas privadas não podem cobrar pacientes particulares sob nenhuma circunstância.",
+        "D) A iniciativa privada substitui o Estado integralmente na vigilância sanitária."
+      ],
+      "correctAnswer": "A) As instituições privadas poderão participar de forma complementar do sistema único de saúde, preferencialmente com entidades filantrópicas e sem fins lucrativos.",
+      "explanation": "O art. 199, § 1º, autoriza a participação complementar da iniciativa privada no SUS, dando preferência às filantrópicas/sem fins lucrativos."
+    },
+    {
+      "id": 10,
+      "question": "O Benefício de Prestação Continuada (BPC/LOAS) assegura um salário mínimo mensal:",
+      "options": [
+        "A) A qualquer cidadão brasileiro desempregado há mais de seis meses.",
+        "B) À pessoa com deficiência e ao idoso com 65 anos ou mais que comprovarem não possuir meios de prover a própria manutenção.",
+        "C) Aos ex-presidentes da república em situação de vulnerabilidade.",
+        "D) Aos contribuintes individuais que sofrerem acidente de trânsito."
+      ],
+      "correctAnswer": "B) À pessoa com deficiência e ao idoso com 65 anos ou mais que comprovarem não possuir meios de prover a própria manutenção.",
+      "explanation": "O BPC (art. 203, V) destina-se ao deficiente e ao idoso (65 anos ou mais) hipossuficientes, sem exigir contribuição prévia."
+    },
+    {
+      "id": 11,
+      "question": "Assinale a alternativa correta quanto à base estrutural da Ordem Social segundo o art. 193 da CF/88:",
+      "options": [
+        "A) Tem como base o capital financeiro internacional e como objetivo o lucro corporativo.",
+        "B) Tem como base o trabalho e como objetivo o bem-estar e a justiça sociais.",
+        "C) Tem como base o latifúndio produtivo e como objetivo a exportação de minérios.",
+        "D) Tem como base a arrecadação tributária municipal e como objetivo o superávit primário."
+      ],
+      "correctAnswer": "B) Tem como base o trabalho e como objetivo o bem-estar e a justiça sociais.",
+      "explanation": "O art. 193 define expressamente: a ordem social tem como base o trabalho e como objetivo o bem-estar e a justiça sociais."
+    },
+    {
+      "id": 12,
+      "question": "A educação, direito de todos e dever do Estado e da família, será promovida e incentivada com a colaboração da sociedade, visando ao pleno desenvolvimento da pessoa, seu preparo para o exercício da cidadania e sua qualificação para o trabalho. O ensino será ministrado com base em vários princípios, exceto:",
+      "options": [
+        "A) Igualdade de condições para o acesso e permanência na escola.",
+        "B) Liberdade de aprender, ensinar, pesquisar e divulgar o pensamento, a arte e o saber.",
+        "C) Obrigatoriedade de ensino confessional de religião específica em escolas públicas.",
+        "D) Pluralismo de ideias e de concepções pedagógicas."
+      ],
+      "correctAnswer": "C) Obrigatoriedade de ensino confessional de religião específica em escolas públicas.",
+      "explanation": "A alternativa C está incorreta (sendo a resposta correta da questão) pois o ensino religioso nas escolas públicas é de matrícula *facultativa*, vedando-se a obrigatoriedade de crença específica."
+    },
+    {
+      "id": 13,
+      "question": "O patrimônio cultural brasileiro abrange bens de natureza material e imaterial portadores de referência à identidade, à ação, à memória dos diferentes grupos formadores da sociedade. A forma de proteção desse patrimônio inclui:",
+      "options": [
+        "A) Inventários, registros, vigilância, tombamento e desapropriação.",
+        "B) Demolição sumária por prefeituras sem laudo técnico.",
+        "C) Comercialização internacional livre em leilões particulares.",
+        "D) Exclusão de qualquer tutela estatal."
+      ],
+      "correctAnswer": "A) Inventários, registros, vigilância, tombamento e desapropriação.",
+      "explanation": "O art. 216 da CF/88 consagra os instrumentos de proteção cultural, como inventários, registros, tombamento e desapropriação."
+    },
+    {
+      "id": 14,
+      "question": "Assinale a alternativa incorreta no tocante às normas da Ordem Social na Constituição Federal:",
+      "options": [
+        "A) É assegurada assistência à família na pessoa de cada um dos os seus integrantes, criando mecanismos para coibir a violência no âmbito de suas relações.",
+        "B) O Estado garantirá a gratuidade do ensino público em estabelecimentos oficiais apenas para o ensino superior.",
+        "C) As ações e serviços públicos de saúde integram uma rede regionalizada e hierarquizada e constituem um sistema único.",
+        "D) A lei disporá sobre a assistência às pessoas com deficiência, integrando-as à sociedade."
+      ],
+      "correctAnswer": "B) O Estado garantiro a gratuidade do ensino público em estabelecimentos oficiais apenas para o ensino superior.",
+      "explanation": "A alternativa é INCORRETA (resposta da questão) porque o ensino público é gratuito em estabelecimentos oficiais **em todos os níveis** (e não apenas no ensino superior)."
+    },
+    {
+      "id": 15,
+      "question": "A competência para legislar concorrentemente sobre proteção ao meio ambiente, controle da poluição e florestas cabe a:",
+      "options": [
+        "A) Apenas aos Municípios em caráter isolado.",
+        "B) União, Estados e Distrito Federal no âmbito do art. 24 da CF/88.",
+        "C) Exclusivamente ao Senado Federal por resolução.",
+        "D) Aos Conselhos Regionais de Engenharia."
+      ],
+      "correctAnswer": "B) União, Estados e Distrito Federal no âmbito do art. 24 da CF/88.",
+      "explanation": "O art. 24, VI e VIII, elenca proteção ao meio ambiente e controle da poluição como competências legislativas concorrentes entre União, Estados e DF."
+    }
+  ]
+},
+
+{
+  "nomeTema": "Direito Constitucional - Base e Objetivos da Ordem Social",
+  "questoes": [
+    {
+      "id": 1,
+      "question": "De acordo com o art. 193 da Constituição Federal de 1988, a ordem social tem como base e como objetivo, respectivamente:",
+      "options": [
+        "A) O capital financeiro internacional e o lucro corporativo máximo.",
+        "B) O trabalho, e como objetivo o bem-estar e a justiça sociais.",
+        "C) A arrecadação tributária federal e o superávit primário obrigatório.",
+        "D) A propriedade privada absoluta e a livre concorrência sem regulação."
+      ],
+      "correctAnswer": "B) O trabalho, e como objetivo o bem-estar e a justiça sociais.",
+      "explanation": "O art. 193 da CF/88 estabelece expressamente que a ordem social tem como base o trabalho, e como objetivo o bem-estar e a justiça sociais."
+    },
+    {
+      "id": 2,
+      "question": "A norma contida no art. 193 da Constituição Federal possui, na dogmática do direito público contemporâneo:",
+      "options": [
+        "A) Eficácia meramente moral, sem qualquer repercussão jurídica ou vinculação para o legislador.",
+        "B) Força normativa e eficácia irradiante, servindo de vetor interpretativo e limite material para o cumprimento dos objetivos do Estado Democrático e Social de Direito.",
+        "C) Validade exclusiva para estrangeiros residentes em zonas de fronteira.",
+        "D) Aplicação restrita aos litígios de competência da Justiça do Trabalho."
+      ],
+      "correctAnswer": "B) Força normativa e eficácia irradiante, servindo de vetor interpretativo e limite material para o cumprimento dos objetivos do Estado Democrático e Social de Direito.",
+      "explanation": "Os princípios e objetivos da ordem social possuem eficácia jurídica, vinculando os poderes públicos e orientando a exegese constitucional."
+    },
+    {
+      "id": 3,
+      "question": "Para alcançar o objetivo de bem-estar e justiça sociais fixados no art. 193, o Estado brasileiro compromete-se a garantir direitos fundamentais integrados, entre os quais NÃO se inclui expressamente:",
+      "options": [
+        "A) A saúde e a previdência social.",
+        "B) A educação, a cultura e o desporto.",
+        "C) A abolição definitiva do sufrágio universal nas eleições.",
+        "D) O meio ambiente ecologicamente equilibrado."
+      ],
+      "correctAnswer": "C) A abolição definitiva do sufrágio universal nas eleições.",
+      "explanation": "A abolição do sufrágio universal é absurda e inconstitucional. O parágrafo único do art. 193 elenca saúde, previdência, educação, cultura, meio ambiente, etc."
+    },
+    {
+      "id": 4,
+      "question": "Assinale a alternativa correta sobre a escolha do 'trabalho' como base da ordem social na Constituição de 1988:",
+      "options": [
+        "A) Reflete a opção pelo Estado Social de Direito, valorizando a laborterapia e a dignidade da pessoa humana através da atividade produtiva regulada.",
+        "B) Significa que apenas trabalhadores autônomos possuem direitos fundamentais oponíveis ao Estado.",
+        "C) Isenta o empregador de cumprir normas trabalhistas de proteção à saúde.",
+        "D) Transforma o direito do trabalho em matéria de competência municipal exclusiva."
+      ],
+      "correctAnswer": "A) Reflete a opção pelo Estado Social de Direito, valorizando a laborterapia e a dignidade da pessoa humana através da atividade produtiva regulada.",
+      "explanation": "Eleger o trabalho como base da ordem social expressa o compromisso com a centralidade do trabalho humano digno no Estado Social."
+    },
+    {
+      "id": 5,
+      "question": "No que tange aos objetivos da ordem social, a busca pela 'justiça social' impõe ao Estado o dever de:",
+      "options": [
+        "A) Reduzir desigualdades regionais e sociais, garantindo um patamar mínimo existencial a todos os cidadãos.",
+        "B) Extinguir todos os impostos federais de forma linear.",
+        "C) Privatizar a totalidade dos serviços públicos de saúde em quarenta e oito horas.",
+        "D) Conceder subsídios financeiros exclusivos a instituições financeiras privadas."
+      ],
+      "correctAnswer": "A) Reduzir desigualdades regionais e sociais, garantindo um patamar mínimo existencial a todos os cidadãos.",
+      "explanation": "A justiça social conecta-se diretamente à erradicação da pobreza, redução de desigualdades e efetivação do mínimo existencial."
+    },
+    {
+      "id": 6,
+      "question": "A ordem econômica e financeira (Título VII) e a ordem social (Título VIII) da Constituição Federal de 1988 harmonizam-se sob qual premissa fundamental?",
+      "options": [
+        "A) A primazia absoluta do capital financeiro sobre os direitos humanos fundamentais.",
+        "B) A subordinação da atividade econômica aos ditames da justiça social e da dignidade da pessoa humana.",
+        "C) A total separação entre economia e bem-estar social, sendo vedada intervenção estatal.",
+        "D) A extinção do direito de propriedade privada em prol de cooperativas estatais."
+      ],
+      "correctAnswer": "B) A subordinação da atividade econômica aos ditames da justiça social e da dignidade da pessoa humana.",
+      "explanation": "A ordem econômica (art. 170) funda-se na valorização do trabalho humano e na justiça social, dialogando diretamente com a base da ordem social."
+    },
+    {
+      "id": 7,
+      "question": "Se uma lei ordinária federal tentar suprimir programas essenciais de amparo à velhice e à infância sem justificativa orçamentária idônea ou alternativa compensatória, tal norma poderá ser combatida por violar:",
+      "options": [
+        "A) O princípio da anterioridade tributária anual.",
+        "B) Os objetivos fundamentais da ordem social e o princípio da proibição de retrocesso social.",
+        "C) A competência privativa dos municípios para legislar sobre trânsito.",
+        "D) As regras de patrulhamento ostensivo rodoviário."
+      ],
+      "correctAnswer": "B) Os objetivos fundamentais da ordem social e o princípio da proibição de retrocesso social.",
+      "explanation": "A supressão arbitrária de pisos sociais consolidados fere a ordem social e o princípio da vedação ao retrocesso."
+    },
+    {
+      "id": 8,
+      "question": "O princípio da solidariedade social, expresso nos objetivos do art. 193, reflete-se com maior clareza jurídica em qual dos seguintes subsistemas da Constituição?",
+      "options": [
+        "A) Na Seguridade Social (Saúde, Previdência e Assistência Social) e no financiamento tributário redistributivo.",
+        "B) Nas normas de trânsito interestadual de cargas.",
+        "C) Na organização de patentes militares das Forças Armadas.",
+        "D) Nos prazos decadenciais do Mandado de Segurança."
+      ],
+      "correctAnswer": "A) Na Seguridade Social (Saúde, Previdência e Assistência Social) e no financiamento tributário redistributivo.",
+      "explanation": "A solidariedade social é o princípio estruturante da Seguridade Social e das finanças públicas solidárias."
+    },
+    {
+      "id": 9,
+      "question": "Assinale a alternativa correta quanto ao alcance dos direitos sociais garantidos sob a égide da ordem social:",
+      "options": [
+        "A) Destinam-se exclusivamente a cidadãos brasileiros natos maiores de idade.",
+        "B) Vinculam tanto o Estado quanto os particulares, irradiando eficácia para a promoção da justiça social.",
+        "C) Possuem eficácia meramente programática dispensável de observância por juízes.",
+        "D) Podem ser abolidos por maioria simples no Senado Federal."
+      ],
+      "correctAnswer": "B) Vinculam tanto o Estado quanto os particulares, irradiando eficácia para a promoção da justiça social.",
+      "explanation": "Os direitos sociais vinculam o Estado e a sociedade na busca da justiça social."
+    },
+    {
+      "id": 10,
+      "question": "A competência para legislar sobre seguridade social (previdência, assistência social) rege-se pelo princípio da competência:",
+      "options": [
+        "A) Exclusiva municipal.",
+        "B) Concorrente entre União, Estados e Distrito Federal (art. 24, XII, da CF/88).",
+        "C) Privativa de tribunais regionais do trabalho.",
+        "D) Reservada a corporações privadas de comércio."
+      ],
+      "correctAnswer": "B) Concorrente entre União, Estados e Distrito Federal (art. 24, XII, da CF/88).",
+      "explanation": "O art. 24, XII, estabelece competência legislativa concorrente sobre previdência social e proteção e defesa da saúde."
+    },
+    {
+      "id": 11,
+      "question": "A dignidade da pessoa humana, fundamento da República (art. 1º, III), atua em conjunto com a base e os objetivos da ordem social (art. 193) para:",
+      "options": [
+        "A) Assegurar condições existenciais mínimas de vida com atendimento à saúde, moradia, trabalho e previdência.",
+        "B) Restringir o acesso à justiça de pessoas hipossuficientes.",
+        "C) Permitir a expropriação de bens sem indenização em causas civis particulares.",
+        "D) Centralizar o poder político no Chefe do Poder Executivo."
+      ],
+      "correctAnswer": "A) Assegurar condições existenciais mínimas de vida com atendimento à saúde, moradia, trabalho e previdência.",
+      "explanation": "A dignidade humana e os objetivos da ordem social convergem para garantir o mínimo existencial."
+    },
+    {
+      "id": 12,
+      "question": "O princípio da universalidade da cobertura e do atendimento, diretriz da Seguridade Social, significa que:",
+      "options": [
+        "A) Apenas contribuintes de alta renda podem utilizar hospitais públicos.",
+        "B) A rede de proteção social deve abranger o maior número possível de contingências sociais e alcançar todos os que se encontrem no território nacional necessitando de amparo (como na saúde e assistência).",
+        "C) O atendimento médico é restrito a cidadãos encarregados de funções públicas federais.",
+        "D) Ninguém pode pagar consultas particulares em clínicas médicas."
+      ],
+      "correctAnswer": "B) A rede de proteção social deve abranger o maior número possível de contingências sociais e alcançar todos os que se encontrem no território nacional necessitando de amparo (como na saúde e assistência).",
+      "explanation": "Universalidade da cobertura (riscos protegidos) e do atendimento (pessoas alcançadas) é dogma da Seguridade Social."
+    },
+    {
+      "id": 13,
+      "question": "Assinale a alternativa correta sobre a responsabilidade do Estado na consecução dos objetivos da ordem social:",
+      "options": [
+        "A) O Estado é o principal garantidor, mas a sociedade também possui o dever de cooperação na defesa do bem-estar coletivo e do meio ambiente.",
+        "B) A responsabilidade é exclusiva da iniciativa privada por meio de doações filantrópicas.",
+        "C) O Estado atua sem qualquer vinculação a normas orçamentárias.",
+        "D) Os municípios estão isentos de qualquer participação social."
+      ],
+      "correctAnswer": "A) O Estado é o principal garantidor, mas a sociedade também possui o dever de cooperação na defesa do bem-estar coletivo e do meio ambiente.",
+      "explanation": "A ordem social resulta de ações integradas dos Poderes Públicos e da sociedade."
+    },
+    {
+      "id": 14,
+      "question": "Assinale a alternativa incorreta no tocante aos fundamentos e objetivos da ordem social:",
+      "options": [
+        "A) A ordem social tem como base o trabalho.",
+        "B) O objetivo central da ordem social é o bem-estar e a justiça sociais.",
+        "C) A seguridade social compreende ações de saúde, previdência e assistência social.",
+        "D) A assistência social exige contribuição financeira prévia obrigatória para sua concessão."
+      ],
+      "correctAnswer": "D) A assistência social exige contribuição financeira prévia obrigatória para sua concessão.",
+      "explanation": "A alternativa é INCORRETA (resposta da questão) porque a assistência social é **não contributiva**, sendo prestada a quem dela necessitar, sem exigir contribuições prévias."
+    },
+    {
+      "id": 15,
+      "question": "A vinculação orçamentária de recursos mínimos para a manutenção e desenvolvimento do ensino e para as ações e serviços públicos de saúde demonstra que:",
+      "options": [
+        "A) Os objetivos sociais da Constituição exigem financiamento público garantido por fontes fiscais específicas.",
+        "B) A saúde e a educação são mantidas exclusivamente por doações voluntárias de empresas estrangeiras.",
+        "C) O governo pode zerar o orçamento da saúde por decreto discricionário.",
+        "D) Os impostos arrecadados destinam-se unicamente ao pagamento da dívida externa."
+      ],
+      "correctAnswer": "A) Os objetivos sociais da Constituição exigem financiamento público garantido por fontes fiscais específicas.",
+      "explanation": "O custeio obrigatório da seguridade e da educação reflete a garantia financeira para alcançar a justiça social."
+    }
+  ]
 }
+
+
+
 
 
 
