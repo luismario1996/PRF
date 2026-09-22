@@ -185,6 +185,191 @@
           "explanation": "As cláusulas pétreas estão exaustivamente enumeradas no art. 60, § 4º, da CF/88. As regras de processo legislativo ordinário não se encontram no rol, logo, podem ser alteradas pelo Poder Constituinte Derivado Reformador (desde que respeitados os limites formais do art. 60)."
         }
       ]
+    },
+    {
+      "nomeTema": "Fundamentos do Poder Constituinte",
+      "questoes": [
+        {
+          "id": 1,
+          "question": "A teoria moderna do Poder Constituinte tem como marco histórico a obra clássica de Emmanuel-Joseph Sieyès, intitulada Qu'est-ce que le Tiers-État? (1789). Sob a ótica do pensamento de Sieyès, assinale a alternativa que descreve corretamente a natureza do Poder Constituinte Originário (PCO).",
+          "options": [
+            "A) O PCO confunde-se com o Poder Legislativo ordinário, exercendo funções administrativas de rotina e controle orçamentário.",
+            "B) O PCO é a própria Nação em ação, exercendo sua vontade soberana e pré-jurídica para criar e estruturar o Estado e os poderes constituídos.",
+            "C) O PCO é um poder subordinado ao parlamento anterior, devendo respeitar os limites procedimentais fixados na lei de regência prévia.",
+            "D) O PCO constitui mera manifestação de competência delegada pelo monarca ou governante de plantão."
+          ],
+          "correctAnswer": "B) O PCO é a própria Nação em ação, exercendo sua vontade soberana e pré-jurídica para criar e estruturar o Estado e os poderes constituídos.",
+          "explanation": "Para Sieyès, a Nação existe antes de tudo e é a fonte de tudo. O Poder Constituinte Originário emana diretamente da Nação, sendo pré-jurídico, soberano e responsável por instaurar tanto o Estado quanto os poderes constituídos."
+        },
+        {
+          "id": 2,
+          "question": "Na acepção da Teoria Decisionista de Carl Schmitt, a Constituição e o Poder Constituinte possuem uma natureza específica que os distingue da visão normativista. Acerca dessa perspectiva schmittiana, assinale a correta:",
+          "options": [
+            "A) A Constituição fundamenta-se exclusivamente em regras processuais de validação lógica pura, desprovida de qualquer carga política.",
+            "B) O poder constituinte é a pura vontade política, consubstanciada em uma decisão política fundamental tomada pelo seu titular sobre a forma de existência do Estado.",
+            "C) O poder constituinte é um mero reflexo do direito positivo anterior, encontrando sua validade na norma fundamental hipotética.",
+            "D) A Constituição resume-se ao conjunto de leis ordinárias aprovadas pelo congresso em período de normalidade institucional."
+          ],
+          "correctAnswer": "B) O poder constituinte é a pura vontade política, consubstanciada em uma decisão política fundamental tomada pelo seu titular sobre a forma de existência do Estado.",
+          "explanation": "Para Carl Schmitt (Teoria Decisionista), a Constituição não é um mero conjunto de normas, mas o fruto de uma decisão política fundamental tomada pelo titular do poder constituinte (o povo/Nação), que antecede e dá base a todo o ordenamento jurídico."
+        },
+        {
+          "id": 3,
+          "question": "Sob a ótica da Teoria Pura do Direito de Hans Kelsen, o fundamento de validade de todo o ordenamento jurídico e a gênese de uma nova constituição explicam-se por meio de:",
+          "options": [
+            "A) Uma decisão política metajurídica desvinculada de qualquer análise da eficácia social do poder.",
+            "B) A eficácia social de um fato histórico revolucionário que rompe a cadeia jurídica anterior, validado pela norma fundamental hipotética.",
+            "C) A submissão estrita do novo poder constituinte às leis civis e penais vigentes na monarquia ou república deposta.",
+            "D) A autorização expressa do Tribunal Internacional de Justiça para a criação de um novo Estado soberano."
+          ],
+          "correctAnswer": "B) A eficácia social de um fato histórico revolucionário que rompe a cadeia jurídica anterior, validado pela norma fundamental hipotética.",
+          "explanation": "Para Kelsen (normativismo), o poder constituinte originário não é um poder puramente metajurídico, mas o marco inicial de validade baseado na eficácia de um fato (revolução ou golpe) que rompe a ordem anterior, tendo como escora teórica a norma fundamental hipotética."
+        },
+        {
+          "id": 4,
+          "question": "Embora a dogmática clássica afirme que o Poder Constituinte Originário (PCO) é ilimitado juridicamente, a doutrina contemporânea e o constitucionalismo pós-positivista reconhecem a existência de limitações de natureza:",
+          "options": [
+            "A) Formal e processual estabelecidas expressamente pelo Congresso Nacional em regimento interno prévio.",
+            "B) Metajurídica, consubstanciadas nos direitos humanos universais, na dignidade da pessoa humana e nos ditames do direito natural.",
+            "C) Orçamentária e financeira impostas pelo Tribunal de Contas da União.",
+            "D) Temporal estrita de 5 anos improrrogáveis para qualquer nova manifestação legislativa."
+          ],
+          "correctAnswer": "B) Metajurídica, consubstanciadas nos direitos humanos universais, na dignidade da pessoa humana e nos ditames do direito natural.",
+          "explanation": "Apesar de juridicamente ilimitado no âmbito do direito positivo interno, o PCO moderno sofre restrições éticas e metajurídicas ligadas ao direito natural, aos direitos humanos e ao princípio da dignidade da pessoa humana."
+        },
+        {
+          "id": 5,
+          "question": "A respeito do fenômeno da recepção das normas infraconstitucionais anteriores pela nova ordem constitucional instaurada pelo Poder Constituinte Originário, assinale a alternativa correta:",
+          "options": [
+            "A) A recepção exige estrita compatibilidade material entre a norma pretérita e o novo texto constitucional, sendo irrelevante a compatibilidade formal.",
+            "B) Todas as normas anteriores são revogadas de forma automática e integral, exigindo nova votação legislativa para qualquer reaproveitamento.",
+            "C) As normas anteriores continuam em vigor com o mesmo fundamento de validade da constituição deposta.",
+            "D) Apenas as leis penais incriminadoras são recepcionadas, caindo por terra todo o direito civil e administrativo."
+          ],
+          "correctAnswer": "A) A recepção exige estrita compatibilidade material entre a norma pretérita e o novo texto constitucional, sendo irrelevante a compatibilidade formal.",
+          "explanation": "A recepção material ocorre quando a lei anterior é compatível com o conteúdo (matéria) da nova Constituição. Os aspectos formais de criação da lei antiga não são exigidos, pois o que importa é o conteúdo material."
+        },
+        {
+          "id": 6,
+          "question": "No tocante à distinção conceitual e prática entre o Poder Constituinte Originário e o Poder Constituinte Derivado Reformador, assinale a opção correta:",
+          "options": [
+            "A) Ambos possuem exatamente a mesma natureza jurídica, diferenciando-se apenas pelo quorum numérico de aprovação parlamentar.",
+            "B) O originário é um poder de fato, inaugural e ilimitado; o derivado é um poder de direito, instituído e condicionado.",
+            "C) O derivado reformador pode inovar livremente a federação, abolindo-a por completo, prerrogativa que o originário não possui.",
+            "D) O originário submete-se integralmente ao rito de votação em dois turcos previsto no art. 60 da CF/88."
+          ],
+          "correctAnswer": "B) O originário é um poder de fato, inaugural e ilimitado; o derivado é um poder de direito, instituído e condicionado.",
+          "explanation": "O PCO é inicial, incondicionado e de fato (cria a ordem). O derivado (reformador) é instituído pela Constituição, subordinado a regras formais (rito) e materiais (limites expressos e implícitos)."
+        },
+        {
+          "id": 7,
+          "question": "A teoria institucionalista de Maurice Hauriou contribuiu para a compreensão dos fundamentos do poder constituinte ao enfatizar que:",
+          "options": [
+            "A) O poder constituinte surge da necessidade de fundar uma instituição duradoura (o Estado) capaz de garantir a ordem social e a paz jurídica.",
+            "B) A soberania pertence exclusivamente aos magistrados de cúpula dos tribunais de justiça.",
+            "C) As constituições escritas são desnecessárias, bastando os decretos ministeriais provisórios.",
+            "D) O poder constituinte é efêmero e extingue-se no mesmo dia da sua convocação."
+          ],
+          "correctAnswer": "A) O poder constituinte surge da necessidade de fundar uma instituição duradoura (o Estado) capaz de garantir a ordem social e a paz jurídica.",
+          "explanation": "Para Hauriou, o foco da teoria institucionalista reside na criação e consolidação de instituições permanentes — primacialmente o Estado — capazes de perdurar no tempo e ordenar a sociedade."
+        },
+        {
+          "id": 8,
+          "question": "Assinale a alternativa que indica corretamente uma característica intrínseca do atributo da 'incondicionalidade' do Poder Constituinte Originário:",
+          "options": [
+            "A) A necessidade de aprovação prévia por 3/5 dos membros do Senado Federal.",
+            "B) A ausência de submissão a regras formais, ritos, prazos ou solenidades pré-fixadas para a sua manifestação.",
+            "C) A obrigatoriedade de sanção pelo Presidente da República em exercício.",
+            "D) O dever de obediência estrita às emendas constitucionais anteriores."
+          ],
+          "correctAnswer": "B) A ausência de submissão a regras formais, ritos, prazos ou solenidades pré-fixadas para a sua manifestação.",
+          "explanation": "Incondicionado significa que o PCO não precisa seguir ritos, prazos ou formas impostas por nenhuma lei anterior; ele dita as próprias regras de estruturação e funcionamento."
+        },
+        {
+          "id": 9,
+          "question": "Considerando os debates doutrinários sobre a titularidade do Poder Constituinte Originário nas democracias constitucionais contemporâneas, é correto afirmar que:",
+          "options": [
+            "A) A titularidade pertence aos órgãos de cúpula do Poder Judiciário.",
+            "B) A titularidade pertence ao povo (soberania popular), enquanto o exercício pode ser direto ou por meio de representantes eleitos (Assembleia Constituinte).",
+            "C) A titularidade pertence exclusivamente aos partidos políticos com registro definitivo no Tribunal Superior Eleitoral.",
+            "D) A titularidade é exercida de forma vitalícia pelos chefes das Forças Armadas."
+          ],
+          "correctAnswer": "B) A titularidade pertence ao povo (soberania popular), enquanto o exercício pode ser direto ou por meio de representantes eleitos (Assembleia Constituinte).",
+          "explanation": "O titular legítimo do PCO é o povo (soberania popular). Embora a titularidade seja intransmissível e pertença ao povo, o seu exercício concreto costuma ocorrer por meio de representantes reunidos em Assembleia Constituinte."
+        },
+        {
+          "id": 10,
+          "question": "Sobre o conceito de desconstitucionalização, defendido por parte da dogmática constitucional em caso de ruptura e surgimento de uma nova Constituição, assinale a correta:",
+          "options": [
+            "A) Ocorre quando as normas da Constituição anterior continuam a valer, automaticamente, com status de leis complementares.",
+            "B) Consiste na possibilidade de a Constituição anterior ser mantida em vigor, rebaixada ao patamar de lei ordinária, desde que haja expressa ou tácita vontade do novo PCO.",
+            "C) Trata-se de mecanismo proibido por todas as constituições democráticas do mundo ocidental.",
+            "D) É o ato pelo qual o Congresso Nacional anula uma emenda constitucional por vício de iniciativa."
+          ],
+          "correctAnswer": "B) Consiste na possibilidade de a Constituição anterior ser mantida em vigor, rebaixada ao patamar de lei ordinária, desde que haja expressa ou tácita vontade do novo PCO.",
+          "explanation": "A desconstitucionalização é o fenômeno no qual preceitos da Constituição anterior passam a integrar a nova ordem jurídica não mais como normas constitucionais, mas rebaixados à condição de legislação ordinária, dependendo da vontade do novo constituinte."
+        },
+        {
+          "id": 11,
+          "question": "A distinção entre Poder Constituinte Originário e Poder Constituinte Derivado Decorrente reside no fato de que o segundo:",
+          "options": [
+            "A) Cria a República Federativa do Brasil e define os fundamentos do Estado soberano.",
+            "B) É exercido pelos Estados-Membros para elaborar suas próprias Constituições, subordinando-se aos princípios da Constituição Federal.",
+            "C) Altera as cláusulas pétreas da Constituição Federal mediante referendo popular.",
+            "D) Substitui o Supremo Tribunal Federal em caso de conflito federativo."
+          ],
+          "correctAnswer": "B) É exercido pelos Estados-Membros para elaborar suas próprias Constituições, subordinando-se aos princípios da Constituição Federal.",
+          "explanation": "O poder decorrente é a prerrogativa conferida aos Estados-Membros da federação de criarem suas próprias Constituições estaduais, devendo respeito obrigatório aos princípios e regras da Constituição Federal (princípio da simetria e normas de reprodução obrigatória)."
+        },
+        {
+          "id": 12,
+          "question": "No que tange aos limites implícitos ao poder de reforma constitucional (poder derivado reformador), a doutrina e a jurisprudência apontam como vedação incontroversa:",
+          "options": [
+            "A) A proibição de alterar o número de deputados federais de um determinado Estado da Federação.",
+            "B) A proibição de suprimir o próprio titular do poder constituinte ou abolir o mecanismo de alteração das cláusulas pétreas (dupla revisão).",
+            "C) A vedação absoluta de criar novos municípios por lei estadual.",
+            "D) A proibição de reajustar os vencimentos dos servidores públicos federais acima da inflação."
+          ],
+          "correctAnswer": "B) A proibição de suprimir o próprio titular do poder constituinte ou abolir o mecanismo de alteração das cláusulas pétreas (dupla revisão).",
+          "explanation": "As limitações implícitas impedem, por exemplo, a chamada 'dupla revisão' (mudar a regra de proteção para depois burlar a cláusula pétrea) e a destruição da soberania popular (o titular do poder)."
+        },
+        {
+          "id": 13,
+          "question": "Assinale a alternativa que descreve corretamente a atuação do Supremo Tribunal Federal (STF) no controle de constitucionalidade de Emendas Constitucionais:",
+          "options": [
+            "A) O STF não possui competência para analisar Emendas Constitucionais, visto que são atos políticos insuscetíveis de controle jurisdicional.",
+            "B) O STF exerce controle repressivo abstrato ou difuso sobre Emendas Constitucionais, podendo invalidá-las se afrontarem limites formais ou materiais (cláusulas pétreas).",
+            "C) O controle de constitucionalidade de PECs só pode ser feito de forma preventiva pelo próprio Presidente da República antes da votação.",
+            "D) As Emendas Constitucionais possuem força normativa superior ao próprio preâmbulo da Constituição original, sendo imunes a qualquer controle."
+          ],
+          "correctAnswer": "B) O STF exerce controle repressivo abstrato ou difuso sobre Emendas Constitucionais, podendo invalidá-las se afrontarem limites formais ou materiais (cláusulas pétreas).",
+          "explanation": "O STF tem jurisprudência pacífica no sentido de que Emendas Constitucionais podem ser objeto de controle de constitucionalidade (inclusive em sede de ADI), verificando se respeitaram os limites formais (art. 60) e materiais (cláusulas pétreas)."
+        },
+        {
+          "id": 14,
+          "question": "Em um cenário hipotético de revolução bem-sucedida que instaura uma nova ordem política, a jurisprudência e a teoria geral do direito público preveem que os atos praticados pelo governo deposto perdem sua validade originária, exceto quando:",
+          "options": [
+            "A) Houver ratificação expressa ou tácita pela nova ordem jurídica inaugurada pelo poder constituinte originário.",
+            "B) O parlamento anterior conceder anistia geral aos líderes revolucionários.",
+            "C) O Tribunal de Contas emitir parecer favorável à execução orçamentária anterior.",
+            "D) Os tratados internacionais forem denunciados em bloco pelo novo chefe de Estado."
+          ],
+          "correctAnswer": "A) Houver ratificação expressa ou tácita pela nova ordem jurídica inaugurada pelo poder constituinte originário.",
+          "explanation": "Com a quebra da ordem jurídica pelo PCO, os atos anteriores perdem validade própria, mas podem ser mantidos ou salvaguardados caso a nova ordem decida ratificá-los expressamente ou tacitamente (recepção/chancela)."
+        },
+        {
+          "id": 15,
+          "question": "A característica da 'autonomia' do Poder Constituinte Originário significa, em termos dogmáticos, que:",
+          "options": [
+            "A) O poder originário deve autofinanciar-se por meio de taxas cobradas dos contribuintes locais.",
+            "B) O criador da norma estabelece com total liberdade a forma de Estado, a forma de governo, o sistema de governo e o regime político que vigorarão.",
+            "C) O poder originário está condicionado às diretrizes estabelecidas por organismos internacionais de comércio.",
+            "D) A autonomia impede que o país mantenha relações diplomáticas com nações vizinhas."
+          ],
+          "correctAnswer": "B) O criador da norma estabelece com total liberdade a forma de Estado, a forma de governo, o sistema de governo e o regime político que vigorarão.",
+          "explanation": "A autonomia expressa a liberdade irrestrita do PCO para modelar livremente a estrutura política, jurídica e institucional do novo Estado, escolhendo federação ou unitarismo, república ou monarquia, presidencialismo ou parlamentarismo, etc."
+        }
+      ]
     }
   ]
 }
