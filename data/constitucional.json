@@ -2,36 +2,187 @@
   "materia": "Direito Constitucional",
   "temas": [
     {
-      "nomeTema": "Direitos e Garantias Fundamentais",
+      "nomeTema": "Poder Constituinte",
       "questoes": [
         {
           "id": 1,
-          "enunciado": "Segundo a Constituição Federal de 1988, os direitos e garantias fundamentais têm aplicação:",
-          "alternativas": [
-            "A) Apenas eficácia limitada.",
-            "B) Aplicação imediata.",
-            "C) Depende de regulamentação por lei complementar.",
-            "D) Aplicação restrita aos cidadãos brasileiros."
+          "question": "Acerca das características fundamentais do Poder Constituinte Originário (PCO) à luz da dogmática clássica de Emmanuel Joseph Sieyès, assinale a alternativa correta:",
+          "options": [
+            "A) O PCO é um poder condicionado e subordinado às normas substantivas da Constituição anterior que permaneçam válidas.",
+            "B) O PCO é um poder inicial, autônomo, incondicionado e ilimitado juridicamente, consubstanciando-se na fonte primária de criação de todo o ordenamento jurídico.",
+            "C) O PCO deriva diretamente da Constituição precedente por meio de um processo de transição pacífica e formalizada.",
+            "D) O PCO possui natureza de poder constituído, exercendo funções tipicamente legislativas ordinárias durante o período de vacância institucional."
           ],
-          "resposta": 1,
-          "comentario": "O art. 5°, § 1°, da CF/88 estabelece que as normas definidoras dos direitos e garantias fundamentais têm aplicação imediata."
-        }
-      ]
-    },
-    {
-      "nomeTema": "Nacionalidade",
-      "questoes": [
+          "correctAnswer": "B) O PCO é um poder inicial, autônomo, incondicionado e ilimitado juridicamente, consubstanciando-se na fonte primária de criação de todo o ordenamento jurídico.",
+          "explanation": "O Poder Constituinte Originário é o criador da nova ordem jurídica. Ele é inicial (inaugural), autônomo, incondicionado (não se submete a ritos prévios) e ilimitado juridicamente (não se vincula ao direito anterior)."
+        },
         {
           "id": 2,
-          "enunciado": "São brasileiros natos, entre outros:",
-          "alternativas": [
-            "A) Os nascidos no Brasil, ainda que de pais estrangeiros a serviço de seu país.",
-            "B) Os estrangeiros de qualquer nacionalidade residentes no Brasil há mais de 15 anos.",
-            "C) Os nascidos no estrangeiro, de pai brasileiro ou mãe brasileira, desde que sejam registrados em repartição brasileira competente.",
-            "D) Apenas os filhos de brasileiros natos nascidos no exterior."
+          "question": "No tocante ao Poder Constituinte Derivado Decorrente, previsto expressamente e implicitamente no ordenamento jurídico brasileiro (art. 25, caput, da CF/88), é correto afirmar que:",
+          "options": [
+            "A) Consiste na prerrogativa exclusiva do Congresso Nacional para editar emendas à Constituição Federal em dois turnos de votação.",
+            "B) É exercido pelos Municípios quando da elaboração de suas respectivas Leis Orgânicas, que possuem status equivalentes a Constituições Estaduais.",
+            "C) Refere-se à capacidade que os Estados-Membros possuem de organizar e elaborar suas próprias Constituições, devendo observar obrigatoriamente os princípios constitucionais sensíveis, estabelecidos e extensíveis da CF/88.",
+            "D) Pode alterar livremente as cláusulas pétreas da Constituição Federal, desde que haja aprovação de três quintos das Assembleias Legislativas."
           ],
-          "resposta": 2,
-          "comentario": "Conforme o art. 12, I, 'c', da CF/88, são brasileiros natos os nascidos no estrangeiro, de pai brasileiro ou mãe brasileira, desde que registrados..."
+          "correctAnswer": "C) Refere-se à capacidade que os Estados-Membros possuem de organizar e elaborar suas próprias Constituições, devendo observar obrigatoriamente os princípios constitucionais sensíveis, estabelecidos e extensíveis da CF/88.",
+          "explanation": "O Poder Constituinte Derivado Decorrente é a capacidade atribuída aos Estados-Membros da Federação para se auto-organizarem por meio de suas próprias Constituições, respeitando as limitações impostas pela CF/88 (princípios sensíveis, extensíveis e estabelecidos)."
+        },
+        {
+          "id": 3,
+          "question": "Sobre os limites circunstanciais ao poder de reforma constitucional previstos no art. 60, § 1º, da CF/88, assinale a alternativa correta:",
+          "options": [
+            "A) Durante a vigência de intervenção federal, estado de defesa ou estado de sítio, a Constituição não poderá ser emendada.",
+            "B) O Congresso Nacional pode aprovar e promulgar emendas constitucionais durante o estado de defesa, desde que a matéria não envolva direitos fundamentais.",
+            "C) A decretação de estado de sítio suspende apenas o trâmite das Propostas de Emenda Constitucional (PECs) de iniciativa parlamentar, mantendo íntegra a iniciativa do Presidente da República.",
+            "D) Os limites circunstanciais impedem unicamente a apresentação de novas PECs, sendo lícita a votação daquelas que já estavam em curso antes da decretação da crise institucional."
+          ],
+          "correctAnswer": "A) Durante a vigência de intervenção federal, estado de defesa ou estado de sítio, a Constituição não poderá ser emendada.",
+          "explanation": "O art. 60, § 1º, da CF/88 estabelece expressamente que a Constituição não poderá ser emendada na vigência de intervenção federal, de estado de defesa ou de estado de sítio. Trata-se de uma blindagem institucional temporária."
+        },
+        {
+          "id": 4,
+          "question": "No que tange às chamadas limitações materiais explícitas (cláusulas pétreas) ao poder de reforma constitucional (art. 60, § 4º, da CF/88), o STF possui entendimento consolidado de que:",
+          "options": [
+            "A) É vedada a deliberação de qualquer proposta de emenda tendente a abolir a forma federativa de Estado, o voto direto, secreto, universal e periódico, a separação dos poderes e os direitos e garantias individuais.",
+            "B) As cláusulas pétreas constituem proibições absolutas de qualquer modificação, impedindo inclusive ampliações benéficas de direitos fundamentais já previstos.",
+            "C) O princípio da separação dos poderes impede que o Poder Legislativo altere o número de Ministros do Supremo Tribunal Federal através de Emenda Constitucional.",
+            "D) O voto direto e secreto é cláusula pétrea imutável, o que torna inconstitucional qualquer adoção futura de voto facultativo no ordenamento pátrio."
+          ],
+          "correctAnswer": "A) É vedada a deliberação de qualquer proposta de emenda tendente a abolir a forma federativa de Estado, o voto direto, secreto, universal e periódico, a separação dos poderes e os direitos e garantias individuais.",
+          "explanation": "O art. 60, § 4º, proíbe emendas 'tendentes a abolir' as quatro cláusulas pétreas clássicas. A doutrina e o STF admitem alterações restritivas ou extensivas, desde que o núcleo essencial do princípio protegido não seja destruído."
+        },
+        {
+          "id": 5,
+          "question": "A respeito do instituto da mutação constitucional, figura estudada no âmbito da dinâmica e interpretação da Constituição, assinale a correta:",
+          "options": [
+            "A) Trata-se de um mecanismo de alteração do texto escrito da Constituição por meio de votação qualificada no Congresso Nacional, sem necessidade de referendo popular.",
+            "B) Consiste na modificação do sentido interpretativo de uma norma constitucional, alterando-lhe o alcance prático sem que ocorra qualquer modificação no seu texto escrito.",
+            "C) Equipara-se ao Poder Constituinte Derivado Revisor, sendo aplicado exclusivamente para atualizar preceitos desatualizados do texto original.",
+            "D) É um procedimento privativo do Supremo Tribunal Federal para revogar normas constitucionais originárias consideradas incompatíveis com tratados internacionais."
+          ],
+          "correctAnswer": "B) Consiste na modificação do sentido interpretativo de uma norma constitucional, alterando-lhe o alcance prático sem que ocorra qualquer modificação no seu texto escrito.",
+          "explanation": "A mutação constitucional é uma mudança informal da Constituição. O texto escrito permanece inalterado, mas a interpretação dada pelos órgãos aplicadores (especialmente o STF) se modifica ao longo do tempo em virtude da realidade social."
+        },
+        {
+          "id": 6,
+          "question": "Sobre a titularidade e o exercício do Poder Constituinte Originário na ordem constitucional democrática brasileira, assinale a opção correta:",
+          "options": [
+            "A) A titularidade e o exercício pertencem cumulativamente ao Congresso Nacional, que atua como assembleia constituinte permanente.",
+            "B) A titularidade pertence ao povo (soberania popular), enquanto o exercício do poder de instituir uma nova Constituição se dá, ordinariamente, por meio de representantes eleitos para uma Assembleia Constituinte.",
+            "C) O exercício do PCO pertence privativamente ao Chefe do Poder Executivo Federal em momentos de grave crise institucional.",
+            "D) A titularidade pertence ao Estado soberano, não havendo qualquer vinculação jurídica ou política com a vontade popular."
+          ],
+          "correctAnswer": "B) A titularidade pertence ao povo (soberania popular), enquanto o exercício do poder de instituir uma nova Constituição se dá, ordinariamente, por meio de representantes eleitos para uma Assembleia Constituinte.",
+          "explanation": "Na democracia moderna, a soberania popular dita que o povo é o titular do poder constituinte. Contudo, o exercício costuma ser delegado a representantes eleitos especificamente para esse fim (Assembleia Constituinte)."
+        },
+        {
+          "id": 7,
+          "question": "O Poder Constituinte Derivado Revisor encontra previsão específica na história constitucional brasileira recente. Sobre esse poder, assinale a correta:",
+          "options": [
+            "A) Foi previsto de forma permanente no corpo principal da CF/88, podendo ser acionado a qualquer momento mediante convocação de maioria absoluta.",
+            "B) Foi instituído de forma transitória pelo art. 3º do ADCT da CF/88, sendo exercido após cinco anos da promulgação da Constituição por meio de sessão unicameral, encontrando-se atualmente exaurido.",
+            "C) Confunde-se com o poder decorrente, sendo exercido pelos governadores dos Estados em reuniões do Conselho da República.",
+            "D) Tem a prerrogativa imprescritível de revogar integralmente o preâmbulo da Constituição Federal."
+          ],
+          "correctAnswer": "B) Foi instituído de forma transitória pelo art. 3º do ADCT da CF/88, sendo exercido após cinco anos da promulgação da Constituição por meio de sessão unicameral, encontrando-se atualmente exaurido.",
+          "explanation": "O poder revisor foi uma modalidade de revisão constitucional simplificada prevista no art. 3º do ADCT (após 5 anos da promulgação da CF/88, realizado em turno único por maioria absoluta). Ele teve vigência única e exauriu-se."
+        },
+        {
+          "id": 8,
+          "question": "A respeito das limitações implícitas ao poder de reforma constitucional (art. 60 da CF/88), a doutrina e a jurisprudência majoritárias apontam como exemplo clássico:",
+          "options": [
+            "A) A proibição de abolir a forma republicana de governo, embora a República não conste expressamente no rol do art. 60, § 4º.",
+            "B) A proibição de alterar o procedimento de tramitação das leis complementares em âmbito federal.",
+            "C) A vedação de alteração da titularidade do poder constituinte e a proibição de dupla revisão para burlar as cláusulas pétreas.",
+            "D) A obrigatoriedade de submeter todas as Propostas de Emenda Constitucional a referendo popular obrigatório."
+          ],
+          "correctAnswer": "C) A vedação de alteração da titularidade do poder constituinte e a proibição de dupla revisão para burlar as cláusulas pétreas.",
+          "explanation": "As limitações implícitas são aquelas que decorrem da lógica do sistema constitucional. Destacam-se a proibição de alterar o titular do poder constituinte e a vedação da chamada 'dupla revisão' (tentar alterar o art. 60 para facilitar a abolição de cláusulas pétreas)."
+        },
+        {
+          "id": 9,
+          "question": "Acerca do controle preventivo de constitucionalidade exercido no âmbito do processo legislativo de emendas constitucionais, assinale a correta:",
+          "options": [
+            "A) A Proposta de Emenda Constitucional (PEC) que tenda a abolir cláusula pétrea não pode sequer ser objeto de deliberação, devendo ser arquivada de ofício pela Mesa Diretora da Casa legislativa.",
+            "B) O Presidente da República possui a prerrogativa de vetar projetos de Emenda Constitucional aprovados pelo Congresso Nacional.",
+            "C) As Comissões Parlamentares de Inquérito (CPIs) possuem competência exclusiva para suspender a tramitação de PECs inconstitucionais.",
+            "D) O controle preventivo de PECs cabe exclusivamente ao Tribunal de Contas da União antes da votação em primeiro turno."
+          ],
+          "correctAnswer": "A) A Proposta de Emenda Constitucional (PEC) que tenda a abolir cláusula pétrea não pode sequer ser objeto de deliberação, devendo ser arquivada de ofício pela Mesa Diretora da Casa legislativa.",
+          "explanation": "Conforme o art. 60, § 4º, c/c o art. 60, II, da CF/88, uma PEC que atente contra cláusula pétrea possui vício de inconstitucionalidade formal/material que impede sua própria admissibilidade e deliberação, justificando seu arquivamento."
+        },
+        {
+          "id": 10,
+          "question": "Sob a perspectiva das teorias clássicas do poder constituinte elaboradas por Carl Schmitt e Hans Kelsen, assinale a alternativa que retrata com precisão a visão schmittiana:",
+          "options": [
+            "A) A Constituição fundamenta-se estritamente na norma hipotética fundamental, sendo o poder constituinte uma mera construção lógico-jurídica.",
+            "B) A Constituição fundamenta-se na decisão política fundamental (vontade política) do titular do poder constituinte, que precede e condiciona o próprio ordenamento jurídico positivo.",
+            "C) O poder constituinte é um produto derivado do direito internacional público, subordinado aos tratados globais de direitos humanos.",
+            "D) Não há distinção entre poder constituinte originário e poderes constituídos, pois todos emanam de um contrato social abstrato."
+          ],
+          "correctAnswer": "B) A Constituição fundamenta-se na decisão política fundamental (vontade política) do titular do poder constituinte, que precede e condiciona o próprio ordenamento jurídico positivo.",
+          "explanation": "Para Carl Schmitt (teoria decisionista), a Constituição é a decisão política fundamental do titular do poder constituinte (o povo ou a nação), que antecede o direito positivo. Kelsen, por sua vez, enxerga sob a ótica puramente jurídica (normativa)."
+        },
+        {
+          "id": 11,
+          "question": "Um Estado-Membro da Federação brasileira edita sua Constituição Estadual estabelecendo a criação de um Tribunal de Contas Municipal próprio para os seus municípios. À luz da jurisprudência do STF sobre o Poder Constituinte Decorrente, é correto afirmar:",
+          "options": [
+            "A) A criação é constitucional, pois decorre da ampla autonomia financeira e administrativa conferida aos Estados-Membros pelo princípio federativo.",
+            "B) A criação é inconstitucional, pois a CF/88 veda expressamente a criação de novos Tribunais de Contas Municipais (EC nº 20/1998), aplicando-se o princípio da simetria e os limites ao poder decorrente.",
+            "C) A medida é válida desde que aprovada por maioria absoluta em plebiscito local realizado com os prefeitos dos municípios afetados.",
+            "D) O poder decorrente estadual possui soberania plena, podendo dispor livremente sobre órgãos de controle externo independentemente da União."
+          ],
+          "correctAnswer": "B) A criação é inconstitucional, pois a CF/88 veda expressamente a criação de novos Tribunais de Contas Municipais (EC nº 20/1998), aplicando-se o princípio da simetria e os limites ao poder decorrente.",
+          "explanation": "O STF firmou tese de que o Poder Constituinte Decorrente dos Estados encontra limites nos princípios constitucionais federais. O art. 75, § 4º, incluído pela EC 20/98, proíbe a criação de novos TCMs, vinculando os Estados."
+        },
+        {
+          "id": 12,
+          "question": "Acerca da inconstitucionalidade de Emendas Constitucionais e o controle repressivo exercido pelo STF, assinale a opção correta:",
+          "options": [
+            "A) O STF pode exercer o controle abstrato de constitucionalidade sobre Emendas Constitucionais, declarando-as nulas se violarem cláusulas pétreas ou limites formais de tramitação.",
+            "B) As Emendas Constitucionais estão imunes a qualquer controle de constitucionalidade, por se tratarem de normas supremas equivalentes ao poder originário.",
+            "C) O controle repressivo de Emendas Constitucionais compete privativamente ao Senado Federal por meio de resolução legislativa.",
+            "D) A declaração de inconstitucionalidade de uma EC possui efeitos ex nunc automáticos, sem ressalva de nenhuma espécie."
+          ],
+          "correctAnswer": "A) O STF pode exercer o controle abstrato de constitucionalidade sobre Emendas Constitucionais, declarando-as nulas se violarem cláusulas pétreas ou limites formais de tramitação.",
+          "explanation": "O STF consolidou o entendimento de que Emendas Constitucionais (produto do poder derivado reformador) submetem-se ao controle de constitucionalidade (concentrado e difuso), podendo ser invalidadas se afrontarem limites formais ou materiais (cláusulas pétreas)."
+        },
+        {
+          "id": 13,
+          "question": "Assinale a alternativa que descreve corretamente a distinção entre poder constituinte originário e poder derivado reformador no tocante à sua natureza jurídica:",
+          "options": [
+            "A) Ambos possuem a mesma natureza jurídica, diferenciando-se apenas pelo quorum de aprovação exigido nas casas legislativas.",
+            "B) O originário é um poder de fato e criador; o derivado reformador é um poder de direito, instituído e constituído.",
+            "C) O originário é subordinado às normas internacionais, enquanto o derivado reformador é plenamente autônomo e ilimitado.",
+            "D) O originário exerce funções administrativas ordinárias, ao passo que o derivado reformador exerce a soberania absoluta do Estado."
+          ],
+          "correctAnswer": "B) O originário é um poder de fato e criador; o derivado reformador é um poder de direito, instituído e constituído.",
+          "explanation": "O PCO é um poder de fato (político e incondicionado), enquanto o derivado reformador é um poder de direito (instituído pela própria Constituição e condicionado pelas regras por ela estipuladas)."
+        },
+        {
+          "id": 14,
+          "question": "A respeito do fenômeno da recepção das normas constitucionais anteriores e o papel do Poder Constituinte Originário, assinale a opção correta:",
+          "options": [
+            "A) O novo PCO sempre revoga integralmente e de forma automática todas as normas infraconstitucionais anteriores, exigindo um novo processo legislativo para recriá-las.",
+            "B) A nova Constituição pode recepcionar normas anteriores desde que haja compatibilidade material com o novo texto constitucional, não importando a compatibilidade formal.",
+            "C) A desconstitucionalização, embora admitida em tese pela teoria clássica, exige manifestação expressa ou tácita do novo PCO para que a constituição anterior permaneça em vigor com status de lei ordinária, tese rejeitada pelo STF brasileiro.",
+            "D) As leis complementares anteriores são recepcionadas obrigatoriamente com status de emenda constitucional na nova ordem."
+          ],
+          "correctAnswer": "C) A desconstitucionalização, embora admitida em tese pela teoria clássica, exigiria manifestação expressa ou tácita do novo PCO para que a constituição anterior permanecesse em vigor com status de lei ordinária, tese rejeitada pelo STF brasileiro.",
+          "explanation": "O STF adota o entendimento de que o ordenamento constitucional anterior é sepultado com a chegada de um novo PCO, operando-se a revogação total (ab-rogação) da Constituição velha. A desconstitucionalização não é presumida no direito brasileiro."
+        },
+        {
+          "id": 15,
+          "question": "Um grupo de parlamentares apresenta uma Proposta de Emenda Constitucional com o objetivo de alterar o rito de tramitação das leis ordinárias no Congresso Nacional, flexibilizando prazos e suprimindo a exigência de votação em comissões temáticas. Sob a ótica do poder de reforma e dos limites constitucionais, assinale a correta:",
+          "options": [
+            "A) A PEC é inconstitucional por violar a forma federativa de Estado.",
+            "B) A PEC é formalmente e materialmente válida, pois as regras de processo legislativo ordinário não constituem cláusulas pétreas, podendo ser modificadas pelo poder reformador.",
+            "C) A alteração do processo legislativo ordinário exige necessariamente a convocação de uma Assembleia Nacional Constituinte exclusiva.",
+            "D) O tema de processo legislativo está blindado contra qualquer alteração por ser considerado direito individual intangível."
+          ],
+          "correctAnswer": "B) A PEC é formalmente e materialmente válida, pois as regras de processo legislativo ordinário não constituem cláusulas pétreas, podendo ser modificadas pelo poder reformador.",
+          "explanation": "As cláusulas pétreas estão exaustivamente enumeradas no art. 60, § 4º, da CF/88. As regras de processo legislativo ordinário não se encontram no rol, logo, podem ser alteradas pelo Poder Constituinte Derivado Reformador (desde que respeitados os limites formais do art. 60)."
         }
       ]
     }

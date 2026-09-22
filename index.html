@@ -262,12 +262,11 @@
             });
         }
 
-        function exibirQuestoesDoTema(indexTema) {
+      function exibirQuestoesDoTema(indexTema) {
             const temaObj = dadosMateriaAtual.temas[indexTema];
             const painel = document.getElementById('painel-conteudo');
             const btnVoltar = document.getElementById('btnVoltar');
 
-            // Mostra o botão de voltar e oculta a lista de temas, exibindo as questões
             btnVoltar.style.display = 'block';
             painel.innerHTML = `<h2>Tema: ${temaObj.nomeTema}</h2>`;
 
@@ -278,8 +277,9 @@
 
             temaObj.questoes.forEach((q, qIndex) => {
                 let htmlAlternativas = '';
-                q.alternativas.forEach((alt, altIndex) => {
-                    htmlAlternativas += `<li onclick="verificarResposta(this, ${altIndex}, ${q.resposta})">${alt}</li>`;
+                q.options.forEach((opt, optIndex) => {
+                    // Passamos o texto da opção selecionada para comparar com a resposta correta em formato string
+                    htmlAlternativas += `<li onclick="verificarResposta(this, '${opt.replace(/'/g, "\\'")}', '${q.correctAnswer.replace(/'/g, "\\'")}')">${opt}</li>`;
                 });
 
                 const card = document.createElement('div');
@@ -288,10 +288,10 @@
                 
                 card.innerHTML = `
                     <span class="tema-tag">${temaObj.nomeTema}</span>
-                    <p><strong>Questão ${qIndex + 1}:</strong> ${q.enunciado}</p>
+                    <p><strong>Questão ${qIndex + 1}:</strong> ${q.question}</p>
                     <ul class="alternativas">${htmlAlternativas}</ul>
                     <div class="comentario" id="${uniqueId}">
-                        <strong>Explicação:</strong> ${q.comentario}
+                        <strong>Explicação:</strong> ${q.explanation}
                     </div>
                 `;
                 painel.appendChild(card);
@@ -305,7 +305,8 @@
             }
         }
 
-        function verificarResposta(elemento, selecionada, correta) {
+
+        function verificarResposta(elemento, textoSelecionado, textoCorreto) {
             const pai = elemento.parentElement;
             const itens = pai.getElementsByTagName('li');
             
@@ -313,7 +314,8 @@
                 item.style.pointerEvents = 'none';
             }
 
-            if (selecionada === correta) {
+            // Compara o texto da opção clicada com a string correta
+            if (textoSelecionado === textoCorreto) {
                 elemento.style.backgroundColor = '#d4edda';
                 elemento.style.borderColor = '#c3e6cb';
                 elemento.style.color = '#155724';
@@ -321,9 +323,15 @@
                 elemento.style.backgroundColor = '#f8d7da';
                 elemento.style.borderColor = '#f5c6cb';
                 elemento.style.color = '#721c24';
-                itens[correta].style.backgroundColor = '#d4edda';
-                itens[correta].style.borderColor = '#c3e6cb';
-                itens[correta].style.color = '#155724';
+                
+                // Encontra e destaca a alternativa correta automaticamente
+                for (let item of itens) {
+                    if (item.textContent === textoCorreto) {
+                        item.style.backgroundColor = '#d4edda';
+                        item.style.borderColor = '#c3e6cb';
+                        item.style.color = '#155724';
+                    }
+                }
             }
 
             const cardPai = pai.closest('.question-card');
